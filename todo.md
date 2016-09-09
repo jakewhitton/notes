@@ -16,11 +16,15 @@ Key Dates:
 ##AP Gov  
 
 Homework:
- - Study for FRQ on Thursday(delayed to Friday if we don't finish unit on Wednesday)
+ - All homework due Wednesday
 
 ##AP Psych
 Homework:
- - none
+ - Summary for unit 1 due Thursday(9/15)
+  * and master note document
+ - Find a recent article, print it, highlight important things
+  * Half-page summary
+  * 5-points EC
 
 ##AP Compsci
 Homework:
