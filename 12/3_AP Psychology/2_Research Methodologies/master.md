@@ -1,3 +1,4 @@
+
 #Research Methodologies
 
 ##What is Psychology?
@@ -110,7 +111,7 @@ Correlations
 9. Treat participants with dignity and respect.
 
 
-##Distrobutions
+##Distributions
 
 **Percentile Ranking**
   - the percentage of scores that are below yours
