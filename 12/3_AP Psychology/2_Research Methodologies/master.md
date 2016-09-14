@@ -4,48 +4,47 @@
 ##What is Psychology?
 
 **Psychology** = study of behavior and mental processes  
-	- Not explicitly limited to humans; can be any cognitively advanced organism
+    - Not explicitly limited to humans; can be any cognitively advanced organism
 
 Goals of Psychology
-	- Describe
-		* HELLO WORLD
-  - Explain
-  - Predict
-  - Control
+    - Describe
+    - Explain
+    - Predict
+    - Control
 
 Scientific Method
-  1. Come up with a **testable** question
-    - Must be testable -- if it isn't, it's not science
-    - Come up with a hypothesis = an assertion about a phenomenon
-  2. Design a study
-    - Study must collect data to analyze
-    - Data should prove or dispove hypothesis
-  3. Analyze data
-    - Conclusions come from this analysis
-  4. Report Results
-    - Publication in a journal
+    1. Come up with a **testable** question
+        - Must be testable -- if it isn't, it's not science
+        - Come up with a hypothesis = an assertion about a phenomenon
+    2. Design a study
+        - Study must collect data to analyze
+        - Data should prove or dispove hypothesis
+    3. Analyze data
+        - Conclusions come from this analysis
+    4. Report Results
+        - Publication in a journal
 
 Theory vs Hypothesis
-  - **Theory** = a set of well-supported hypotheses that explain a phenomenon
-  - **Hypothesis** = an assertion about a particular aspect of a phenomenon
-    * Can be rejected or accepted
+    - **Theory** = a set of well-supported hypotheses that explain a phenomenon
+    - **Hypothesis** = an assertion about a particular aspect of a phenomenon
+        * Can be rejected or accepted
 
 Operational Definition
-  - An explicit, well-defined expounding of the procedures in an experiment
-  - Important for studies to be repeatable
+    - An explicit, well-defined expounding of the procedures in an experiment
+    - Important for studies to be repeatable
 
 Replication
-  - a re-do of a study to retest the hypothesis or account for variables not accounted for by the original study
+    - a re-do of a study to retest the hypothesis or account for variables not accounted for by the original study
 
 ##Types of studies
 
 Case Study
-  - An in-depth study of the details of one particular subject
-  - Hopefully, findings for the one can be generalized to the population
-  - Advantages:
-    * A lot of information/data to study
-  - Disadvantages:
-    * Conclusions cannot necessarily be generalized to others
+    - An in-depth study of the details of one particular subject
+    - Hopefully, findings for the one can be generalized to the population
+    - Advantages:
+        * A lot of information/data to study
+    - Disadvantages:
+        * Conclusions cannot necessarily be generalized to others
 
 Survey
   - A collection of self-reported data from individuals
