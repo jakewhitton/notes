@@ -1,12 +1,8 @@
 # TODO
 
 ##AP Lit  
- - Study for timed write
-
-Key Dates:
-
-  - 9/21 - Siddhartha Essay due & Timed writing on Siddhartha
-  - 9/23 - Group Test on Allusions(Greek and Judeo-Christian)
+  - Study for timed write
+  - SEE [KEY DATES](./12/1_AP Literature and Composition/keydates.md)
 
 ##AP Gov  
   - None
