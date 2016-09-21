@@ -9,7 +9,7 @@ Key Dates:
   - 9/23 - Group Test on Allusions(Greek and Judeo-Christian)
 
 ##AP Gov  
-  - All homework due Wednesday
+  - None
 
 ##AP Psych
   - None
