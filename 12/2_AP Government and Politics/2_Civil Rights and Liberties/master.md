@@ -1,3 +1,4 @@
+
 #Civil Rights and Civil Liberties
 
 ##Civil Liberties
@@ -22,5 +23,27 @@ Civil Rights:
   - 14th Amendment
     * *Equal Protection Clause*
       + >"No state shall deny to any person within its jurisdiction the equal protection of the laws."
+
+###Selective Incorporation
+  - The process by which fundamental civil liberties are extended from federal restrictions to include state restrictions
+  - *Gitlow v New York(1925)*
+    * Supreme court rules that freedom of speech and press apply to states as well
+    * Court ruled that it didn't meet "clear and present danger" conditions established in *Schenck v US(1919)*
+    * However, BoR application will be decided on a court-by-court basis
+
+
+Tinker v Demoine
+  - Kid wore black armband to school to protest Vietname war
+  - School punished him
+  - Supreme court ruled that it was not a "clear and present danger"
+
+###The First Amendment
+  - Protects freedom of speech, press, assembly, religion, and petition
+    * SPARP
+  - Freedom of religion
+    * *Free Excercise Clause*
+      + >[...] or prohibiting the free excorcise thereof.
+    * *Establishment Clause*
+      + >Congress shall make no law respecting an establishment of religion[...]
 
 
