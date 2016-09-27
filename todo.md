@@ -7,10 +7,12 @@
 ##AP Gov  
   - Supreme Court Case due friday
     * Reynolds V United States(1879)
-  - Notes due 
+  - Notes due Thursday or Friday(not sure)
+  - Assigned FRQ due Thursday or Friday(not sure)
 
 ##AP Psych
-  - None
+  - Reading Summaries due October 7th
+  - Notes due October 7th
 
 ##AP Compsci
-  - Internet Censoring Talk
+  - None
