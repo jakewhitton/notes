@@ -13,6 +13,7 @@
 ##AP Psych
   - Reading Summaries due October 7th
   - Notes due October 7th
+  - Bring book tomorrow(28th)
 
 ##AP Compsci
   - None
