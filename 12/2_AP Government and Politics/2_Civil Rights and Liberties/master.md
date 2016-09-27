@@ -4,6 +4,7 @@
 ##Civil Liberties
 
 Key questions:
+
   1. What is the basis for our liberties?
   2. What are "property rights"?
   3. Do we have a right to "privacy"?
@@ -11,6 +12,7 @@ Key questions:
 ###What is the difference?
 
 Civil Liberties:
+
   - Specific protections against government tyranny
     * The bill of rights
   - 14th Amendment
@@ -19,6 +21,7 @@ Civil Liberties:
       + Forms the basis of all civil liberties court cases
 
 Civil Rights:
+
   - Protections against *discrimination*
   - 14th Amendment
     * *Equal Protection Clause*
