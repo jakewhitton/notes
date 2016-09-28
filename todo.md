@@ -11,9 +11,11 @@
   - Assigned FRQ due Thursday or Friday(not sure)
 
 ##AP Psych
-  - Reading Summaries due October 7th
   - Notes due October 7th
-  - Bring book tomorrow(28th)
+  - Areas of the brain ws due Friday
 
 ##AP Compsci
   - None
+
+##Misc
+  - Research pandoc --bash-completion
