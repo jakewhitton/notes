@@ -1,14 +1,19 @@
 # TODO
 
 ##AP Lit  
-  - Study for timed write
+  - Mandala due Friday
   - SEE [KEY DATES](./12/1_AP Literature and Composition/keydates.md)
 
 ##AP Gov  
-  - None
+  - Supreme Court Case due friday
+    * Reynolds V United States(1879)
+  - Notes due Thursday or Friday(not sure)
+  - Assigned FRQ due Thursday or Friday(not sure)
 
 ##AP Psych
-  - None
+  - Reading Summaries due October 7th
+  - Notes due October 7th
+  - Bring book tomorrow(28th)
 
 ##AP Compsci
-  - Internet Censoring Talk
+  - None
