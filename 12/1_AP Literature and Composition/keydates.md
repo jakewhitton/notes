@@ -1,3 +1,4 @@
 #Key Dates
-  - 9/21 - Siddhartha Essay due & Timed writing on Siddhartha
-  - 9/23 - Group Test on Allusions(Greek and Judeo-Christian)
+  - 9/30 Mandalas Due
+  - 10/6 Holden's Oddyssey Due
+  - 10/12 Catcher Essay & Timed Writing
