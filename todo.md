@@ -12,7 +12,8 @@
 
 ##AP Psych
   - Notes due October 7th
-  - Areas of the brain ws due Friday
+  - Areas of the brain ws due Monday
+  - How Do You Do That? Worksheet due Monday
 
 ##AP Compsci
   - None
