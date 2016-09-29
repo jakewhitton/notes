@@ -108,6 +108,7 @@
 
 #### Practice FRQ
 > Initially, the United States did little to protect citizens from the actions of the states.  In the twentieth century, the Supreme Court interpretted the Constitution to protect the rights of citizens from state governments in a process referred to as **selective incorporation**
+>
 >   a. Define **selective incorporation**
 >   b. For **two** of the following, explain how each has been incorporated.  Each of your explanations must be based on a specific and relevant Supreme Court decision.
 >     - Rights of criminal defendants
@@ -165,5 +166,12 @@ b.
         * Overruled *Plessy v Furgeson* and "seperate but equal" laws
         * "Seperate but equal is *inherently* unequal"
         * No real legal basis for decision--based upon social science and the like
+    - Court case was initially spotty in its enforcement
+        * Linda Brown wants a federal enforcement order
+        * Court decides that desegregation must happen with "all deliberate speed"
+    - Desegregation vs Integration?
+        * *Swan v Charlotte Mecklenburg(1971)* = permits racial quotas, redrawing of district lines, and court-demanded busing
+        * Busing between cities was only allowed if both places practiced segregation
+    - d
 
 
