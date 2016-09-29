@@ -72,8 +72,8 @@
 
 
 ### Freedom of Religion
-    - Free excercise clause
-        * >[...]or prohibiting the free excercise thereof
+  - Free excercise clause
+    * >[...]or prohibiting the free excercise thereof
         * Fed gov may not impose specific burdens on religion
 
 ### Rights of the Accused
@@ -148,5 +148,6 @@ b.
 ### Classification of Rules
     - **Strict scrutiny** = policy or actions discriminating based on race are inherently difficult to justify--only okay if it serves a "compelling public interest"
     - **Mid-level review** = policy or actions discriminating based on gender are only okay if they "bear a substantial relationship to an important legislative purpose"
+    - **Rational Basis Test** = any other policy or action that discriminates based on other criterion must be *reasonable* and bear a "rational relationship to a legitimate governmental interest"
 
 
