@@ -72,9 +72,9 @@
 
 
 ### Freedom of Religion
-  - Free excercise clause
-    * >[...]or prohibiting the free excercise thereof
-        * Fed gov may not impose specific burdens on religion
+    - Free excercise clause
+      * > [...]or prohibiting the free excercise thereof
+      * Fed gov may not impose specific burdens on religion
 
 ### Rights of the Accused
     - Amendments as legal basis
@@ -178,6 +178,12 @@ b.
         * *Gratz v Bollinger(2003)*
         * *Grutter v Bollinger(2003)*
         * Proposition 209
-    - d
+
+### Civil Rights Act of 1964
+    - Prohibits discrimination in public places
+    - Prevents discrimination in job interviews & acceptance
+    - Establishes the **EEOC** = **E**qual **E**mployment **O**pportunity **C**ommission
+    - Prevents discriminating institutions from receiving federal money
+    - Civil Rights cases can be taken up by Justice Department--people don't have to sue to establish legal precedent
 
 
