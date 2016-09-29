@@ -107,7 +107,6 @@
 
 
 #### Practice FRQ
-
 > Initially, the United States did little to protect citizens from the actions of the states.  In the twentieth century, the Supreme Court interpretted the Constitution to protect the rights of citizens from state governments in a process referred to as **selective incorporation**
 >   a. Define **selective incorporation**
 >   b. For **two** of the following, explain how each has been incorporated.  Each of your explanations must be based on a specific and relevant Supreme Court decision.
@@ -149,5 +148,22 @@ b.
     - **Strict scrutiny** = policy or actions discriminating based on race are inherently difficult to justify--only okay if it serves a "compelling public interest"
     - **Mid-level review** = policy or actions discriminating based on gender are only okay if they "bear a substantial relationship to an important legislative purpose"
     - **Rational Basis Test** = any other policy or action that discriminates based on other criterion must be *reasonable* and bear a "rational relationship to a legitimate governmental interest"
+
+
+### Voting Rights
+    - Many obstacles to sufferage
+        * Literacy tests
+        * Racially discriminitory laws(Jim Crowe)
+        * Poll taxes
+    - 24th Amendment outlaws mentioned obstacles
+    - **Voting Rights Act of 1965** = makes voter disenfranchisement illegal
+
+### Education Rights
+    - *Brown v Board of Education*
+        * Was a consolidated case
+            + Composed of many people suing simultaneously but given the alias *Brown v Board of Education* for simplicity
+        * Overruled *Plessy v Furgeson* and "seperate but equal" laws
+        * "Seperate but equal is *inherently* unequal"
+        * No real legal basis for decision--based upon social science and the like
 
 
