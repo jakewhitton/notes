@@ -3,7 +3,7 @@
 
 ## Civil Liberties
 
-### Key questions:
+### Key questions
     1. What is the basis for our liberties?
     2. What are "property rights"?
     3. Do we have a right to "privacy"?
@@ -185,5 +185,12 @@ b.
     - Establishes the **EEOC** = **E**qual **E**mployment **O**pportunity **C**ommission
     - Prevents discriminating institutions from receiving federal money
     - Civil Rights cases can be taken up by Justice Department--people don't have to sue to establish legal precedent
+
+
+### Gender Descriminition
+    - Classification rule called "Mid-level review"
+        * Serves as a middle-ground between rational basis review and strict scrutiny
+    - Arbitrary descrimination not okay
+    - Some gender descrimination ruled okay(e.g. All-male drafts)
 
 
