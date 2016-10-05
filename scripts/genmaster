@@ -1,0 +1,38 @@
+#!/bin/bash
+
+usage() {
+	echo "Incorrect usage."
+	echo "Usage: genmaster <PERIOD_DIRECTORY> <UNIT_DIRECTORY>"
+	exit 0;
+}
+
+CURRENTGRADE="12"
+
+if [[ -z $1 || -z $2 ]]
+then
+	usage
+fi
+
+pwd="`pwd`"
+
+cd /home/jake/notes/"$CURRENTGRADE"/"$1"_*/"$2"_*
+
+if [ -e ./master.md ]; then
+	echo "" > ./master.md
+else
+	touch master.md
+fi
+
+for file in `ls . | sed 's/\master.md//g' | sed 's/\master.pdf//g'` ; do
+	[[ -e $file ]] || continue
+	
+	echo "Processing $file..."
+	cat $file >> ./master.md
+	echo -e "\n" >> ./master.md
+	
+done
+
+echo "Generating master pdf"
+pandoc -s -f markdown_github -o master.pdf master.md
+
+cd "$pwd"
