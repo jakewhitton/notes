@@ -2,26 +2,26 @@
 # Research Methodologies
 
 ## What is Psychology?
-    - **Psychology** = study of behavior and mental processes
-    - Not explicitly limited to humans; can be any cognitively advanced organism
+  - **Psychology** = study of behavior and mental processes
+  - Not explicitly limited to humans; can be any cognitively advanced organism
 
 ### Goals of Psychology
-    - Describe
-    - Explain
-    - Predict
-    - Control
+  - Describe
+  - Explain
+  - Predict
+  - Control
 
 ### Scientific Method
-    1. Come up with a **testable** question
-        - Must be testable -- if it isn't, it's not science
-        - Come up with a hypothesis = an assertion about a phenomenon
-    2. Design a study
-        - Study must collect data to analyze
-        - Data should prove or dispove hypothesis
-    3. Analyze data
-        - Conclusions come from this analysis
-    4. Report Results
-        - Publication in a journal
+  1. Come up with a **testable** question
+    - Must be testable -- if it isn't, it's not science
+    - Come up with a hypothesis = an assertion about a phenomenon
+  2. Design a study
+    - Study must collect data to analyze
+    - Data should prove or dispove hypothesis
+  3. Analyze data
+    - Conclusions come from this analysis
+  4. Report Results
+    - Publication in a journal
 
 ### Theory vs Hypothesis
   - **Theory** = a set of well-supported hypotheses that explain a phenomenon
