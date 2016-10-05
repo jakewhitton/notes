@@ -1,17 +1,17 @@
 
-#Research Methodologies
+# Research Methodologies
 
-##What is Psychology?
+## What is Psychology?
     - **Psychology** = study of behavior and mental processes
     - Not explicitly limited to humans; can be any cognitively advanced organism
 
-Goals of Psychology
+### Goals of Psychology
     - Describe
     - Explain
     - Predict
     - Control
 
-Scientific Method
+### Scientific Method
     1. Come up with a **testable** question
         - Must be testable -- if it isn't, it's not science
         - Come up with a hypothesis = an assertion about a phenomenon
@@ -23,21 +23,21 @@ Scientific Method
     4. Report Results
         - Publication in a journal
 
-Theory vs Hypothesis
+### Theory vs Hypothesis
   - **Theory** = a set of well-supported hypotheses that explain a phenomenon
   - **Hypothesis** = an assertion about a particular aspect of a phenomenon
     * Can be rejected or accepted
 
-Operational Definition
+### Operational Definition
   - An explicit, well-defined expounding of the procedures in an experiment
   - Important for studies to be repeatable
 
-Replication
+### Replication
   - a re-do of a study to retest the hypothesis or account for variables not accounted for by the original study
 
 ##Types of studies
 
-Case Study
+### Case Study
   - An in-depth study of the details of one particular subject
   - Hopefully, findings for the one can be generalized to the population
   - Advantages:
@@ -45,7 +45,7 @@ Case Study
   - Disadvantages:
     * Conclusions cannot necessarily be generalized to others
 
-Survey
+### Survey
   - A collection of self-reported data from individuals
   - Random sampling is very important
   - Wording Effect
@@ -64,14 +64,14 @@ Survey
     - Very hard to get random sampling correct
     - Need people to be honest
 
-Naturalistic Observation
+### Naturalistic Observation
   - Record and observe from a distance, without knowledge of the participents
   - Advantages:
     * Natural behavior = no behavioral bias
   - Disadvantages:
     * No direct communication with participents
 
-Experiment
+### Experiment
   - Searching for a causation between two variables
   - "Randomized Controlled Trial"
   - Placebo
