@@ -18,6 +18,7 @@
     * depreciate pracTice over many sessions results in better encoding of memories
     * a, ab, abc, abcd -- new sessions cover previous sessions material
     * also called "chaining"
+
 ### Serial Position Effect
 - tendency to remember first and last members in a list easier
 
