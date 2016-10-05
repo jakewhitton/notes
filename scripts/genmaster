@@ -33,6 +33,6 @@ for file in `ls . | sed 's/\master.md//g' | sed 's/\master.pdf//g'` ; do
 done
 
 echo "Generating master pdf"
-pandoc -s -f markdown -o master.pdf master.md
+pandoc -s -f markdown -o master.pdf --latex-engine=xelatex master.md
 
 cd "$pwd"
