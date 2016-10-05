@@ -85,7 +85,7 @@
     * Very difficult to prove causation 
 
 
-Correlations
+### Correlations
   - A relationship between two variables
   - Does NOT imply a causal relationship
   - **Correlation Coefficient(r)** = measure of how strong/consistent the correlation is
@@ -97,7 +97,7 @@ Correlations
     * There is a relationship, but you think there isn't
     * *false negative*
 
-##Ethics of Psychology
+## Ethics of Psychology
 
 1. Do no harm.
 2. Accurately describe risks to potential subjects.
@@ -111,32 +111,24 @@ Correlations
 
 
 ##Distributions
-
-**Percentile Ranking**
-  - the percentage of scores that are below yours
-
-Bar Graphs
-  - Also referred to as "historgram"
-
-**Mode** = the most frequent element in a set of data
-  - Any dataset a *can* have multiple modes
-
-**Mean**
-  - defined as $\frac{\sum_{i=1}^{n} E_i}{n}$
-
-**Median**
-  - Middle element
-    * If two middles, average the two
-  - Half of elements are above; half are below
-
-**Range**
-  - Defined as $E_{max} - E_{min}$
-
-**Standard Deviation**
-  - Metric of how much the elements vary from mean
-
-**Statistical Significance**
-  - An arbitrary error bound for determining whether or not a correlation is strong enough to publish
+  - **Percentile Ranking**
+    * the percentage of scores that are below yours
+  - Bar Graphs
+    * Also referred to as "historgram"
+  - **Mode** = the most frequent element in a set of data
+    * Any dataset a *can* have multiple modes
+  - **Mean**
+    * defined as $\frac{\sum_{i=1}^{n} E_i}{n}$
+  - **Median**
+    * Middle element
+      * If two middles, average the two
+    * Half of elements are above; half are below
+  - **Range**
+    * Defined as $E_{max} - E_{min}$
+  - **Standard Deviation**
+    * Metric of how much the elements vary from mean
+  - **Statistical Significance**
+    * An arbitrary error bound for determining whether or not a correlation is strong enough to publish
 
 ###Distribution Skewing
 
