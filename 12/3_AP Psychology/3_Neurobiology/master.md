@@ -2,19 +2,17 @@
 #Neural Communication
 
 **Biological Psychology** = aspect of psychology concerned with physical ways neurons cooperate to compose mental processes
-
-  - Names:
+- Names:
     * Behavioral Neuroscientists
     * Neuropsychologists
     * Behavior Geneticists
     * Physiological Psychologists
     * Biopsychologists
 
-Phrenology
-
-  - The study of the shape of skull and the making of inferences based off of that shape
+#### Phrenology
+- The study of the shape of skull and the making of inferences based off of that shape
     * Bumps on head indicate abilities or traits
-  - Developed by Franz Gall
+- Developed by Franz Gall
 
 ###The Neuron
 
