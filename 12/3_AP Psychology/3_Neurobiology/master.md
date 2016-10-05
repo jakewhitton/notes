@@ -1,3 +1,4 @@
+
 #Neural Communication
 
 **Biological Psychology** = aspect of psychology concerned with physical ways neurons cooperate to compose mental processes
@@ -119,45 +120,43 @@ Neurotransmitters
 
 
 ### Summary
-    - Stages
-        * Relieved Dolby Rescued Harry = mneumonic for remembering stages of action potential
-            + **R**elieved = **R**esting
-            + **D**olby = **D**epolorization
-            + **R**escued = **R**epolorization
-            + **H**arry = **H**
-    - Ions
-        * SIPO = mneumonic for remembering ions
-            + **S**odium **I**n, **P**otassium **O**ut
-    - Agonists vs Antagonists
-        * Agonists = mimic effect of neurotransmitter
-            + Nicotine, Morphine
-        * Antagonists = block or inhibit effect of neurotransmitter
+  - Stages
+    * Relieved Dolby Rescued Harry = mneumonic for remembering stages of action potential
+      + **R**elieved = **R**esting
+      + **D**olby = **D**epolorization
+      + **R**escued = **R**epolorization
+      + **H**arry = **H**
+  - Ions
+    * SIPO = mneumonic for remembering ions
+      + **S**odium **I**n, **P**otassium **O**ut
+  - Agonists vs Antagonists
+    * Agonists = mimic effect of neurotransmitter
+      + Nicotine, Morphine
+    * Antagonists = block or inhibit effect of neurotransmitter
 
 
 ## The Nervous System
-    - Nerves = small strands of neurons that act as highways for action potentials
-        * Serve to connect brain to peripheral sensory organs
-    - Nervous System = the organ system the body employs to communicate between organs
-        * Composition
-            + Nerve Cells
-            + **Peripheral Nervous System(PNS)** = nerve framework that connects brain to peripheral sense organs
-            + **Central Nervous System(CNS)** = the brain and spinal chord
+  - Nerves = small strands of neurons that act as highways for action potentials
+    * Serve to connect brain to peripheral sensory organs
+  - Nervous System = the organ system the body employs to communicate between organs
+    * Composition
+      + Nerve Cells
+      + **Peripheral Nervous System(PNS)** = nerve framework that connects brain to peripheral sense organs
+      + **Central Nervous System(CNS)** = the brain and spinal chord
 
 
 ### Model of Nervous System
-    - Nervous system
-        * Peripheral Nervous System
-            + Autonomic Nervous System
-                - Controls unconscious actions of organs
-                - Contains
-                    * Sympathetic Nervous System = arousal
-                    * Parasympathetic Nervous System = calming effect
-                        + *Think of a parachute--slows you down*
-            + Skeletal/Somatic Nervous System
-                - Controls voluntary movement of skeletal muscle
-        * Central Nervous System
-            + Brain
-            + Spinal Chord
+    - Peripheral Nervous System
+        * Autonomic Nervous System
+            + Controls unconscious actions of organs
+            + Sympathetic Nervous System = arousal
+            + Parasympathetic Nervous System = calming effect
+                + *Think of a parachute--slows you down*
+        * Skeletal/Somatic Nervous System
+            + Controls voluntary movement of skeletal muscle
+    - Central Nervous System
+        * Brain
+        * Spinal Chord
 
 ### Types of Neurons
     - Sensory Neurons
