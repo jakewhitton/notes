@@ -146,54 +146,54 @@ Neurotransmitters
 
 
 ### Model of Nervous System
-    - Peripheral Nervous System
-        * Autonomic Nervous System
-            + Controls unconscious actions of organs
-            + Sympathetic Nervous System = arousal
-            + Parasympathetic Nervous System = calming effect
-                + *Think of a parachute--slows you down*
-        * Skeletal/Somatic Nervous System
-            + Controls voluntary movement of skeletal muscle
-    - Central Nervous System
-        * Brain
-        * Spinal Chord
+  - Peripheral Nervous System
+    * Autonomic Nervous System
+      + Controls unconscious actions of organs
+      + Sympathetic Nervous System = arousal
+      + Parasympathetic Nervous System = calming effect
+        - *Think of a parachute--slows you down*
+    * Skeletal/Somatic Nervous System
+      + Controls voluntary movement of skeletal muscle
+  - Central Nervous System
+    * Brain
+    * Spinal Chord
 
 ### Types of Neurons
-    - Sensory Neurons
-        * Serve as medium through which sensory information travels to brain
-        * Sense Organs -> Brain
-            + Uses **affarent neurons**
-        * Brain -> Sense Organs
-            + Uses **efferent neurons**
-        * Mneumonic = SAME
-            + **S**ensory **A**ffarent **M**otor **E**fferent
-    - Interneurons = linking neurons that connect other systems together
-        * Only found in brain and spinal chord
+  - Sensory Neurons
+    * Serve as medium through which sensory information travels to brain
+    * Sense Organs -> Brain
+      + Uses **affarent neurons**
+    * Brain -> Sense Organs
+      + Uses **efferent neurons**
+    * Mneumonic = SAME
+      + **S**ensory **A**ffarent **M**otor **E**fferent
+  - Interneurons = linking neurons that connect other systems together
+    * Only found in brain and spinal chord
 
 ### Reflexes
-    - **Reflex** = a simple action undertaken via the **reflex arc**
-    - **Reflex Arc** = a pathway of nerves through which a reflex happens
-        * Generally goes from sensory organ -> affarent neurons -> interneurons -> spinal chord -> interneurons -> efferent neurons -> motor neurons
+  - **Reflex** = a simple action undertaken via the **reflex arc**
+  - **Reflex Arc** = a pathway of nerves through which a reflex happens
+    * Generally goes from sensory organ -> affarent neurons -> interneurons -> spinal chord -> interneurons -> efferent neurons -> motor neurons
 
 ### Neural Networks
-    - Neural Networks = a web of inter-connected neurons that cooperate to process information
-    - Through experience and feedback, neural networks are modified
+  - Neural Networks = a web of inter-connected neurons that cooperate to process information
+  - Through experience and feedback, neural networks are modified
 
 
 ### Lesions
-    - Lesions = destruction of tissue cause either naturally or by purpose
-    - Walter Freeman = got Nobel Prize for procedure wherein he quickly caused damage to a part of the brain to cure depression or anxiety
+  - Lesions = destruction of tissue cause either naturally or by purpose
+  - Walter Freeman = got Nobel Prize for procedure wherein he quickly caused damage to a part of the brain to cure depression or anxiety
 
 ### Brain Scan
-    - Electroencephalogram(EEG)
-        * Places 8 electrodes around the brain and records electric brain activity
-    - Computed Tomography Scan(CAT Scan)
-        * X-ray photoraphs taken from different angles
-        * A computer generates a composite image
-    - Positron Emission Tomography Scan(PET Scan)
-        * A radioactive form of glucose is ingested and sensors detect where glucose goes
-    - Magnetic Resonance Imaging Scan(MRI Scan)
-        * Large electromagnets and radio waves make water in the brain orient itself in line with the magnetic field
-        * Can generate very high-detail images
+  - Electroencephalogram(EEG)
+    * Places 8 electrodes around the brain and records electric brain activity
+  - Computed Tomography Scan(CAT Scan)
+    * X-ray photoraphs taken from different angles
+    * A computer generates a composite image
+  - Positron Emission Tomography Scan(PET Scan)
+    * A radioactive form of glucose is ingested and sensors detect where glucose goes
+  - Magnetic Resonance Imaging Scan(MRI Scan)
+    * Large electromagnets and radio waves make water in the brain orient itself in line with the magnetic field
+    * Can generate very high-detail images
 
 
