@@ -1,7 +1,8 @@
 
 #Neural Communication
 
-**Biological Psychology** = aspect of psychology concerned with physical ways neurons cooperate to compose mental processes
+### Biological Psychology
+- Discipline of psychology concerned with physical ways neurons cooperate to compose mental processes
 - Names:
     * Behavioral Neuroscientists
     * Neuropsychologists
