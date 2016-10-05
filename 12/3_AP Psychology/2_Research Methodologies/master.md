@@ -4,13 +4,13 @@
 ##What is Psychology?
 
 **Psychology** = study of behavior and mental processes
-  - Not explicitly limited to humans; can be any cognitively advanced organism
+    - Not explicitly limited to humans; can be any cognitively advanced organism
 
 Goals of Psychology
-  - Describe
-  - Explain
-  - Predict
-  - Control
+    - Describe
+    - Explain
+    - Predict
+    - Control
 
 Scientific Method
   1. Come up with a **testable** question
