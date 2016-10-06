@@ -27,8 +27,9 @@ for file in `ls . | sed 's/\master.md//g' | sed 's/\master.pdf//g'` ; do
 	[[ -e $file ]] || continue
 	
 	echo "Processing $file..."
+	echo -e "# $(echo $file | sed 's/\.md//g')\n" >> ./master.md
 	cat $file >> ./master.md
-	echo -e "\n" >> ./master.md
+	echo -e "\n\n---\n\n" >> ./master.md
 	
 done
 
