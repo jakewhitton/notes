@@ -1,4 +1,6 @@
 
+# 2016-09-21
+
 # Civil Rights and Civil Liberties
 
 ## Civil Liberties
@@ -31,6 +33,11 @@
     * Court ruled that it didn't meet "clear and present danger" conditions established in *Schenck v US(1919)*
     * However, BoR application will be decided on a court-by-court basis
 
+
+---
+
+
+# 2016-09-22
 
 ### Tinker v Demoine
 - Kid wore black armband to school to protest Vietname war
@@ -71,6 +78,11 @@
         + *FCC v Pacifica(1978)* = court uphold bans on obscenity on public frequencies
 
 
+---
+
+
+# 2016-09-26
+
 ### Freedom of Religion
 - Free excercise clause
     * > [...]or prohibiting the free excercise thereof
@@ -105,6 +117,11 @@
         + **Penumbra** = shadow, used as legal precedent
     * *Roe v Wade(1972)* = Abortion falls within the *penumbra* established in *Griswold v Connecticut*
 
+
+---
+
+
+# 2016-09-28
 
 #### Practice FRQ
 > Initially, the United States did little to protect citizens from the actions of the states.  In the twentieth century, the Supreme Court interpretted the Constitution to protect the rights of citizens from state governments in a process referred to as **selective incorporation**
@@ -151,6 +168,11 @@ b.
 - **Rational Basis Test** = any other policy or action that discriminates based on other criterion must be *reasonable* and bear a "rational relationship to a legitimate governmental interest"
 
 
+---
+
+
+# 2016-09-29
+
 ### Voting Rights
 - Many obstacles to sufferage
     * Literacy tests
@@ -187,10 +209,18 @@ b.
 - Civil Rights cases can be taken up by Justice Department--people don't have to sue to establish legal precedent
 
 
+---
+
+
+# 2016-10-03
+
 ### Gender Descriminition
 - Classification rule called "Mid-level review"
     * Serves as a middle-ground between rational basis review and strict scrutiny
 - Arbitrary descrimination not okay
 - Some gender descrimination ruled okay(e.g. All-male drafts)
+
+
+---
 
 

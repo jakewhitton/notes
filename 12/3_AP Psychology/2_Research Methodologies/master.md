@@ -1,4 +1,6 @@
 
+# 2016-09-06
+
 # Research Methodologies
 
 ## What is Psychology?
@@ -85,6 +87,11 @@
     * Very difficult to prove causation 
 
 
+---
+
+
+# 2016-09-07
+
 ### Correlations
 - A relationship between two variables
 - Does NOT imply a causal relationship
@@ -108,6 +115,11 @@
 8. Provide results and interpretations to participants.
 9. Treat participants with dignity and respect.
 
+
+---
+
+
+# 2016-09-08
 
 ##Distributions
 - **Percentile Ranking**
@@ -136,5 +148,8 @@
 - Negatively Skewed Distribution
     * Low extremes
     * Average moves to left
+
+
+---
 
 

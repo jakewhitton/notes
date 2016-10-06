@@ -1,4 +1,6 @@
 
+# 2016-08-29
+
 # Drafting the Constitution
 
 ## The Philadelphia Convention
@@ -48,6 +50,11 @@
 |Can borrow money            |No national court system           |Criminals could escape jurisdiction of state|Judicial court system               |
 
 
+---
+
+
+# 2016-08-30
+
 ##Practice FRQ  
 >a. Identify and explain three specific weaknesses of the Articles of Confederation and how the Constitution resolved each of the problems.
 
@@ -93,6 +100,11 @@ a.
     * Right to privacy
 
 
+---
+
+
+# 2016-08-31
+
 ##The Madisonian Model: Checking Power with Power
 
 ###Tools
@@ -115,6 +127,11 @@ a.
 - Informal
     * Judicial Review
 
+
+---
+
+
+# 2016-09-01
 
 ##Checks and balances
 
@@ -170,10 +187,20 @@ a.
 - Establish a guaranteed basic income to all
 
 
+---
+
+
+# 2016-09-02
+
 ##Federalism
 - **Federalism**: a political system that preserves certain policy decisions to local governmental units(i.e. states)
 - **Unitaryism**: a political system where states are strictly subservient and hold few legislative abilities
 
+
+---
+
+
+# 2016-09-06
 
 ### Powers of the Federal Government
 - The economy
@@ -253,6 +280,11 @@ a.
     - **Preemption** = we kill you before you kill us!
 
 
+---
+
+
+# 2016-09-07
+
 ##National Budget and Its Role in Increasing Federal Gov
 - Federal Gov can give grants to states
     * Goals:  
@@ -278,6 +310,11 @@ a.
         + **Revenue Sharing** = does not require states to match funds in order to receive grants
 
 
+---
+
+
+# 2016-09-08
+
 ### Practice FRQ
 > Describe two of the following and explain how each has been used to increase the power of the federal government relative to the states
 > - Categorical Grants
@@ -302,6 +339,11 @@ a.
     * Reserved powers
         + Granted to states by 10th amendment
 
+
+---
+
+
+# 2016-09-09
 
 ## Cases
 - Marbury v Madison
@@ -331,5 +373,8 @@ a.
     * Federal government takes over cause under new law
     * Parents lawer argues that new law is unconstitutional
     * Supreme court rules that *education is not business*, and thus cannot be regulated by Congress
+
+
+---
 
 

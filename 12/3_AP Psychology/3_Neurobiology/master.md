@@ -1,4 +1,6 @@
 
+# 2016-09-21
+
 #Neural Communication
 
 ### Biological Psychology
@@ -50,6 +52,11 @@
     * The drug fits *really* well and simulates the neurotransmitter
     * **Excites** the neurotransmitter or increases activity
 
+
+---
+
+
+# 2016-09-22
 
 ## Neurotransmitters
 - Dopamine
@@ -113,6 +120,11 @@
 
 
 
+---
+
+
+# 2016-09-27
+
 ### Summary
 - Stages
     * Relieved Dolby Rescued Harry = mneumonic for remembering stages of action potential
@@ -173,6 +185,11 @@
 - Through experience and feedback, neural networks are modified
 
 
+---
+
+
+# 2016-09-29
+
 ### Lesions
 - Lesions = destruction of tissue cause either naturally or by purpose
 - Walter Freeman = got Nobel Prize for procedure wherein he quickly caused damage to a part of the brain to cure depression or anxiety
@@ -188,5 +205,8 @@
 - Magnetic Resonance Imaging Scan(MRI Scan)
     * Large electromagnets and radio waves make water in the brain orient itself in line with the magnetic field
     * Can generate very high-detail images
+
+
+---
 
 

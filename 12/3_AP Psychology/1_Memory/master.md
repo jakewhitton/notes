@@ -1,4 +1,6 @@
 
+# 2016-08-25
+
 #Memory and Encoding
 
 ### Automatic processing:
@@ -38,6 +40,11 @@
 ### Mnemonics
 - Shrink down long sequences into distinguishing characters and string them together into short words or sentences
 
+
+---
+
+
+# 2016-08-29
 
 ##Automatic Processing
 
@@ -80,6 +87,11 @@
 - Memory of information that happens spontaneously
 
 
+---
+
+
+# 2016-09-01
+
 ### Amnesia
  - Retrograde amnesia = loss of past memories
     * Associated with head injury
@@ -120,6 +132,11 @@
     * New information supercedes new information
 
 
+---
+
+
+# 2016-09-02
+
 ##Memory construction
 
 ### Misinformation Effect:
@@ -157,5 +174,8 @@
 - Retrieval cue frequency
 - Consciously rehearse memories shortly after they occurr, so misinformation doesn't tamper with your retrieval
 - Minimize interference
+
+
+---
 
 
