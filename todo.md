@@ -1,28 +1,21 @@
 # TODO
 
 ##AP Lit  
-  - Mandala due Friday
-  - SEE [KEY DATES](./12/1_AP Literature and Composition/keydates.md)
+- Meta on map
+    * What surprised you?
+    * What challenged your view of the piece?
+    * What confused you?
+- SEE [KEY DATES](./12/1_AP Literature and Composition/keydates.md)
 
 ##AP Gov  
-  - Supreme Court Case due friday
-    * Reynolds V United States(1879)
-  - Notes due Thursday or Friday(not sure)
-  - Assigned FRQ due Thursday or Friday(not sure)
+- Essay due 10/18
 
 ##AP Psych
-  - Notes due October 7th
-  - Areas of the brain ws due Monday
-  - How Do You Do That? Worksheet due Monday
-  - Study for quiz on Monday
-    * Structures of the neuron
-    * Nervous System subdivisions(parasympathetic, somatic, etc)
-    * Agonists v Antagonists
-  - Unit Exam on friday
-  - NO UNIT SUMMARIES
+- Areas of the brain Worksheet
+- How Do You Do That? Worksheet
 
 ##AP Compsci
-  - None
+- None
 
 ##Misc
-  - Research pandoc --bash-completion
+- Research pandoc --bash-completion
