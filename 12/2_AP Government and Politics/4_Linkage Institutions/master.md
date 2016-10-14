@@ -1,0 +1,24 @@
+# 2016-10-14
+
+# Linkage Institutions
+
+### Big Ideas
+- Media and its influence on politics
+- Media role in public discourse and how it changes
+- Media's role in changing majority opinion
+
+### What is a "Linkage Institution"?
+- **Linkage Institution** = some organized body that connects subjects of the government with the government itself
+- Examples
+    * Mass media
+        + Television
+        + Radio
+            - Who the f&%# listens to *radio*?
+        + Newspapers
+            - *Wat.*
+        + Internet publications
+
+
+---
+
+
