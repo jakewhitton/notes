@@ -1,21 +1,17 @@
 # TODO
 
 ##AP Lit  
-- Meta on map
-    * What surprised you?
-    * What challenged your view of the piece?
-    * What confused you?
+- Catcher essay due Tuesday
 - SEE [KEY DATES](./12/1_AP Literature and Composition/keydates.md)
 
 ##AP Gov  
-- Essay due 10/18
+- Personal politics essay due Tuesday
 
 ##AP Psych
-- Areas of the brain Worksheet
-- How Do You Do That? Worksheet
+- None
 
 ##AP Compsci
 - None
 
 ##Misc
-- Research pandoc --bash-completion
+- None
