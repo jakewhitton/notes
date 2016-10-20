@@ -1,11 +1,13 @@
 # TODO
 
 ##AP Lit  
-- Catcher essay due Tuesday
+- None
 - SEE [KEY DATES](./12/1_AP Literature and Composition/keydates.md)
 
 ##AP Gov  
-- Personal politics essay due Tuesday
+- Homework due Friday
+    * Notes
+    * FRQ on Haiku
 
 ##AP Psych
 - None
