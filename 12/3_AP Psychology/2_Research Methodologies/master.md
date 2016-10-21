@@ -148,8 +148,3 @@
 - Negatively Skewed Distribution
     * Low extremes
     * Average moves to left
-
-
----
-
-

@@ -1,3 +1,4 @@
+
 # 2016-10-06
 
 # Political Culture and Ideology
@@ -107,10 +108,5 @@
 - Protesting as participation
     * **Protest** = engaging in disobedience for the purpose of furthering a political goal
     * **Civil Disobedience** = the conscious breaking of laws or norms to get a message across
-
-
-
-
----
 
 

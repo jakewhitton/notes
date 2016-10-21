@@ -373,8 +373,3 @@ a.
     * Federal government takes over cause under new law
     * Parents lawer argues that new law is unconstitutional
     * Supreme court rules that *education is not business*, and thus cannot be regulated by Congress
-
-
----
-
-

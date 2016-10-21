@@ -205,8 +205,3 @@
 - Magnetic Resonance Imaging Scan(MRI Scan)
     * Large electromagnets and radio waves make water in the brain orient itself in line with the magnetic field
     * Can generate very high-detail images
-
-
----
-
-

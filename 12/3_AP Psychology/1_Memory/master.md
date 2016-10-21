@@ -174,8 +174,3 @@
 - Retrieval cue frequency
 - Consciously rehearse memories shortly after they occurr, so misinformation doesn't tamper with your retrieval
 - Minimize interference
-
-
----
-
-

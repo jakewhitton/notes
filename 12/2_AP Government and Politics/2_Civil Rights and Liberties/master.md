@@ -219,8 +219,3 @@ b.
     * Serves as a middle-ground between rational basis review and strict scrutiny
 - Arbitrary descrimination not okay
 - Some gender descrimination ruled okay(e.g. All-male drafts)
-
-
----
-
-
