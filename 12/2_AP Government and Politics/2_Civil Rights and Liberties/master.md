@@ -1,4 +1,3 @@
-
 # 2016-09-21
 
 # Civil Rights and Civil Liberties

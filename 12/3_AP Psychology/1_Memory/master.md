@@ -1,4 +1,3 @@
-
 # 2016-08-25
 
 #Memory and Encoding

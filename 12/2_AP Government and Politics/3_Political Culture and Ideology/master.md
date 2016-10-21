@@ -1,4 +1,3 @@
-
 # 2016-10-06
 
 # Political Culture and Ideology
