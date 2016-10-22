@@ -1,19 +1,17 @@
 # TODO
 
 ##AP Lit  
-- None
+- Musing due Monday
 - SEE [KEY DATES](./12/1_AP Literature and Composition/keydates.md)
 
 ##AP Gov  
-- Homework due Friday
-    * Notes
-    * FRQ on Haiku
+- None
 
 ##AP Psych
 - None
 
 ##AP Compsci
-- None
+- Encoding an experience project due Monday
 
 ##Misc
 - None
