@@ -11,18 +11,6 @@
 - **Histone** = a protein that DNA can wrap around to reduce overall volume
 - **Codon** = a group of three nucleotide bases that match with tRNA to assemble proteins
     * 1 codon corresponds to 1 amino acid instruction(INSERT, START, END, etc)
-- **Allele** = a specific version of a gene
-- **Genotype** = the collection of alleles one posesses
+- **Genotype** = the genes you have
 - **Phenotype** = the physical traits you exibit
-- **Dominant Allele** = an allele whose expression takes precedence over that of **recessive** alleles
-- **Recessive Allele** = an allele whose expression is inhibited by the presence of a **dominant** allele
-
-### Sex-Linked Traits
-- **Sex-Linked Traits** = phenotypes involved with the X or Y chromosomes
-- typically *recessive* and located on X chromosome
-    * Y chromosome actually contains very few genes
-- Examples
-    * Color blindness
-    * Baldness
-    * Hemophilia
 
