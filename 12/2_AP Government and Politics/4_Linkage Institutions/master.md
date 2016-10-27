@@ -139,3 +139,61 @@
 - **Critical Election** = an election that serves as boundaries between party eras
     * e.g. FDR in 1932
 - **Party Realignment** = new issue redraws coilition bounds, changing the political parties in the process
+
+
+---
+
+
+# 2016-10-24
+
+### Party Eras in History
+- **New Deal Coalition** = 1932-1968
+    * Voted consistently for Democratic party
+    * Groups included
+        + Urban working class
+        + African Americans
+        + Catholics and Jews
+        + Lower-income families
+        + Southerners
+- **Divided Government Coalition** = 1968-present
+    * Presidential elections typically don't align with Congressional results
+    * Caused by number of things
+        + Distrust in government
+            - Vietnam war
+            - Watergate scandal
+            - Investigative journalism
+        + Social issues emerge
+            - Abortion
+    * **Dealignment** = party coalitions start to shift, many people disengage
+
+### Third Parties
+- Can serve to spread messages into the popular consciousness
+- "Splinter", "Economic Protest", "Charismatic Leader"
+- Disenfranchised by our electoral system
+    * First Pas the Post/Single Member District voting
+        + Winner takes all, nothing for loser
+        + "Democracy is nothing more than mob rule, where 51% of the people may take away the rights of the other 49%." -- Jefferson
+- **Proportional Representation** = seats in Congress are distributed based on votes received by each party
+- **Coalition Government** = multiple parties come together to make policy
+
+
+---
+
+
+# 2016-10-27
+
+### What Are Interest Groups?
+- **Interest Group** = a body of people who organize under similar policy goals
+- *How is that different from a "political party"?*
+    * Political parties offer candidates for president
+    * Interest groups are **policy specialists**
+        + Means they write legislation on a very specific issue
+    * Political parties are **policy generalists**
+        + Means they write legislation for broad purposes
+
+### Negative Perception of Interest Groups
+- Generally, interest groups are seen as a negative influence on politics
+- *Why?*
+    * Framers of the constitution looked down on "factions"?
+    * Corrupt lobbyists get a lot of attention by the media
+    * "Lobbying" seen as corporate influence on politics

@@ -28,3 +28,52 @@
     * Baldness
     * Hemophilia
 
+
+
+---
+
+
+# 2016-10-25
+
+##Evolutionary Psychology
+- **Natural Selection** = a mechanism set forth by Darwin that describes how genetic information can spread through a population if it confers a survival benefit
+- **Mutation** = errors in the genetic code
+    * Can be caused by faulty replication
+- **Evolutionary Psychology** = the study of behavior and mental processes using natural selection as an explanatory mechanism
+
+### Nature vs Nurture
+- *Is our behaior more a product of our **genetics** or of our **environment**?*
+- **Identical Twins** = two organisms that developed from the same embryo
+    * also called **Monozygotic twins**
+- **Fraternal Twins** = two organisms that developed from different fertilized embryos but gestated in same womb
+    * also called **Dizygotic twins**
+- **Separated Twins** = identical twins that are separated at birth
+    * Useful for studying influence of environment
+- **Adoption Studies** = studies of different children who are raised as if genetically related
+    * Useful for studying influence of genetics
+
+
+---
+
+
+# 2016-10-27
+
+### Behavior Genetics
+- **Behavior Genetics** = a term that describes behaviors that are influenced by genetics
+- **Temperament** = a unique set of traits about reaction and emotional intensity
+- **Heritability** = the proportion of phenotypic variation that can be attributed to genetics
+
+### Environmental Influences
+- **Culture** = a group of societal expectations and conventions that influence how we think
+- **Norm** = a cultural expectation that is hard to break
+    * Similar to a **taboo**
+- **Personal Space** = a "buffer-zone" that is expected between people while interacting
+- **Memes** = units of culture that can spread among the population simliar to genes
+    * **Dank Meme** = a zesty meme that is masterfully crafted
+- Styles of child-rearing
+    * Western parents tend to emphasize *independence*
+        + Results in teenagers hating their adolescence
+            - I wish I was dead
+    * Non-Western parents tend to emphasize *interdependence*
+        + Stronger sense of "family" or "community"
+
