@@ -180,6 +180,7 @@
 ---
 
 
+<<<<<<< HEAD
 # 2016-11-02
 
 ### Running for President
@@ -193,3 +194,22 @@
         + Later states are discouraged from participating if not a close race
         + **Frontloading** = state holds a primary or caucus early to get all that *sweet*, *sweet* media attention
 
+=======
+# 2016-10-27
+
+### What Are Interest Groups?
+- **Interest Group** = a body of people who organize under similar policy goals
+- *How is that different from a "political party"?*
+    * Political parties offer candidates for president
+    * Interest groups are **policy specialists**
+        + Means they write legislation on a very specific issue
+    * Political parties are **policy generalists**
+        + Means they write legislation for broad purposes
+
+### Negative Perception of Interest Groups
+- Generally, interest groups are seen as a negative influence on politics
+- *Why?*
+    * Framers of the constitution looked down on "factions"?
+    * Corrupt lobbyists get a lot of attention by the media
+    * "Lobbying" seen as corporate influence on politics
+>>>>>>> 10d62939dcb5567b850bf3f3de75f84ced79c64a
