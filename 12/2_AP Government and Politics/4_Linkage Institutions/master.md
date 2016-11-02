@@ -60,7 +60,7 @@
         + Almost like a currency
 
 #### Practice FRQ
-> One of the most important ways the news media influence politics is through agenda setting.
+> One of the most important ways the news media influence politics is through agenda setting.  
 > - a. Define policy agenda
 > - b. Explain how the national news media engage in agenda setting
 > - c. Explain the primary reason the president tends to have an advantage over Congress in gaining media attention
@@ -180,21 +180,6 @@
 ---
 
 
-<<<<<<< HEAD
-# 2016-11-02
-
-### Running for President
-- **Presidential Primary** = election through which candidates for president are selected
-    * **Caucus** = people gather in a room and vote with their feet, each candidate has a chance to convince the others
-        + Like how Mongol societies voted with horse
-        + Iowa is first caucus
-    * **Primary** = simple ballot casting procedure that selects a candidate using the FPTP system
-    * Criticism
-        + Early caucuses and primaries get more attention
-        + Later states are discouraged from participating if not a close race
-        + **Frontloading** = state holds a primary or caucus early to get all that *sweet*, *sweet* media attention
-
-=======
 # 2016-10-27
 
 ### What Are Interest Groups?
@@ -210,6 +195,33 @@
 - Generally, interest groups are seen as a negative influence on politics
 - *Why?*
     * Framers of the constitution looked down on "factions"?
+        + James Madison, Federalist Paper #10
+            - Warns against factions
     * Corrupt lobbyists get a lot of attention by the media
     * "Lobbying" seen as corporate influence on politics
->>>>>>> 10d62939dcb5567b850bf3f3de75f84ced79c64a
+
+### Iron Triangles
+- **Iron Triangle** = a relationship formed between Congress, interest groups, and federal agencies(the Bureaucracy)
+- **Issue Network** = groups of entities that are connected through the effort to get a law passed
+
+
+---
+
+
+# 2016-11-02
+
+### Running for President
+- **Presidential Primary** = election through which candidates for president are selected
+    * **Caucus** = people gather in a room and vote with their feet, each candidate has a chance to convince the others
+        + Like how Mongol societies voted with horse
+        + Iowa is first caucus
+    * **Primary** = simple ballot casting procedure that selects a candidate using the FPTP system
+    * Criticism
+        + Early caucuses and primaries get more attention
+        + Later states are discouraged from participating if not a close race
+        + **Frontloading** = state holds a primary or caucus early to get all that *sweet*, *sweet* media attention
+- **National Party Convention** = delegates allocated during primary season meet to vote for who the party's official candidate will be
+    * Usually, primary winner is already known due to vote count
+        + Doesn't stop media from making damned good use of all that footage of balloons falling
+    * Serves to unite the party after a bitter primary season
+
