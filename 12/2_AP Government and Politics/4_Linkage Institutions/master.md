@@ -60,6 +60,7 @@
         + Almost like a currency
 
 #### Practice FRQ
+
 > One of the most important ways the news media influence politics is through agenda setting.
 >
 > - a. Define policy agenda
@@ -225,4 +226,4 @@
     * Usually, primary winner is already known due to vote count
         + Doesn't stop media from making damned good use of all that footage of balloons falling
     * Serves to unite the party after a bitter primary season
-
+    * Isn't as big a deal as it used to be
