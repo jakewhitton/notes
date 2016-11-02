@@ -139,3 +139,57 @@
 - **Critical Election** = an election that serves as boundaries between party eras
     * e.g. FDR in 1932
 - **Party Realignment** = new issue redraws coilition bounds, changing the political parties in the process
+
+
+---
+
+
+# 2016-10-24
+
+### Party Eras in History
+- **New Deal Coalition** = 1932-1968
+    * Voted consistently for Democratic party
+    * Groups included
+        + Urban working class
+        + African Americans
+        + Catholics and Jews
+        + Lower-income families
+        + Southerners
+- **Divided Government Coalition** = 1968-present
+    * Presidential elections typically don't align with Congressional results
+    * Caused by number of things
+        + Distrust in government
+            - Vietnam war
+            - Watergate scandal
+            - Investigative journalism
+        + Social issues emerge
+            - Abortion
+    * **Dealignment** = party coalitions start to shift, many people disengage
+
+### Third Parties
+- Can serve to spread messages into the popular consciousness
+- "Splinter", "Economic Protest", "Charismatic Leader"
+- Disenfranchised by our electoral system
+    * First Pas the Post/Single Member District voting
+        + Winner takes all, nothing for loser
+        + "Democracy is nothing more than mob rule, where 51% of the people may take away the rights of the other 49%." -- Jefferson
+- **Proportional Representation** = seats in Congress are distributed based on votes received by each party
+- **Coalition Government** = multiple parties come together to make policy
+
+
+---
+
+
+# 2016-11-02
+
+### Running for President
+- **Presidential Primary** = election through which candidates for president are selected
+    * **Caucus** = people gather in a room and vote with their feet, each candidate has a chance to convince the others
+        + Like how Mongol societies voted with horse
+        + Iowa is first caucus
+    * **Primary** = simple ballot casting procedure that selects a candidate using the FPTP system
+    * Criticism
+        + Early caucuses and primaries get more attention
+        + Later states are discouraged from participating if not a close race
+        + **Frontloading** = state holds a primary or caucus early to get all that *sweet*, *sweet* media attention
+
