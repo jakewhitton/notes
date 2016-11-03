@@ -33,6 +33,16 @@ for file in `ls . | sed 's/\master.md//g' | sed 's/\master.pdf//g'` ; do
 	
 done
 
+#Remove leading newline
+sed -i '1d' ./master.md
+
+#Remove trailing newlines and divider
+sed -i '$ d' ./master.md
+sed -i '$ d' ./master.md
+sed -i '$ d' ./master.md
+sed -i '$ d' ./master.md
+sed -i '$ d' ./master.md
+
 echo "Generating master pdf"
 pandoc -s -f markdown -o master.pdf --latex-engine=pdflatex master.md
 
