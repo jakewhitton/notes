@@ -226,3 +226,18 @@
         + Doesn't stop media from making damned good use of all that footage of balloons falling
     * Serves to unite the party after a bitter primary season
     * Isn't as big a deal as it used to be
+    * **McGovern Fraser Commission(1968)** = commitee that wrote new set of rules for selecting delegates in the Democratic convention
+        + Aimed at increasing representation for women and minorities
+    * **Superdelegates** = delegates that are typically pledged to one candidate before primary season even begins
+        + Serves the interest of the party
+- **General Election** = actual election season between the major parties
+    * Debates are held to give candidates opportunities to voice policy
+    * Media speculation can sway voter turnout
+    * **Electoral College** = system by which the general election happens
+        + Each state legislature gets assigned a limited number of **electors**
+            - State legislatures fill those spaces with people they like
+        + Candidate who reaches **plurality** takes all of the electors for that state
+            - **Plurality** = more than anyone else
+            - This doesn't apply to Nebraska and Maine; they assign electors proportionally
+        + Serves as insulating layer between the government and the people
+        + Shifts focus towards "battle-ground" states and highly-populated states
