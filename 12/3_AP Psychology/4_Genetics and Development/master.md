@@ -152,3 +152,85 @@
         + **Preoperational**
         + **Concrete Operational**
         + **Formal Operational*
+
+
+---
+
+
+# 2016-11-09
+
+### Social Development
+
+#### Attachment
+- **Attachment** = an emotional connection with another person
+    * Coined by Mary Ainsworth
+    * Young children try to be close to caregiver
+        + Similarily, they show anxiety when separated
+- **Separation Anxiety** = distress resulting from separation from an attached person
+    * Especially seen in infants
+    * In healthy infants, as long as the parents are in the vicinity, they feel comfortable to engage in risky behavior
+        + Called **secure attachment**
+    * In unhealthy infants, they won't feel comfortable unless parent is very near
+        + Called **insecure attachment**
+        - **Avoidantly Attached** = child avoids parent and is fearful
+        - **Anxious Resistant Attachment** = child doesn't avoid parent but isn't comfortable around them
+- **Basic Trust** = a feeling that the world is predictable and understandable
+    * Coined by Erik Erikson
+    * Thought to be formed during infancy
+        + Responsive caregivers
+        + Loving parents
+- **Self-Concept** = an understanding of one's traits and worth to others
+
+#### Harow's Surrogate Mother Experiments
+- **Contact comfort** = a feeling induced by touching caregiver
+- Monkeys, even when hungry, preferred the contact comfort of a cloth doll to a sustaining wire mother
+
+#### Early Life
+- **Critical Period** = a segment of time in which exposure to certain stimuli result in essential cognitive and physical development
+- **Imprinting** = the rapid attachment to those first exposed to
+    * Sometimes happens immediately after birth
+
+#### Methods of Child Rearing
+- **Authoritarian** = relies on the assumption that rules will be followed without question
+    * "Why?  Because I said so."
+- **Permissive** = gives leeway to child and buys into their desires--few demands and little punishment
+- **Authoritative** = a combination of "demanding" and "responsive"
+    * Establishes rules, but willing to justify themselves without demanding unconditional obedience
+    * Seen in psychological community as the *best* parenting style
+- **Rejecting-Neglecting** = disinvestment in the child
+    * Little attention is payed to child
+    * Can result in abandonment issues
+
+#### Adolescence
+- **Adolescence** = transition period between childhood and adulthood
+- Lasts from **puberty** to socioeconomic independence
+- **Puberty** = biological process of sexual and mental maturation
+    * When people become capable of reproduction
+- **Primary Sex Characteristics** = physical traits that are necessary to reproduction
+    * Primarily genetalia
+    * **Menarche** = first menstrual period
+- **Secondary Sex Characteristics** = physical traits that serve as identifiers for their gender
+    * Males
+        + Body hair
+        + Deepening voices
+    * Females
+        + Fat redistribution to breasts and hips
+    * Both
+        + Pubic hair
+- Self-Esteem and Maturation
+    * Boys feel more comfortable wtih their bodies if they mature early
+    * Girls feel less comfortable with their bodies if they mature early
+
+#### Kohlberg's Theory of Moral Development
+1. Punishment and obedience orientation
+    - Responding to punishment
+2. Naive hedonism
+    - Doing things for rewards or favors
+3. Good boy/girl mentality
+    - Doeing things because of approval by peers and parents
+4. Acceptance of Norms
+    - Accepts laws and conventions for what they are: does not question them
+5. Seeking Peaceful Change
+    - Coninues to obey law; works to change the law within the confines of the law
+6. Self-Actualization
+    - Change requires that you disobey the law
