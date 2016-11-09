@@ -1,0 +1,35 @@
+
+#Institutions of Government
+
+## Congress
+- **Constituents** = the group of people being represented by a Congressperson
+- Office Requirements
+    * House of Reps
+        + At least 25 years old
+        + Citizen for at least 7 years
+    * Senate
+        + At least 30 years old
+        + Citizen for at least 9 years
+- Election cycles
+    * House of Reps
+        + Popularly elected every two years
+    * Senate
+        + Initially, elected by state legislatures every 6 years
+            - Due to 17th Amendment, senators are now popularly elected
+
+### Districts
+- For the assignment of representatives, **districts** are drawn
+    * **District** = a section of the state in question
+    * The candidate with the plurality in that district wins the seat
+    * If a state has *x* representatives, they draw *x* districts
+- **Redistricting** = the process of state legislatures re-drawing district boundaries
+    * Meant to be a mechanism through which the electoral process keeps up to date with a changing population
+    * Happens when a new census is done
+    * Results in **Gerrymandering** = the drawing of districts to benefit one party
+        + Cram as many of the opposing party into a few, concentrated districts
+        + Let the rest of the districts be a narrow but predictable victory for your party
+
+### Incumbency
+- **Incumbency** = the state of seeking re-election
+- After cold war, there is a large increase in "career politicians"
+    * People are seeking stability and level-headedness

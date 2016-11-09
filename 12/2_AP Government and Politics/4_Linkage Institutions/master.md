@@ -293,3 +293,21 @@
     * **Not** considered an interest group
     * Candidates who represent the rich get more funding
         + Capitalism is *garbage*
+
+
+---
+
+
+# 2016-11-09
+
+### Citizens United
+- *Citizens United v FEC(2010)*
+    * Supreme court case that ruled that 527s and 501(c)3 organizations are considered "persons" under constitutional law
+    * "Corporations are people too"
+    * Overturned 30 and 60 day limits on advertisements
+- **SuperPACs** = organizations similar to PACs
+    * Also known as "indepndent expenditure only committees"
+        + *independent expenditure* means that money doesn't go to the party; it funds advertising and the like itself
+    * Not beholden to any particular candidate
+        + Can give money as they please
+    * Virtually unregulated
