@@ -247,16 +247,16 @@
     * Each segment characterized by a different drive and crisis
 
 ##### The Eight Stages
-|   |          Crisis Name           |  Basic Virtue  |       Age Range        |
-|---|--------------------------------|----------------|------------------------|
-| 1 |       Trust vs Mistrust        |      Hope      |     Infancy(0-1.5)     |
-| 2 |       Autonomy vs Shame        |      Will      | Early Childhood(1.5-3) |
-| 3 |      Initiative vs Guilt       |    Puropose    |      Play Age(3-5)     |
-| 4 |    Industry vs Inferiority     |   Competency   |     School Age(5-12)   |
-| 5 | Ego identity vs Role Confusion |    Fidelity    |    Adolescence(12-18)  |
-| 6 |      Intimacy vs Isolation     |      Love      |    Young Adult(18-40)  |
-| 7 |   Generativity vs Stagnation   |      Care      |     Adulthood(40-65)   |
-| 8 |    Ego Integrity vs Despair    |     Wisdom     |      Maturity(65+)     |
+|   |          Crisis Name           | Basic Virtue |       Age Range        |
+|---|--------------------------------|--------------|------------------------|
+| 1 |       Trust vs Mistrust        |     Hope     |     Infancy(0-1.5)     |
+| 2 |       Autonomy vs Shame        |     Will     | Early Childhood(1.5-3) |
+| 3 |      Initiative vs Guilt       |   Puropose   |      Play Age(3-5)     |
+| 4 |    Industry vs Inferiority     |  Competency  |     School Age(5-12)   |
+| 5 | Ego identity vs Role Confusion |   Fidelity   |    Adolescence(12-18)  |
+| 6 |      Intimacy vs Isolation     |     Love     |    Young Adult(18-40)  |
+| 7 |   Generativity vs Stagnation   |     Care     |     Adulthood(40-65)   |
+| 8 |    Ego Integrity vs Despair    |    Wisdom    |      Maturity(65+)     |
 
 ### Carol Gilligan's Ideas About Gender
 - Believes that males and females differ fundamentally in the way they relate to larger groups
