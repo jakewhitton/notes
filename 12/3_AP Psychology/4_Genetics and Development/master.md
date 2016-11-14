@@ -234,3 +234,64 @@
     - Coninues to obey law; works to change the law within the confines of the law
 6. Self-Actualization
     - Change requires that you disobey the law
+
+
+---
+
+
+# 2016-11-14
+
+### Erikson's Theory of Social Development
+- Based in premise that Natural Selection bred into us the propensity to develop relationships that are beneficial to survival
+- Life span segmented into 8 stages
+    * Each segment characterized by a different drive and crisis
+
+##### The Eight Stages
+|   |          Crisis Name           |  Basic Virtue  |       Age Range        |
+|---|--------------------------------|----------------|------------------------|
+| 1 |       Trust vs Mistrust        |      Hope      |     Infancy(0-1.5)     |
+| 2 |       Autonomy vs Shame        |      Will      | Early Childhood(1.5-3) |
+| 3 |      Initiative vs Guilt       |    Puropose    |      Play Age(3-5)     |
+| 4 |    Industry vs Inferiority     |   Competency   |     School Age(5-12)   |
+| 5 | Ego identity vs Role Confusion |    Fidelity    |    Adolescence(12-18)  |
+| 6 |      Intimacy vs Isolation     |      Love      |    Young Adult(18-40)  |
+| 7 |   Generativity vs Stagnation   |      Care      |     Adulthood(40-65)   |
+| 8 |    Ego Integrity vs Despair    |     Wisdom     |      Maturity(65+)     |
+
+### Carol Gilligan's Ideas About Gender
+- Believes that males and females differ fundamentally in the way they relate to larger groups
+- Males = more focused on perceiving themselves as individuals
+- Females = more focused on drawing connections between things
+
+### Independence
+- The process of social development results, at least in Western cultures, with the individual beginning to separate from the parents
+- Increase in arguments
+- **Empty-Nest Syndrome**
+
+## Physical Development
+- **Menopause** = process by which menstruation stops occurring
+    * Women are no longer fertile = cannot become pregnant
+- **Alzheimer's Disease** = a slow-developing and irreversible brain disorder
+    * Gradual deterioration of cognitive skills
+        + Memory
+        + Reasoning
+        + Language
+        + Physical functions
+            - Ultimately results in death
+    * Difficult to detect, because cognition naturally decays with age
+
+## Cognitive Development
+- **Crystallized Intelligence** = accumulated information and encoded memory
+    * Tends to increase with age and experience
+- **Fluid Intelligence** = ability to reason quickly and in the abstract
+    * Tends to decrease with age
+
+### Kubler-Ross's Stages of Dying
+- A series of steps that occur as one comes to term with the fact that they will die soon
+- Stages
+    1. Denial
+    2. Anger
+    3. Bargaining with God
+        + What if you're not religious?
+    4. Depression
+    5. Acceptance of Death
