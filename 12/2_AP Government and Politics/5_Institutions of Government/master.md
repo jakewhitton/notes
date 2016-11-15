@@ -108,3 +108,56 @@
         + Verifying treaties
     * Both
         + Amendment passing
+
+
+---
+
+
+# 2016-11-15
+
+### Dynamics of Power in Congress
+- House of Representatives
+    * **Speaker of the House** = official elected by House
+        + Exercises significant control over comittee assignments and legislation
+        + Serves as coordinator for debate time and committee action
+    * **Whips** = party affiliates who exert influence over politicians by threatening to withdraw support of the party to their candidacy
+    * House Committee Rules
+        + **Closed Rule** = bill cannot be modified on the floor
+            - Must be passed *as-is*
+        + **Open Rule** = bills can be modified on the floor
+            - Easier to get passed
+            - Possible that bill's purpose will be compromised into nonexistence
+- Senate
+    * **Vice President** = official that oversees the Senate
+    * **President Pro-Tempore**
+    * Each party's senators elects a leader
+        + Majority party's leader effectively controls the Senate because he can influence the majority of the delegates
+        + Minority party's leader is essentially powerless
+    * **Filibuster** = unlimited debate time
+        + Introduced in the 1830's
+    * **Cloture** = a vote that moves to end debate on a topic
+        + Requires a super-majority(60%)
+
+### Congressional Committees
+- **Congressional Committees** = collection of Congresspeople that principally focus on a few issues
+    * **Chairman** = leader of committee
+    * Central role: consider and develop legislation
+    * **Standing Committee** = a permanent committee
+        + Allocated one subject on which to consider policy
+        + Constitutes the source of most bills
+    * **Select/Special Committee** = short-term committee meant to address a pressing issue
+        + Traditionally functions as an investigative body
+        + **Oversight Hearings** = individuals associated with the federal bureaucracy testify to things that are investigated by certain Congressional committees
+    * **Joint Committee** = a committee composed of members from both chambers of Congress that are meant to serve interests of Congress as a whole
+        + Considers issues directly related to Congress as a whole
+        + Oversees Congressional suppot agencies
+    * **Conference Committee** = a committee composed of members from both chambers of Congress that exists to resolve legislative disputes
+        + Forms compromises on bills so they are more widely appealing
+- Examples
+    * **House Rules Committee** = attaches "rules" to bills
+        + Most powerful committee
+        + Can control how much time is given to debate
+            - If it is, they decide *when*
+    * **House Appropriations Committee** = responsible for allocating funds for specific programs and projects
+    * **House Ways and Means Committee** = responsible for considering tax bills in House of Representatives
+    * **Senate Finance Committee** = responsible for considering tax bills in Senate
