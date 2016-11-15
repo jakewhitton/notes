@@ -6,7 +6,7 @@
 - SEE [KEY DATES](./12/1_AP Literature and Composition/keydates.md)
 
 ##AP Gov  
-- None
+- Test either on Thursday or Friday
 
 ##AP Psych
 - None
