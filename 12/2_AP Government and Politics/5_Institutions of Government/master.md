@@ -129,7 +129,8 @@
             - Possible that bill's purpose will be compromised into nonexistence
 - Senate
     * **Vice President** = official that oversees the Senate
-    * **President Pro-Tempore**
+    * **President Pro-Tempore** = An official, typically a Senator, that the Senate elects to be a "backup" president in case the President and Vice President die
+        + Typically the senior member of the majority party
     * Each party's senators elects a leader
         + Majority party's leader effectively controls the Senate because he can influence the majority of the delegates
         + Minority party's leader is essentially powerless
