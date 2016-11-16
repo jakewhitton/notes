@@ -154,11 +154,80 @@
         + Oversees Congressional suppot agencies
     * **Conference Committee** = a committee composed of members from both chambers of Congress that exists to resolve legislative disputes
         + Forms compromises on bills so they are more widely appealing
-- Examples
-    * **House Rules Committee** = attaches "rules" to bills
-        + Most powerful committee
-        + Can control how much time is given to debate
-            - If it is, they decide *when*
-    * **House Appropriations Committee** = responsible for allocating funds for specific programs and projects
-    * **House Ways and Means Committee** = responsible for considering tax bills in House of Representatives
-    * **Senate Finance Committee** = responsible for considering tax bills in Senate
+
+
+---
+
+
+# 2016-11-16
+
+#### Examples of Congressional Committees
+- **House Rules Committee** = attaches "rules" to bills
+    * Most powerful committee
+    * Can control how much time is given to debate
+        + If it is, they decide *when*
+- **House Appropriations Committee** = responsible for allocating funds for specific programs and projects
+- **House Ways and Means Committee** = responsible for considering tax bills in House of Representatives
+- **Senate Finance Committee** = responsible for considering tax bills in Senate
+
+#### How Do I Get On a Committee?
+- Members of Congress want to get on the best committee for **them**
+    * Typically region-specific
+        + *e.g.* Arizona reps focus a lot on immigration committees
+    * In order to get on their desired committees, they typically need party consent
+        + Parties make efforts to get approved members onto certain committees
+
+#### How Do I Get to Lead a Committee?
+- **Committee Chair** = big dog
+    * Always held by the majority party
+        + Not a codified rule, but a tradition that is kept to
+- Biggest factor is **seniority**
+    * **Seniority** = *how long have you been involved in this issue?*
+
+#### Can I Pass Legislation Without a Committee?
+- **Answer**: *yes*
+    * **Discharge Petition** = a tool used to bring a bill up for voting in the House of Representatives or the Senate **without** requiring a committee to pass it
+        + Typically used if a committee head is purposefully blocking the bill
+        + Fairly rare--a very difficult process
+
+### Congressional Caucuses
+- **Caucus** = a collection of Congresspeople that share a similar characteristic or goal
+    * Principal role: pressure committee to meet and petition Congress to vote for their bills
+
+### Congressional Staff
+- **Personal Staff** = hired persons that work for a member of Congress
+    * Primarily serves to represent constituents
+    * Also helps research and write bills
+- **Committee Staff** = persons hired by the committee
+    * Roles
+        + Organize meetings
+        + Resarch and write bills
+    * Main target of lobbyists
+- **Staff Agencies** = organizations that give specific information to Congress
+    * **CRS** = **C**ongressional **R**esearch **S**ervice
+    * **GAO** = **G**overnment **A**ccountability **O**ffice
+        + Keeps track of expenses, receipts, etc
+    * **CBO** = **C**ongressional **B**udget **O**ffice
+        + Responsible for disclosing information about the budget
+
+### How Does a Bill Become a Law
+- **Bill** = a proposed law
+- *Anybody* can draft a bill
+- Party leaders play important role in steering bill
+- House is more "regulated" than the Senate
+- *Who writes the bill?*
+    * **Delegate** = a person meant to represent the constituents
+        + Steers development of bills to match interests of the people
+    * **Trustee** = a person who isn't expected to represent anyone but themselves
+
+### Congress-President Relationship: Partners and Antagonists
+- Presidents have many tools for influencing Congress
+    * Electoral support = *I was popularly elected; you better listen to me or you won't get re-elected*
+    * Veto power
+- In order for Presidential influence to successfully impact Congress, he must win several battles
+
+### Lobbyists
+- There are over 26 lobbyists per member of Congress
+- Congress is capable of just *ignoring* lobbyists
+    * Additionally, they can place regulations on what they can do
+- Lobbyists and many other grousp
