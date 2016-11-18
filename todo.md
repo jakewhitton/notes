@@ -10,7 +10,9 @@
     * 1 FRQ
 
 ##AP Psych
-- None
+- Submit notes
+- Chapter summaries
+- Study guide
 
 ##AP Compsci
 - None
