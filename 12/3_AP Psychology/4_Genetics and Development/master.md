@@ -82,6 +82,46 @@
 ---
 
 
+# 2016-11-02
+
+### Gender
+- **Gender Role** = a set of expected behaviors for men and women
+- **Gender Identity** = a person's sense of which gender they belong to
+    * Called **cisgender**
+- Differences
+    * Personality
+        + Women tend to be more nurturing than men
+        + Men tend to be more assertive than women
+    * Cognition
+        + Virtually no difference for most abilities
+        + Women tend to score higher on tests of verbal skills, reading, and writing
+        + Men tend to score higher on tests of spatial recognition
+            - Rotating objects in mind, etc
+        + Men score slightly better than women in math tests
+            - Within the margin of error
+            - Could be described with socio-economic factors
+
+#### Acquiring Gender
+- **Gender-Typing** = the traditional acquisition of feminine or masculine gender that aligns with sex
+- Age
+    * Typically, by age 2-3, children are able to assert which gender they feel comfortable with
+        + Mostly based on things like clothing preferences
+    * After 3, gender is defined by activities and toy preference
+- **Social Learning Theory** = theory of gender that posits that humans obtain gender by observing and imitating those around them
+    * In addition, rewards and punishments shape their behavior with regards to gender
+- **Gender Schema Theory** = theory of gender that posits that humans obtain gender by basing their schemas off of surrounding culture
+    * Movies
+    * Books
+    * Television
+    * *etc.*
+- **Androgynous** = possessing traits from both genders
+    * Typically caused by abnormalities in hormones
+
+
+
+---
+
+
 # 2016-11-03
 
 ### Prenatal Development
