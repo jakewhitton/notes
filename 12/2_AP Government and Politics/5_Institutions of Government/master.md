@@ -231,3 +231,108 @@
 - Congress is capable of just *ignoring* lobbyists
     * Additionally, they can place regulations on what they can do
 - Lobbyists and many other grousp
+
+
+---
+
+
+# 2016-11-28
+
+## The President
+
+### Big Ideas
+- What is the *structure* of the presidency?
+- Executive branch is the one that runs the government
+
+
+### Structure of the Executive
+- **Act with Dispatch**
+    * Described in federalist paper #70
+- Founded on principle of **separation of powers**
+- **Formal** requirements for office
+    * Must be 35 years or older
+    * Must have resided in US for at least 14 years
+        + Serves to protect country for foreign interests
+    * Must be a natural-born citizen
+- **Informal** requirements
+    * Must be white
+        + Obama is currently the only exception
+    * Must be male
+        + Hillary Clinton got fairly far, but we still haven't had a female president or president-elect
+    * Must be Christian
+        + Almost always Protestant, except JFK, who was Catholic
+- Typically, the Presidency is occupied by someone who hold former office in a governmental role
+
+
+### Structure of the "Term"
+- Terms are defined as to last for 4 years
+- **22nd Amendment** = Presidents are limited to two terms
+    * Pushed through because FDR served for... like... infinity
+
+### Succession and Impeachment
+- If the President dies, the Vice President will succeed him/her
+- If the Vice President then dies, the Speaker of the House will succeed him/her
+- **Impeachment** = the drawing of charges against an official for violating the law
+- **Trying** = the ruling of guilt or innocence of said official
+- Only two presidents have been impeached
+    * Andrew Johnson
+    * William Clinton
+    * Richard Nixon was **NOT** impeached; he resigned before they could impeach him
+
+
+---
+
+
+# 2016-11-29
+
+### Constitutional "Roles"
+- **National Security**
+    - Commander in Chief
+        * McKinley directing forces during the Spanish-American war
+    - Chief Diplmoat
+        * Wilson with the 14 points
+- **Legislative**
+    - Chief Legislator
+        * Obama with Obamacare
+    - Chief of State
+        * Obama and state of the union addresses
+- **Administrative**
+    - Chief Executive
+        * Truman enforces desegregation as ruled on by *Brown v Board of Education*
+    - Chief Administrator
+        * Donald f\*\*king Trump appointing imbeciles to the buearucracy
+    - Head of Political Party
+        * Obama spearheading negotiations on Obamacare
+- **Judicial**
+    - Chief Jurist
+        * "Midnight Appointments" done right as Jefferson was entering office
+
+### Heads of State vs Head of Government
+- **Chief of State** = official serves a *ceremonial* duty
+    * *eg.* Queen Elizabeth is mostly just a symbol
+- **Chief of Government** = official serves more as a policy-making authority
+
+#### Constitutional Roles and Examples
+- **National Security**
+    * **Commander-in-Chief** = control the armed forces
+    * Sign treaties with other nations
+- **Legislative**
+    * Veto bills
+    * Issue State of the Union address
+- **Administrative**
+    * Nomination of non-judicial officials
+        + *eg.* Bureaucracy
+- **Judicial**
+    * Appointing judges
+    * Pardoning people
+        + AND TURKEYS
+            - *gobble.*
+- **Informal Powers**
+    * Kind of a miscellaneous category
+    * **Executive order** = an order that does not require Congressional approval
+        + Is fundamentally a **domestic** power
+        + *eg.*
+            - After the Pearl Harbor attack, FDR established internment camps
+            - Obama's immigration initiative
+    * **Executive agreement** = the agreeing with the position another country has taken; does not require 
+        + Is fundamentally a **foreign** power
