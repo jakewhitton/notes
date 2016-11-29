@@ -2,7 +2,7 @@
 
 ## AP Literature and Composition
 - None
-- SEE [KEY DATES](./12/1_AP Literature and Composition/keydates.md)
+- [SEE KEY DATES](./12/1_AP Literature and Composition/keydates.md)
 
 ## AP US Government and Politics
 - None
