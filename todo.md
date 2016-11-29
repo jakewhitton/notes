@@ -2,17 +2,13 @@
 
 ## AP Literature and Composition
 - None
-- [ ] SEE [KEY DATES](./12/1_AP Literature and Composition/keydates.md)
+- SEE [KEY DATES](./12/1_AP Literature and Composition/keydates.md)
 
 ## AP US Government and Politics
-- [x] Study for test on Friday
-    * 30 Multiple choice
-    * 1 FRQ
+- None
 
 ## AP Psychology
-- [x] Submit notes
-- [x] Chapter summaries
-- [x] Study guide
+- None
 
 ## AP Computer Science
 - None
