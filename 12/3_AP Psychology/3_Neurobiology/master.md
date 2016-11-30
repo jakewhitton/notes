@@ -204,3 +204,107 @@
 - Magnetic Resonance Imaging Scan(MRI Scan)
     * Large electromagnets and radio waves make water in the brain orient itself in line with the magnetic field
     * Can generate very high-detail images
+
+
+---
+
+
+# 2016-10-03
+
+### Brainstem
+- Oldest part of the brain
+- Where spinal chord meets brain
+- Controls involuntary physical processes
+- **Medulla**
+    * Controls
+        + Breathing
+        + Heart rate
+        + Digestion
+        + Swallowing
+        + Coughing
+        + Vomiting
+        + Sneezing
+- **Pons**
+    * Controls coordinated motion
+- **Reticular Formation**
+    * Also called **Reticular Activating System(RAS)**
+    * Controls
+        + Sleep
+        + Arousal
+        + Attention
+
+### Midbrain
+- **Cerebellum**
+    * Divided among the two hemispheres
+    * Controls voluntary motions on a per-hemisphere basis
+    * Lesions can result in
+        + Jerky movements
+        + Loss of balance
+- **Thalmus**
+    * Acts like a router for sense data
+        + *Except* for smell
+- **Hypothalmus**
+    * Small control center
+    * Controls
+        + Sexual drive
+        + Hunger
+        + Thirst
+        + Sleep
+        + Regulating electrolyte concentration
+        + Regulating body temperature
+        + Circadian rythym
+        + Hormone secretion
+- **Amygdala**
+    * Has a role in emotional processing
+        + Especially recognizing facial expressions
+    * Lesions can result in difficulty socializing
+- **Hippocampus**
+    * Primarily involved in forming new memories
+        * **Anterograde amnesia** = inability to form new memories
+    * Lesions associated with Alzheimer's Disease
+
+### Outer Brain
+- **Cerebral Cortex**
+    * Thin layer of tissue that covers each hemisphere
+    * Processes information
+    * **Glial Cells** = specialized neurons that provde support, nourishment, and protectiond for surrounding neurons
+    * Composed of 4 **lobes**
+        + **Frontal Lobes**
+            - Contains **motor cortex** at rear
+            - Speaking
+            - Muscle movement
+            - Planning/Judging
+        + **Parietal Lobes**
+            - Contains **sensory cortex** at front
+            - Processes information from **Somatic Nervous System**
+        + **Occipital Lobes**
+            - Processes visual sense data
+            - **Remember**: *Occ*ular
+        + **Temporal Lobe**
+            - Contains **auditory cortex**
+            - Processes auditory sense data
+    * **Association Areas** = areas of the cerebral cortex not involved in motor or sensory functions
+
+
+---
+
+
+# 2016-10-04
+
+### The Cerebral Cortex Cont
+  - Aphasia = difficulty with language
+    * Associated with damage to Broca's area or Wernicke's area
+    * Broca's Area
+      + Brain area on left frontal lobe--controls muscles associated with speech
+    * Wernicke's Area
+      + Brain area in left temporal lobe--processes and understands language
+    * Mneumonic: *You broca, you no seaka*
+  - Neuroplasticity
+    * the ability for neural networks to reform
+    * Stronger the younger you are
+  - Corpus Callosum
+    * a collection of many, many neural fibers
+    * Serves to connect two brain hemispheres
+    * Conveys messages between areas of both hemispheres
+  - Split Brain Procedure
+    * Corpus Callosum is severed, seperating each hemisphere from one another

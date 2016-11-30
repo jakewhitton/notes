@@ -1,19 +1,23 @@
 # TODO
 
-##AP Lit  
-- Page 314 in Textbook, Question #3
-    * Word processed
-    * > Describe Connie. Is she unusual at al? What happens to her perceptions of her situation as she stands within the kitchen and Arnold Friend stands outside?  Why does she leave the house with Arnold at the end?
-- SEE [KEY DATES](./12/1_AP Literature and Composition/keydates.md)
+## AP Literature and Composition
+- [ ] Study for **monster critical reading test** on Pride and Prejudice
+    * Test is on **2016-12-07**
+- [ ] Work on Senior Project Proposal & Signature Sheet
+    * Due **2016-12-15**
+- [SEE KEY DATES](./12/1_AP Literature and Composition/keydates.md)
 
-##AP Gov  
+## AP US Government and Politics
+- [ ] Bureaucracy paper due **2016-12-7**
+
+## AP Psychology
 - None
 
-##AP Psych
+## AP Computer Science
 - None
 
-##AP Compsci
-- Encoding an experience project due Monday
+## AP Physics C: Electricity and Magnetism
+- [ ] Read chapters 21-26
 
-##Misc
+## Misc
 - None

@@ -108,3 +108,301 @@
         + Verifying treaties
     * Both
         + Amendment passing
+
+
+---
+
+
+# 2016-11-15
+
+### Dynamics of Power in Congress
+- House of Representatives
+    * **Speaker of the House** = official elected by House
+        + Exercises significant control over comittee assignments and legislation
+        + Serves as coordinator for debate time and committee action
+    * **Whips** = party affiliates who exert influence over politicians by threatening to withdraw support of the party to their candidacy
+    * House Committee Rules
+        + **Closed Rule** = bill cannot be modified on the floor
+            - Must be passed *as-is*
+        + **Open Rule** = bills can be modified on the floor
+            - Easier to get passed
+            - Possible that bill's purpose will be compromised into nonexistence
+- Senate
+    * **Vice President** = official that oversees the Senate
+    * **President Pro-Tempore** = An official, typically a Senator, that the Senate elects to be a "backup" president in case the President and Vice President die
+        + Typically the senior member of the majority party
+    * Each party's senators elects a leader
+        + Majority party's leader effectively controls the Senate because he can influence the majority of the delegates
+        + Minority party's leader is essentially powerless
+    * **Filibuster** = unlimited debate time
+        + Introduced in the 1830's
+    * **Cloture** = a vote that moves to end debate on a topic
+        + Requires a super-majority(60%)
+
+### Congressional Committees
+- **Congressional Committees** = collection of Congresspeople that principally focus on a few issues
+    * **Chairman** = leader of committee
+    * Central role: consider and develop legislation
+    * **Standing Committee** = a permanent committee
+        + Allocated one subject on which to consider policy
+        + Constitutes the source of most bills
+    * **Select/Special Committee** = short-term committee meant to address a pressing issue
+        + Traditionally functions as an investigative body
+        + **Oversight Hearings** = individuals associated with the federal bureaucracy testify to things that are investigated by certain Congressional committees
+    * **Joint Committee** = a committee composed of members from both chambers of Congress that are meant to serve interests of Congress as a whole
+        + Considers issues directly related to Congress as a whole
+        + Oversees Congressional suppot agencies
+    * **Conference Committee** = a committee composed of members from both chambers of Congress that exists to resolve legislative disputes
+        + Forms compromises on bills so they are more widely appealing
+
+
+---
+
+
+# 2016-11-16
+
+#### Examples of Congressional Committees
+- **House Rules Committee** = attaches "rules" to bills
+    * Most powerful committee
+    * Can control how much time is given to debate
+        + If it is, they decide *when*
+- **House Appropriations Committee** = responsible for allocating funds for specific programs and projects
+- **House Ways and Means Committee** = responsible for considering tax bills in House of Representatives
+- **Senate Finance Committee** = responsible for considering tax bills in Senate
+
+#### How Do I Get On a Committee?
+- Members of Congress want to get on the best committee for **them**
+    * Typically region-specific
+        + *e.g.* Arizona reps focus a lot on immigration committees
+    * In order to get on their desired committees, they typically need party consent
+        + Parties make efforts to get approved members onto certain committees
+
+#### How Do I Get to Lead a Committee?
+- **Committee Chair** = big dog
+    * Always held by the majority party
+        + Not a codified rule, but a tradition that is kept to
+- Biggest factor is **seniority**
+    * **Seniority** = *how long have you been involved in this issue?*
+
+#### Can I Pass Legislation Without a Committee?
+- **Answer**: *yes*
+    * **Discharge Petition** = a tool used to bring a bill up for voting in the House of Representatives or the Senate **without** requiring a committee to pass it
+        + Typically used if a committee head is purposefully blocking the bill
+        + Fairly rare--a very difficult process
+
+### Congressional Caucuses
+- **Caucus** = a collection of Congresspeople that share a similar characteristic or goal
+    * Principal role: pressure committee to meet and petition Congress to vote for their bills
+
+### Congressional Staff
+- **Personal Staff** = hired persons that work for a member of Congress
+    * Primarily serves to represent constituents
+    * Also helps research and write bills
+- **Committee Staff** = persons hired by the committee
+    * Roles
+        + Organize meetings
+        + Resarch and write bills
+    * Main target of lobbyists
+- **Staff Agencies** = organizations that give specific information to Congress
+    * **CRS** = **C**ongressional **R**esearch **S**ervice
+    * **GAO** = **G**overnment **A**ccountability **O**ffice
+        + Keeps track of expenses, receipts, etc
+    * **CBO** = **C**ongressional **B**udget **O**ffice
+        + Responsible for disclosing information about the budget
+
+### How Does a Bill Become a Law
+- **Bill** = a proposed law
+- *Anybody* can draft a bill
+- Party leaders play important role in steering bill
+- House is more "regulated" than the Senate
+- *Who writes the bill?*
+    * **Delegate** = a person meant to represent the constituents
+        + Steers development of bills to match interests of the people
+    * **Trustee** = a person who isn't expected to represent anyone but themselves
+
+### Congress-President Relationship: Partners and Antagonists
+- Presidents have many tools for influencing Congress
+    * Electoral support = *I was popularly elected; you better listen to me or you won't get re-elected*
+    * Veto power
+- In order for Presidential influence to successfully impact Congress, he must win several battles
+
+### Lobbyists
+- There are over 26 lobbyists per member of Congress
+- Congress is capable of just *ignoring* lobbyists
+    * Additionally, they can place regulations on what they can do
+- Lobbyists and many other grousp
+
+
+---
+
+
+# 2016-11-28
+
+## The President
+
+### Big Ideas
+- What is the *structure* of the presidency?
+- Executive branch is the one that runs the government
+
+
+### Structure of the Executive
+- **Act with Dispatch**
+    * Described in federalist paper #70
+- Founded on principle of **separation of powers**
+- **Formal** requirements for office
+    * Must be 35 years or older
+    * Must have resided in US for at least 14 years
+        + Serves to protect country for foreign interests
+    * Must be a natural-born citizen
+- **Informal** requirements
+    * Must be white
+        + Obama is currently the only exception
+    * Must be male
+        + Hillary Clinton got fairly far, but we still haven't had a female president or president-elect
+    * Must be Christian
+        + Almost always Protestant, except JFK, who was Catholic
+- Typically, the Presidency is occupied by someone who hold former office in a governmental role
+
+
+### Structure of the "Term"
+- Terms are defined as to last for 4 years
+- **22nd Amendment** = Presidents are limited to two terms
+    * Pushed through because FDR served for... like... infinity
+
+### Succession and Impeachment
+- If the President dies, the Vice President will succeed him/her
+- If the Vice President then dies, the Speaker of the House will succeed him/her
+- **Impeachment** = the drawing of charges against an official for violating the law
+- **Trying** = the ruling of guilt or innocence of said official
+- Only two presidents have been impeached
+    * Andrew Johnson
+    * William Clinton
+    * Richard Nixon was **NOT** impeached; he resigned before they could impeach him
+
+
+---
+
+
+# 2016-11-29
+
+### Constitutional "Roles"
+- **National Security**
+    - Commander in Chief
+        * McKinley directing forces during the Spanish-American war
+    - Chief Diplmoat
+        * Wilson with the 14 points
+- **Legislative**
+    - Chief Legislator
+        * Obama with Obamacare
+    - Chief of State
+        * Obama and state of the union addresses
+- **Administrative**
+    - Chief Executive
+        * Truman enforces desegregation as ruled on by *Brown v Board of Education*
+    - Chief Administrator
+        * Donald f\*\*king Trump appointing imbeciles to the buearucracy
+    - Head of Political Party
+        * Obama spearheading negotiations on Obamacare
+- **Judicial**
+    - Chief Jurist
+        * "Midnight Appointments" done right as Jefferson was entering office
+
+### Heads of State vs Head of Government
+- **Chief of State** = official serves a *ceremonial* duty
+    * *eg.* Queen Elizabeth is mostly just a symbol
+- **Chief of Government** = official serves more as a policy-making authority
+
+#### Constitutional Roles and Examples
+- **National Security**
+    * **Commander-in-Chief** = control the armed forces
+    * Sign treaties with other nations
+- **Legislative**
+    * Veto bills
+    * Issue State of the Union address
+- **Administrative**
+    * Nomination of non-judicial officials
+        + *eg.* Bureaucracy
+- **Judicial**
+    * Appointing judges
+    * Pardoning people
+        + AND TURKEYS
+            - *gobble.*
+- **Informal Powers**
+    * Kind of a miscellaneous category
+    * **Executive order** = an order that does not require Congressional approval
+        + Is fundamentally a **domestic** power
+        + *eg.*
+            - After the Pearl Harbor attack, FDR established internment camps
+            - Obama's immigration initiative
+    * **Executive agreement** = the agreeing with the position another country has taken; does not require 
+        + Is fundamentally a **foreign** power
+
+
+---
+
+
+# 2016-11-30
+
+### Practice FRQ
+> American politics has been  called an "invitation to struggle."  Although in recent years the president has been thought to have an advantage in policy-making, there are still constraints on the power of the president.
+>
+> a. Describe a power of the president in each of the following roles
+>     - Chief legislator
+>     - Chief bureaucrat or chief administrator
+
+#### Answer
+- **Vetoing a bill**:  If a bill passes through Congress, the president can move to veto said bill.  This amounts to barr the bill from being signed into law, effectively killing the bill unless Congress can override with a supermajority.
+- **Appointing to the Bureaucracy**:  The president has the power to appoint certain people to different positions as the head of certain bureaucratic agencies.  For example, President Obama made Hillary Clinton, who lost in the Democratic primary to Obama, as Secretary of State.  This power allows the president to excercise power as Chief Administrator by choosing *who* to appoint to said positions.
+
+
+### Inside the White House
+- The **Vice President** actually has very few Constitutional duties
+    * As a result, the **President** typically appoints the **Vice President** to an important cabinet position
+    * VP's function to **balance the ticket**
+        + **Balance the ticket** = make the campaign more widely supported by packing a *more* appealing VP to win more states
+- **Cabinet** = body composed of advisors to the President
+    * Members serve as Secretaries of various Federal Departments
+        + Does count as a federal appointment--must be approved by Senate
+- **Executive Office** = a body of members that do **not** belong to the bureaucracy
+    * Has the role of **briefing** the president of information
+        + Said info is received from collaboration between the **Cabinet** and the **Executive Office**
+    * Because they are not federal appointments, they are **not** confirmed by the Senate
+    * *Four* main associations
+        + **National Security Council(NSC)**
+        + **Council of Economic Advisors(CEA)**
+        + **Office of Management and Budget(OMB)**
+        + **White House Office** = a body composed of staff and chief aides
+            - Typically chosen on basis of loyalty
+            - **Because** they are members of the executive office, they do **not** need to be appointed by the Senate
+- **First Lady** = the romantic partner of the President
+    * No official constitutional role
+    * Typically run initiatives that focus on single issues
+        + Michelle Obama = childhood obesity
+        + Hillary Clinton = healthcare
+
+### The Dynamics of Shared Power
+- The **president** and **Congress** need to cooperate in order for policy-making to happen
+- **Checks and Balances**
+    * **Veto** = the power to reject a bill that has been passed by Congress
+        + Can be bypassed by a **two-thirds majority** of **both** houses
+    * **Pocket Veto** = the power to refrain from signing a bill without actually vetoing it
+        + The bill silently expires after 10 days
+        + **Cannot** be overturned--effectively kills a bill
+    * **Line Item Veto** = the power to veto **parts** of a bill
+        + The president *used* to have this power, but it was overturned by the **Supreme Court**
+        + State governors **do** have this power
+    * **Presidential Mandate** = campaign promises that are backed by the president's wave of popularity
+        + Mandates rarely develop into substantial policy, but they are claimed during campaigns anyway
+- The president can act as **Chief Legislator**
+    * Examples
+        + Bargaining for certain policy
+        + Utilizing their popularity to exert legislative pressure
+        + Consulting with Congress
+        + Issuing the **State of the Union** address
+    * **Honeymoon Period** = defined as the first 100 days
+        + Similar to how missing persons investigations consider the first 48 hours the critical period for finding leads
+    * In this, the president acts as the **nation's key agenda builder**
+-  The president can act as the **Head of State**
+    * *Popularity* is the main way that the president can influence Congress
+    * **Head of State** = the performing of a ceremonial function
+        + Media gobbles it up

@@ -82,6 +82,46 @@
 ---
 
 
+# 2016-11-02
+
+### Gender
+- **Gender Role** = a set of expected behaviors for men and women
+- **Gender Identity** = a person's sense of which gender they belong to
+    * Called **cisgender**
+- Differences
+    * Personality
+        + Women tend to be more nurturing than men
+        + Men tend to be more assertive than women
+    * Cognition
+        + Virtually no difference for most abilities
+        + Women tend to score higher on tests of verbal skills, reading, and writing
+        + Men tend to score higher on tests of spatial recognition
+            - Rotating objects in mind, etc
+        + Men score slightly better than women in math tests
+            - Within the margin of error
+            - Could be described with socio-economic factors
+
+#### Acquiring Gender
+- **Gender-Typing** = the traditional acquisition of feminine or masculine gender that aligns with sex
+- Age
+    * Typically, by age 2-3, children are able to assert which gender they feel comfortable with
+        + Mostly based on things like clothing preferences
+    * After 3, gender is defined by activities and toy preference
+- **Social Learning Theory** = theory of gender that posits that humans obtain gender by observing and imitating those around them
+    * In addition, rewards and punishments shape their behavior with regards to gender
+- **Gender Schema Theory** = theory of gender that posits that humans obtain gender by basing their schemas off of surrounding culture
+    * Movies
+    * Books
+    * Television
+    * *etc.*
+- **Androgynous** = possessing traits from both genders
+    * Typically caused by abnormalities in hormones
+
+
+
+---
+
+
 # 2016-11-03
 
 ### Prenatal Development
@@ -144,14 +184,19 @@
 #### Jean Piaget
 - Developed **cognitive development personality theory**
     * 4 states of cognitive development
-        + **Sensorimotor**
-            - **Egocentrism** = the inability to view things from a perspective other than their own
+        + **Sensorimotor(2 and below)**
             - **Object Permanence** = the understanding that things continue to exist even if they aren't visible
             - **Stranger Anxiety** = fear of unknown people, starts at 8 months
+        + **Preoperational(2-7)**
+            - **Egocentrism** = the inability to view things from a perspective other than their own
+            - **Animism** = the understanding that other things have subjective perspectives
+            - **Artificialism** = the understanding that many things are *created* by humans
+        + **Concrete Operational(7-12)**
             - **Conservation** = the understanding that aspects of matter like mass or volume are conserved regardless of shape
-        + **Preoperational**
-        + **Concrete Operational**
-        + **Formal Operational*
+        + **Formal Operational(12+)**
+            - Abstract thought
+            - Hypothetical thinking
+            - ALGEBRA!!!
 
 
 ---
@@ -234,3 +279,64 @@
     - Coninues to obey law; works to change the law within the confines of the law
 6. Self-Actualization
     - Change requires that you disobey the law
+
+
+---
+
+
+# 2016-11-14
+
+### Erikson's Theory of Social Development
+- Based in premise that Natural Selection bred into us the propensity to develop relationships that are beneficial to survival
+- Life span segmented into 8 stages
+    * Each segment characterized by a different drive and crisis
+
+##### The Eight Stages
+|   |          Crisis Name           | Basic Virtue |       Age Range        |
+|---|--------------------------------|--------------|------------------------|
+| 1 |       Trust vs Mistrust        |     Hope     |     Infancy(0-1.5)     |
+| 2 |       Autonomy vs Shame        |     Will     | Early Childhood(1.5-3) |
+| 3 |      Initiative vs Guilt       |   Puropose   |      Play Age(3-5)     |
+| 4 |    Industry vs Inferiority     |  Competency  |     School Age(5-12)   |
+| 5 | Ego identity vs Role Confusion |   Fidelity   |    Adolescence(12-18)  |
+| 6 |      Intimacy vs Isolation     |     Love     |    Young Adult(18-40)  |
+| 7 |   Generativity vs Stagnation   |     Care     |     Adulthood(40-65)   |
+| 8 |    Ego Integrity vs Despair    |    Wisdom    |      Maturity(65+)     |
+
+### Carol Gilligan's Ideas About Gender
+- Believes that males and females differ fundamentally in the way they relate to larger groups
+- Males = more focused on perceiving themselves as individuals
+- Females = more focused on drawing connections between things
+
+### Independence
+- The process of social development results, at least in Western cultures, with the individual beginning to separate from the parents
+- Increase in arguments
+- **Empty-Nest Syndrome**
+
+## Physical Development
+- **Menopause** = process by which menstruation stops occurring
+    * Women are no longer fertile = cannot become pregnant
+- **Alzheimer's Disease** = a slow-developing and irreversible brain disorder
+    * Gradual deterioration of cognitive skills
+        + Memory
+        + Reasoning
+        + Language
+        + Physical functions
+            - Ultimately results in death
+    * Difficult to detect, because cognition naturally decays with age
+
+## Cognitive Development
+- **Crystallized Intelligence** = accumulated information and encoded memory
+    * Tends to increase with age and experience
+- **Fluid Intelligence** = ability to reason quickly and in the abstract
+    * Tends to decrease with age
+
+### Kubler-Ross's Stages of Dying
+- A series of steps that occur as one comes to term with the fact that they will die soon
+- Stages
+    1. Denial
+    2. Anger
+    3. Bargaining with God
+        + What if you're not religious?
+    4. Depression
+    5. Acceptance of Death

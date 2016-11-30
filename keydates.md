@@ -1,17 +1,14 @@
-#Key Dates
-  - 9/03 - Critical Reading Assess
-  - 9/05 - Back to School Night
-  - 9/06 - Holden's Oddysey Assignment due
-  - 9/07 - Homecoming court announced
-  - 9/14 - Catcher Timed Writing
-  - 9/13 - "Family of Man" due
-  - 9/17 - Modified day
-  - 9/18 - Catcher assignment due
-  - 9/19 - Schoolwide SAT
-  - 9/21 - Siddhartha Essay due & Timed writing on Siddhartha, Portfolios due
-  - 9/23 - Group Test on Allusions(Greek and Judeo-Christian)
-  - 9/26 - End of 1^st quarter; minimum day
-  - 9/28 - Writing Groups
-  - 9/30 Mandalas Due
-  - 10/6 Holden's Oddyssey Due
-  - 10/12 Catcher Essay & Timed Writing
+# Key Dates
+- **2016-12-07**: Huge critical reading test on Pride and Prejudice
+- **2016-12-08**: Blood drive
+- **2016-12-09**: Vocal music concert
+- **2016-12-12**: Early release
+- **2016-12-12..16**: Holiday Shows & Elf
+- **2016-12-15**: Senior Project Proposal & Signature Sheet Due
+- **2016-12-16**: Winter sports assembly
+- **2016-12-17**: FIRST DAY OF WINTER BREAK
+- **2017-01-08**: LAST DAY OF WINTER BREAK
+- **2017-01-09**: No musing due
+- **2017-01-13**: Writing groups
+- **2017-01-17**: Portfolio due
+- **2017-01-19**: Writing groups
