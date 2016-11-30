@@ -1,11 +1,14 @@
 # TODO
 
 ## AP Literature and Composition
-- None
+- [ ] Study for **monster critical reading test** on Pride and Prejudice
+    * Test is on **2016-12-07**
+- [ ] Work on Senior Project Proposal & Signature Sheet
+    * Due **2016-12-15**
 - [SEE KEY DATES](./12/1_AP Literature and Composition/keydates.md)
 
 ## AP US Government and Politics
-- None
+- [ ] Bureaucracy paper due **2016-12-7**
 
 ## AP Psychology
 - None
