@@ -391,3 +391,18 @@
     * **Line Item Veto** = the power to veto **parts** of a bill
         + The president *used* to have this power, but it was overturned by the **Supreme Court**
         + State governors **do** have this power
+    * **Presidential Mandate** = campaign promises that are backed by the president's wave of popularity
+        + Mandates rarely develop into substantial policy, but they are claimed during campaigns anyway
+- The president can act as **Chief Legislator**
+    * Examples
+        + Bargaining for certain policy
+        + Utilizing their popularity to exert legislative pressure
+        + Consulting with Congress
+        + Issuing the **State of the Union** address
+    * **Honeymoon Period** = defined as the first 100 days
+        + Similar to how missing persons investigations consider the first 48 hours the critical period for finding leads
+    * In this, the president acts as the **nation's key agenda builder**
+-  The president can act as the **Head of State**
+    * *Popularity* is the main way that the president can influence Congress
+    * **Head of State** = the performing of a ceremonial function
+        + Media gobbles it up
