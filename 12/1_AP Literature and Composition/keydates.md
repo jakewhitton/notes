@@ -1,6 +1,14 @@
-#Key Dates
-- **2016-11-16**: A Doll's House FRQ
-- **2016-11-29**: Pride and Prejudice Due
-- **2016-12-01**: Huge critical reading test on Pride and Prejudicea
-- **2016-11-19**: First day of Thanksgiving Break
-- **2016-11-27**: Last day of Thanksgiving Break
+# Key Dates
+- **2016-12-07**: Huge critical reading test on Pride and Prejudice
+- **2016-12-08**: Blood drive
+- **2016-12-09**: Vocal music concert
+- **2016-12-12**: Early release
+- **2016-12-12..16**: Holiday Shows & Elf
+- **2016-12-15**: Senior Project Proposal & Signature Sheet Due
+- **2016-12-16**: Winter sports assembly
+- **2016-12-17**: FIRST DAY OF WINTER BREAK
+- **2017-01-08**: LAST DAY OF WINTER BREAK
+- **2017-01-09**: No musing due
+- **2017-01-13**: Writing groups
+- **2017-01-17**: Portfolio due
+- **2017-01-19**: Writing groups
