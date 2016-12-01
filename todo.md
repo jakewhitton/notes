@@ -17,6 +17,8 @@
 - None
 
 ## AP Physics C: Electricity and Magnetism
+- [ ] Presentation on Circuit Breaker technology
+    * Complete ASAP
 - [ ] Read chapter 21
 - [ ] Read chapter 22
 - [ ] Read chapter 23
