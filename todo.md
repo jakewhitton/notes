@@ -17,7 +17,12 @@
 - None
 
 ## AP Physics C: Electricity and Magnetism
-- [ ] Read chapters 21-26
+- [ ] Read chapter 21
+- [ ] Read chapter 22
+- [ ] Read chapter 23
+- [ ] Read chapter 24
+- [ ] Read chapter 25
+- [ ] Read chapter 26
 
 ## Misc
 - None
