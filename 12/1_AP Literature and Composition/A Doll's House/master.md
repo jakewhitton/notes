@@ -1,3 +1,4 @@
+# symbolism
 
 ## How Do We Recognize Symbols?
 - 3 Step Process
