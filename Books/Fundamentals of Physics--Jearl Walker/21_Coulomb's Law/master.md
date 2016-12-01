@@ -14,3 +14,9 @@
     * Created **Maxwell's Equations**
         + **Gauss's Law**
             - $$ \nabla \cdot \textbf{E} = \frac{\rho}{\epsilon_0} $$
+        + **Gauss's Law for Magnetism**
+            - $$ \nabla \cdot \textbf{B} = 0 $$
+        + **Faraday's Law of Induction**
+            - $$ \nabla \times \textbf{E} = - \frac{\delta \textbf{B}}{\delta t} $$
+        + **Ampere's Circuital Law**
+            - $$ \nabla \times \textbf{B} = \mu_0 \big( \textbf{J} + \epsilon_0 \frac{\delta \textbf{E}}{\delta t} \big) $$
