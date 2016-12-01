@@ -12,4 +12,5 @@
         + Physicists *love* them some formulas
 - **James Clerk Maxwell** = physicist who made Faraday's discoveries more conrete
     * Created **Maxwell's Equations**
-        + **Gauss's Law** = $$ \nabla \cdot \textbf{E} = \frac{\rho}{\epsilon_0} $$
+        + **Gauss's Law**
+            - $$ \nabla \cdot \textbf{E} = \frac{\rho}{\epsilon_0} $$
