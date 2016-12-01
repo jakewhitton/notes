@@ -1,0 +1,51 @@
+#!/bin/bash
+
+usage() {
+	echo "Incorrect usage.  This script does not take parameters."
+	echo "Usage: ugenmaster"
+}
+
+
+if [ ! -z "$1" ]; then
+	usage
+	exit
+fi
+
+NOTES_DIRECTORY="/home/jake/notes"
+
+baseDirectories=`ls $NOTES_DIRECTORY`
+
+
+# Filter out non-note directories and files
+for baseFile in $baseDirectories; do
+	if [ $baseFile == "README.md" ] || [ $baseFile == "scripts" ] || [ $baseFile == "todo.md" ] || [ $baseFile == "keydates.md" ]; then
+		baseDirectories=`echo $baseDirectories | sed "s/\${baseFile}//g"`
+	fi
+done
+
+baseDirectories=`echo "$baseDirectories" | tr -s ' '`
+
+for container in $baseDirectories; do
+	shopt -s nullglob
+	containerDirectories=( ${NOTES_DIRECTORY}/${container}/* )
+	shopt -u nullglob
+	
+
+	for subcontainer in "${containerDirectories[@]}"; do
+		#echo "${subcontainer} is in the house"
+
+		#shopt -s nullglob
+		#subcontainerDirectories=( ${subcontainer}/* )
+		#shopt -u nullglob
+		
+		subcontainerDirectories=( $( ls -1p "${subcontainer}" | grep / | sed 's/^\(.*\)/"\1"/') )
+		
+		printf "%s\n" "${subcontainerDirectories[@]}"
+		printf "%s\n" "${#subcontainerDirectories[@]}"
+
+		#for unit in "${subcontainerDirectories[@]}"; do
+			#genmaster "${NOTES_DIRECTORY}/${container}/${subcontainer}/${unit}"
+			#echo "${subcontainer}"
+		#done
+	 done
+done
