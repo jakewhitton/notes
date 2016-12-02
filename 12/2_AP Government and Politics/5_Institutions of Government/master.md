@@ -406,3 +406,64 @@
     * *Popularity* is the main way that the president can influence Congress
     * **Head of State** = the performing of a ceremonial function
         + Media gobbles it up
+
+
+---
+
+
+# 2016-12-02
+
+### Approval Rates
+- **Approval ratings** = rates of favorable views held on president
+    * Mostly a result of extraneous factors that are out of the president's control
+        * *eg.* George Bush Sr. benefits from economic explosion following the collapse of the Soviet Union
+- Higher approval ratings gives the president more leverage over influencing legislative process
+- Initially, approval rates are fairly high
+    * *Why?*
+        + Incumbents feel *familiar*
+        + Washington outsiders feel *new*
+        + Change still seems possible
+        + **"Honeymoon" period** = sh bb I love u
+- The role of the media
+    * **Horserace Journalism** = focusing on approval ratings and polls rather than the content of policy
+    * **Agenda-Setting** = can help modulate peoples' perspectives on the president
+
+### The President and National Security Policy
+- **Chief Diplomat** = the role the president fills when he/she advances foreign policy
+    * Negotiate treaties
+        + Must be ratified by Senate--president doesn't have **complete** control
+    * Signing executive agreements
+        + An example of an "informal" power of the president
+    * Negotiating peace
+    * Advocating for US allies abroad
+- **Commander in Chief** = the role the president fills when he/she manages the military
+    * The framers intended that the president would be a "civilian"
+        + Ensures that the president is acting in the US's interests
+        + Part of the rationale for granting the president the role of **Commander in Chief**
+    * The president can dispatch troops without Congressional consent
+- **War Powers Resolution** = an attempt to allieviate the tension between Congress and the President with regards to war
+    * Central conflict = Congress can declare war without the president sending troops, and vice versa
+    * Provisions
+        + The president **must** consult with Congress before sending troops when possible
+        + Congress **must** approve the continued stay of troops after 30 days
+    * Most presidents have casually ignored it
+    * Supreme court side-stepped it with the **political questions doctrine**
+        + **Political questions doctrine** = the belief that certain issues belong to the domain of *politics*, rather than to the domain of constitutional law
+
+### The Job of the President
+- **Crisis manager** = the role the president fills when he/she serves as a consoling and managerial voice during the aftermath of a crisis
+    * Has the potential to massively hurt or massively help approval ratings
+    * Congress generally moves much slower than the president
+        + Largely because Congress is a body of 535 senators and representatives, whereas the president is one rich white dude
+- **Working with Congress**
+    * Framers intended president to be sole agent of foreign policy
+    * Political gridlock can severely damage approval ratings
+- **Working with the Press**
+    * The media and the president are often adversaries
+    * Media focuses on the **personality** of the president rather than the **content** of his/her policy
+- **Morale booster** = be a cheerleader for American freedom
+- **Agenda setting**
+    * Economic policy
+    * Social policy
+    * National security policy
+- **Persuader** = attempt to convince segments of the population of the virtues of certain policy-positions
