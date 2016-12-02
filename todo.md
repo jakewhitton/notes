@@ -15,7 +15,8 @@
 - Color the eye and ear on the labelling WS
 
 ## AP Computer Science
-- None
+- Complete Unit 3: Stage 4
+    * due **2016-12-05**
 
 ## AP Physics C: Electricity and Magnetism
 - [ ] Presentation on Circuit Breaker technology
