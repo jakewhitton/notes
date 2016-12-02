@@ -8,10 +8,11 @@
 - [SEE KEY DATES](./12/1_AP Literature and Composition/keydates.md)
 
 ## AP US Government and Politics
-- [ ] Bureaucracy paper due **2016-12-7**
+- [ ] Bureaucracy paper
+    * due **2016-12-7**
 
 ## AP Psychology
-- None
+- Color the eye and ear on the labelling WS
 
 ## AP Computer Science
 - None
