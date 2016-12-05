@@ -467,3 +467,43 @@
     * Social policy
     * National security policy
 - **Persuader** = attempt to convince segments of the population of the virtues of certain policy-positions
+
+
+---
+
+
+# 2016-12-05
+
+## The Federal Bureaucracy
+
+### Key Idea
+- The bureaucracy acts somewhat as its own branch of government
+    * Exerts pressure on the other branches
+
+### Terms that Describe the Bureaucracy
+- Specialization
+- Centralization
+- Rules
+- Standardization
+- Expertise
+- Accountability
+
+### The Emergence of the Federal Bureaucracy
+- After the Civil War, we see first large federal agencies
+    * **Department of Agriculture(1862)**
+    * **Pension Office(1866)**
+    * Civil war marks beginning of transition from the **spoils system** to a **merit system**
+        + **Patronage** = jobs given to supporters for political reasons
+        + **Pendleton Act of 1883** = sought to weaken the spoils system and ensure that well-trained officials are in government
+        + **Civil Service** = a model of governmental hiring that emphasizes nonpartisanship and merit
+- **Office of Personnel Management(1879)** = federal agency that oversees governmental hiring practices
+- **Buraucrat** = a government employee that carries out the enforcement of high-level policies
+    * Constitute the majority of the population associated with the government
+    * **Weberian Model** = a model of how bureaucracy should work
+        + Principles
+            - Heirarchy
+            - Specialization of task
+            - Merit-based promotion
+            - Impersonality
+            - Well-organized
+            - Divided into subunits
