@@ -18,11 +18,10 @@ cd "$1"
 
 # Initialize directory structure in /tmp for initial i/o operations
 mkdir -p /tmp/notes/
-if [ ! -e /tmp/notes/master.md ]; then
-	touch /tmp/notes/master.md
-else
-	echo "" > /tmp/notes/master.md
+if [ -e /tmp/notes/master.md ]; then
+	rm /tmp/notes/master.md
 fi
+echo "" > /tmp/notes/master.md
 
 # Populating /tmp/notes/master.md
 shopt -s dotglob
