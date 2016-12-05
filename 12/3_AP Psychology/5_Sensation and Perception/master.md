@@ -48,6 +48,13 @@
 # 2016-11-29
 
 ### Vision
+- **Accommodation** = the process of the lens contorting in order to focus the image on the **fovea**
+- **Acuity** = the accuracy and sharpness of vision
+    * Typically deteriorates with age
+- **Nearsightedness** = a condition in which it is easier for objects near to the eyes to be seen
+- **Farsightedness** = a condition in which it is easier for objects far from the eyes to be seen
+
+#### Psychophysics of Vision
 - **Hue** = basically the color that the light is
     * Determined by **frequency**/**wavelength**
 - **Intensity** = amplitude of EM wave
@@ -56,6 +63,8 @@
     * Larger wavelength is associated with lower frequency
 - **Frequency** = the amount of oscillations the wave undergoes per second
     * Measured in Hertz(Hz)
+
+#### Anatomy of the Eye
 - **Cornea** = the outer protective layer that covers the eye
 - **Pupil** opening of the eye that is adjustable in size when **iris** contracts or relaxes
     * Acts similar to camera shutter
@@ -73,8 +82,45 @@
     * **Transduction** = converting of electromagnetic energy into chemical potential energy
 - **Fovea** = area of the **retina** that the lens focuses the image onto
     * Where all fine details are made out
-- **Accommodation** = the process of the lens contorting in order to focus the image on the **fovea**
-- **Acuity** = the accuracy and sharpness of vision
-    * Typically deteriorates with age
-- **Nearsightedness** = a condition in which it is easier for objects near to the eyes to be seen
-- **Farsightedness** = a condition in which it is easier for objects far from the eyes to be seen
+- **Optic Nerve** = a bundle of nerve tissue that conveys action potentials from the retina to the brain
+    * Causes a **blind spot**, because there are no **cones** or **rods** on the optic nerve
+    * **Blind spot** = a area of the retina that cannot sense light
+        + Caused by **optic nerve** and blood vessels
+
+
+---
+
+
+# 2016-12-05
+
+#### Processing Visual Information
+- **Ganglion Cells** = cells that connect to **bipolar cells**
+    * Axon connects to **optic nerve**
+- **Bipolar Cells** = neurons that connect **rods** and **cones** to the **ganglion cells**
+- **Optic chiasm** = physical point when optic nerve splits into two distinct nerve tracks
+    * Each track leads to one hemisphere
+- Process
+    1. Transduction occurs on the **cones** and **rods** and an action potential is generated
+    2. **Bipolar cells** convey action potential to the **ganglion cells**
+    3. **Optic nerve**, made of **ganglion axons**, conveys the action potential to the **optic chiasm**
+    4. At the **optic chiasm**, information is segregated onto separate paths to each hemisphere
+    5. Each path leads to the **thalmus**
+    6. The thalmus directs the action potentials to **visual cortex**
+- **Parallel processing** = the simultaneous processing of several different aspects of a problem congruently
+    * The brain performs this on
+        + Color
+        + Motion
+        + Form
+        + Depth
+- **Trichromatic Theory of Color Vision** = a theory that explains how humans see color
+    * Researched by **Young** and **Helmholtz**
+    * Relies on principle that there are *three* **primary colors**
+        + They discovered that using red, green, and blue, they could generate all possible colors
+        + They postulated that there are *three* corresponding photoreceptors
+- **Opponent-Process Theory** = a theory that attempts to explain after-image effects
+    * Postulates *four* photorecptors
+        + Red and green = opponents
+        + Blue and yellow = opponents
+    * Modern view of vision is a blend of **trichromatic theory** and **opponent-process theory**
+- **Color constancy** = the phenomenon of the brain adjusting perception in different lighting conditions so that colors look the same
+    * Color is fundamentally a psychological property, not a physical property
