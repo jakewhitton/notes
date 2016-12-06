@@ -43,6 +43,7 @@ sed -i '$ d' /tmp/notes/master.md
 
 
 if [[ ! ( ( -e "./master.md" ) && ( -z "`diff /tmp/notes/master.md ./master.md`" ) ) ]]; then
+	echo "Generating master document..."
 	cp /tmp/notes/master.md ./master.md
 	pandoc -s -f markdown -o master.pdf --latex-engine=pdflatex master.md
 fi

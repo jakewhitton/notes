@@ -124,3 +124,43 @@
     * Modern view of vision is a blend of **trichromatic theory** and **opponent-process theory**
 - **Color constancy** = the phenomenon of the brain adjusting perception in different lighting conditions so that colors look the same
     * Color is fundamentally a psychological property, not a physical property
+
+
+---
+
+
+# 2016-12-06
+
+## Hearing
+- **Audition** = the raw experience of hearing
+- **Frequency** = number of oscillations of sound wave per second
+    * Measured in **Hertz(Hz)**
+    * Just like **frequency** in light
+- **Pitch** = a tone's character of being high or low
+    * Dependent upon frequency
+- **Amplitude** = the magnitude of the sound wave
+    * Described as the height of the wave crests
+- **Decibel system** = a method of ranking sound amplitude
+    * Is based on a *logarithmic* scale
+
+### Anatomy of the Ear
+- **Outer Ear**
+    * **Ear lobe**
+    * **Auditory canal**
+- **Middle Ear**
+    * **Tympanic membrane**
+        + Also called **eardrum**
+    * Three bones
+        + **Malleus(Hammer)**
+        + **Incus(Anvil)**
+        + **Stapes(Stirrup)**
+    * **Semi-circular canals**
+        + Also called **vestibular sacs**
+- **Inner Ear**
+    * **Cochlea**
+        + Snail-shaped tube with ciliated **basilar membrane**
+            - **Cilia** = cytoplasmic extensions that typically serve in motion but can also sense pressure changes
+            - **Basilar membrane** = ciliated lining inside the **cochlea**
+        + **Transduction** occurrs here
+    * **Auditory nerve**
+        + Attached to **cochlea**
