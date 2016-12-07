@@ -586,3 +586,50 @@
 13. **Department of Education**
 14. **Department of Veterans Affairs**
 15. **Department of Homeland Security**
+
+
+---
+
+
+# 2016-12-07
+
+### Administrative Discretion
+- The **bureaucracy** has the ability to selectively enforce policy
+- A lot of power is placed in the hands of bureaucrats
+- Often, policy is implemented across several agencies
+    * Called **fragmentation**
+    * Requires the collaboration of many agencies to effectively block the execution of a certain policy
+
+### Why Do Some Policies Fail and Some Succeed?
+- Reasons for failure
+    1. Poor program design
+    2. Lack of resources
+    3. Ill-defined goal
+        - Congress typically defines laws really vaguely
+- Reasons for success
+    1. Clear stated goal
+    2. Was implemented in a non-objectionable way
+
+### Regulation vs Deregulation
+- **Regulation** = the excercising of control over some industry by passing legislation
+    * Based on **incentives** and **disincentives**
+    * Examples of **incentives**
+        + Tax credits
+        + Deductions
+    * Examples of **disincentives**
+        + Tax penalties
+        + Fees
+- **Deregulation** = the elimination of existing regulations
+    * Pioneered by **Ronald Reagan**
+    * Can place American producers at a disadvantage
+        + Free trade policy allows greater mobility of jobs while mobility of labor is relatively constant
+
+### Does the Bureaucracy Work?
+- The bureaucracy is often bolstered with good intention but executed poorly
+- Often, placing bureaucratic responsibilities on common people introduces security risks
+    * Russian spies are going to steal all of our secrets
+        + Like who's getting a driver's license and when
+- Bureaucracy can be very sluggish
+    * Hurricane Katrina is a good example
+- **Writs of Certiorari** = a writ that allows a case to be handed off to a superior court at their discretion
+    * Meant for very rare use
