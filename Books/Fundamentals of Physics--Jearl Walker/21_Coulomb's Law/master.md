@@ -55,5 +55,60 @@ $$\vec{F_g} = G \frac{m_1 m_2}{r^2} \hat{r}$$
 - SI unit for charge is **Coulomb(C)**
     * For practical reasons, the **Coulomb** is defined using the **Ampere**
 - **Ampere** = SI unit for current
-    - Current is defined as the following, where $i$ is current and $q$ is charge
+    * Current is defined as the following, where $i$ is current and $q$ is charge
 $$i = \frac{dq}{dt}$$
+        + Rearranging, we can see where the units come from
+$$i \times dt = dq$$
+$$(A) \times (sec) = (C)$$
+        + So 1 Ampere is equal to $1 \frac{C}{sec}$, and 1 Coulomb is equal to $1 A \times sec$
+- Electrically charged objects(which we treat as particles for simplicity) exhibit many of the same characteristics as do particles in newtonian physics
+    * **Force** vectors add together to create a **net force**($\sum \textbf{F}$)
+        + **Net force** is also called **resultant force**
+
+### Shell Theories
+- **Shell theories** = models that are used to simplify problems by assuming that bodies can be treated as particles
+- Shell Theory 1
+    * a charged particle placed *outside* of a **shell** that is uniformly charged about its surface will experience an electrostatic force equal to the circumstance in which the shell is a particle located at the center of the shell with the same charge
+- Shell Theory 2
+    * a charged particle placed *inside* of a shell that is uniformly charged about its surface will experience no electrostatic force from the shell
+        + Why would that be the case???
+- **Spherical conductors**
+    * in a spherical conductor with an excess charge, particles seek to maximize the distance between all other similarly charged particles
+
+
+---
+
+
+# 21.02
+
+## Charge Is Quantized
+- Originally, scientists thought that electric charge was a continuous phenomenon
+    * But, because matter is a discrete phenomenon, charge is as well
+- **Elementary charge** = the essential "stepping size" that the net charge of an object or particle can increment or decrement by
+    * *All* charges can be represented as
+$$ n \textbf{e} , n \in \mathbb{Z} $$
+    * where
+$$ \textbf{e} = 1.602 \times 10^{-19} C $$
+- **Quantized** = a word that is meant to convey the discrete nature of a phenomenon
+    * things come in "packets" rather than continuously flowing like a substance
+
+
+---
+
+
+# 21.03
+
+## Charge Is Conserved
+- In physics, almost *everything* is conserved
+    * the same holds true for **charge**
+- Charge acts like mass in classical Newtonian physics
+- **Conservation of Charge** = a hypothesis put forth by Benjamin Franklin that asserts the prior is the case
+- Examples
+    * Nuclear decay
+        + Whenever a decay event occurs, the newly created particles always have an overall charge that is equal to that of the parent particle
+            - $^{238}$U $\to$ $^{234}$Th + $^{4}$He
+        + **Annihilation** = two particles colliding and destroying each other
+            - Charge is perserved
+        + **Pair Production** = the spontaneous creation of particles from existing energy
+            - $\gamma \to$ e$^{-}$ + e$^{+}$
+
