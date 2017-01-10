@@ -1,22 +1,17 @@
 # TODO
 
 ## AP Literature and Composition
-- [ ] Study for **monster critical reading test** on Pride and Prejudice
-    * Test is on **2016-12-07**
-- [ ] Work on Senior Project Proposal & Signature Sheet
-    * Due **2016-12-15**
+- [ ] Read "Yellow Wallpaper" short story by TOMORROW(2017-01-11)
 - [SEE KEY DATES](./12/1_AP Literature and Composition/keydates.md)
 
-## AP US Government and Politics
-- [ ] Bureaucracy paper
-    * due **2016-12-7**
+## AP Macroeconomics
+- Signature sheet by TOMORROW(2017-01-11)
 
 ## AP Psychology
-- Color the eye and ear on the labelling WS
+- None
 
 ## AP Computer Science
-- Complete Unit 3: Stage 4
-    * due **2016-12-05**
+- None
 
 ## AP Physics C: Electricity and Magnetism
 - [ ] Presentation on Circuit Breaker technology
