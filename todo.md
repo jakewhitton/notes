@@ -1,14 +1,17 @@
 # TODO
 
 ## AP Literature and Composition
-- [ ] Read "Yellow Wallpaper" short story by TOMORROW(2017-01-11)
+- Turn in second objective test
+    * AP Multiple choice
+    * You were given it to do at home because you were absent--never turned in
+- Study for pride and prejudice monster quote test
 - [SEE KEY DATES](./12/1_AP Literature and Composition/keydates.md)
 
 ## AP Macroeconomics
-- Signature sheet by TOMORROW(2017-01-11)
+- Quiz tomorrow?
 
 ## AP Psychology
-- None
+- Dream journal project due day of final
 
 ## AP Computer Science
 - None
