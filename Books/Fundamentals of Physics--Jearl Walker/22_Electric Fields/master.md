@@ -46,3 +46,34 @@ $$\vec{E}_{\vec{P}} = \frac{\vec{F}_{\vec{P}}}{q_0}$$
 ##### Why Does $q_0$ Need to be Small?
 - The purpose of $q_0$ is to detect the strength of $\vec{E}$ at any given point
     * If $q_0$ were large, it would have a non-negligible affect on the electric field is is trying to measure!
+
+### Electric Field Lines
+- Micheal Faraday came up with the idea
+- **Electric Field Lines** = a way of visualizing the details of the electric field around an object
+    * Basically just a series of vectors that float in space
+    * The direction of the **electric field line** is the same as that of the **electrostatic force**
+        + Result of the mathematical definition of $\vec{E}$
+- Two rules
+    1. The electric field vector must be tangent to the electric field line through that point and in the same direction
+    2. If the electric field vectors have tails that lie in a plane perpandicular to said electric field vectors, then the magnitude of $\vec{E}$ is visually present by the relative density of electric field vectors, not by the magnitude of them
+- **Uniform Electric Field** = an electric field where all vectors point in the same direction
+- **Nonuniform Electric Field** = an electric field where vector direction varies from point to point
+
+
+---
+
+
+# 22.02
+
+### Electric Field Due to a Point Charge
+- Because the strength of the electric field at any given point is
+$$\vec{E} = \frac{\vec{F}}{q_0}$$
+- we can substitute our particle of charge $q_0$ to get a formula to use:
+$$|\vec{E}| = \frac{\frac{1}{4 \pi \epsilon_0} \frac{qq_0}{r^2}}{q_0}$$
+$$|\vec{E}| = \frac{1}{4 \pi \epsilon_0} \frac{q}{r^2}$$
+- This formula allows to calculate the *magnitude* of the electric field at any given point
+    * Note that this formula doesn't use $q_0$; we can calculate $\vec{E}$ independent of any empirical data
+- Because forces obey superposition(the permittability of treating a vector sum as representative of the whole), we can demonstrate that the electric field obeys superposition
+$$ \vec{E} = \frac{\sum \vec{F}_i}{q_0}$$
+$$ \vec{E} = \frac{\vec{F}_1 + \vec{F}_2 + \vec{F}_3 + ... + \vec{F}_n}{q_0} $$
+$$ \vec{E} = \frac{\vec{F}_1}{q0} + \frac{\vec{F}_2}{q0} + ... + \frac{\vec{F}_n}{q0} $$
