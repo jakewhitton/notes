@@ -121,3 +121,60 @@
     * Incentive is sweet, sweet **profit**
         + **Profit** = **Revenue** - **Costs**
             - **Revenue** = the sum of value obtained by selling the goods produced
+
+
+---
+
+
+# 2017-01-12
+
+### Scarcity
+- In order to manage resources requires **government**
+    * *Gasp... IT'S SOCIALISM*
+        + Nah more like social democracy
+- How are resources allocated differently under **capitalism** and **communism**?
+
+
+## The Three Economic Questions
+1. What goods and services should we produce?
+2. How should these goods and services be produced?
+3. Who consumes the goods and services produced?
+
+### Political Ideology and the Three Questions
+- The answers to *these* questions determines what **economic system** the society operates by
+    * **Economic System** = the methods involved in how production and consumption take place
+- Three **economic systems**
+    1. Centrally-planned economy
+        * Also called a "Command" economy
+    2. Free market economy
+    3. Mixed economy
+        * What the US and most liberal democracies are
+
+#### Centrally Planned Economies
+- Characteristics
+    * A government entity owns all the resources
+    * A government entity answers the three questions
+- *Why do centrally planned economies face problems of poor-quality goods, shortages, and unhappy citizens?*
+    * Imperialism
+    * Government bureaucracy
+    * Apparently no incentive to work hard
+        + Classic..  Just *classic*.
+
+#### Free Market Economies
+- **Laissez Faire** = "let it be"
+    * Economic principle that the market is self-regulating and government regulation is just inefficient
+- **Private property rights** = the legal and moral right to dictate how certain resources that are "owned" can be used and distributed
+    * Private property is *key*
+- **Profit-motive** = ~~people~~ entrepreneurs are motivated to create quality products because of **profit**
+- **Invisible Hand of the Market** = pressures exerted on producers because of competition and self-interest
+    * Free-market enthusiasts believe those pressures make the market efficient and *moral*
+
+#### Mixed Economies
+- *somewhat* of a mix between centrally planned economies and free-market economies
+- The system that most modern liberal democracies are
+    * Examples
+        + United States
+        + United Kingdom
+        + Canada
+        + France
+        + *etc*
