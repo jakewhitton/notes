@@ -77,3 +77,57 @@ $$|\vec{E}| = \frac{1}{4 \pi \epsilon_0} \frac{q}{r^2}$$
 $$ \vec{E} = \frac{\sum \vec{F}_i}{q_0}$$
 $$ \vec{E} = \frac{\vec{F}_1 + \vec{F}_2 + \vec{F}_3 + ... + \vec{F}_n}{q_0} $$
 $$ \vec{E} = \frac{\vec{F}_1}{q0} + \frac{\vec{F}_2}{q0} + ... + \frac{\vec{F}_n}{q0} $$
+$$ \vec{E} = \vec{E}_1 + \vec{E}_2 + ... + \vec{E}_n $$
+$$ \vec{E} = \sum \vec{E}_i $$
+
+
+---
+
+
+# 22.03
+
+### Electric Field Due to a Dipole
+- **Dipole** = an arrangement of charged particles defined by two particles of equal but opposite charges that are separated by some distance
+- **Dipole axis** = the immaginary line that contains the position of each particle in a dipole
+- Question: *can we come up with a general formula for some point P along the dipole axis?*
+    * Answer: yes we can(not a reference to ~~Yo' mama~~ Obama)
+
+#### Solving the Problem
+- Since we know that
+$$ \vec{E} = \sum \vec{E}_i $$
+- and there are only two particles,
+$$ \vec{E} = \vec{E}_{(+)} + \vec{E}_{(-)} $$
+- We can use our formula for calculating $\vec{E}$ in a one particle system
+$$ |\vec{E}_i| = \frac{1}{4 \pi \epsilon_0} \frac{q}{r^2} $$
+- But, in order to do this, we really should define a more useful variable.
+- Imagine a 3-dimensional cartesian coordinate system and orient the dipole axis with the z-axis and the midpoint between the two dipole particles with the origin.
+- Then, define d as the distance between the two particlces in the dipole.  The particles would be located at$(0, 0, \frac{d}{2})$ and $(0, 0, - \frac{d}{2})$
+- Then, define z as the z-coordinate of our point P that lies along the dipole axis
+- Then, assuming that the negative particle is at $(0, 0, -\frac{d}{2})$,
+$$ |\vec{E}_{(+)}| = \frac{1}{ 4 \pi \epsilon_0 } \frac{q}{(z - \frac{d}{2})^2} $$
+$$ |\vec{E}_{(-)}| = \frac{1}{ 4 \pi \epsilon_0 } \frac{q}{(z + \frac{d}{2})^2} $$
+- also note that this assumes that $z \geq - \frac{d}{2}$.  If $z < -\frac{d}{2}$, our distances would be negative
+- But since the distances are squared anyways, it doesn't turn out to be a problem
+- So,
+$$ |\vec{E}| = \frac{1}{ 4 \pi \epsilon_0 } \frac{q}{(z - \frac{d}{2})^2} + \frac{1}{ 4 \pi \epsilon_0 } \frac{q}{(z + \frac{d}{2})^2} $$
+$$ |\vec{E}| = \frac{q}{ 4 \pi \epsilon_0 } \bigg[ \frac{1}{(z - \frac{d}{2})^2} + \frac{1}{(z + \frac{d}{2})^2} \bigg] $$
+- This is a bit of a bear to simplify, but you end up with
+$$ |\vec{E}| = \frac{1}{2 \pi \epsilon_0} \frac{qd}{z^3} \frac{1}{\big[ 1 - (\frac{d}{2z})^2 \big]^2} $$
+- A common simplification is to assume that $|z| \gg d$.  If you assume that, the last fraction tends towards 1, meaning we can omit it
+$$ |\vec{E}| = \frac{1}{2 \pi \epsilon_0} \frac{qd}{z^3} $$
+- note that this is a *simplification*--it makes calculations easier but doesn't apply as broadly as the prior equation
+
+##### A Note About the Solution
+- If you notice, our final result features a simple product: $qd$
+    * This is given a special name: **electric dipole movement**
+    * It's symbol is $\vec{p}$
+    * It is a *vector* quantity, since it's scaling a vector $\vec{d}$ by a scalar $q$
+        + We didn't treat $\vec{d}$ as a vector in the solution above, but technically it is considered a vector that points towards the positive particle in the dipole
+    * It is the **dipole moment** that changes the electric field strength at distant points
+        + In order to increase $\vec{p}$, you can
+            - increase q
+            - increase d
+
+###$\vec{E}$ at Distant Points
+- The formula for $\vec{E}$ for distant points on the dipole axis is characterized by $\frac{1}{z^3}$
+
