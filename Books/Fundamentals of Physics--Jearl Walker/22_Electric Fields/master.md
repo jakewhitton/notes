@@ -131,3 +131,92 @@ $$ |\vec{E}| = \frac{1}{2 \pi \epsilon_0} \frac{qd}{z^3} $$
 ###$\vec{E}$ at Distant Points
 - The formula for $\vec{E}$ for distant points on the dipole axis is characterized by $\frac{1}{z^3}$
 
+
+
+---
+
+
+# 22.04
+
+### Electric Field Due to a Line of Charge
+- WARNING: this is largely considered the hardest part of the class; BRACE YOURSELF
+- Prior to this, we calculated $\vec{E}$ mostly in the context of simple particle systems
+    * Now, we consider when the systems include arbitrarily large number of particles in certain configurations
+- When dealing with more complex particle systems, charge is often described in terms of **charge densities** rather than through the summation of each particle's individual charge
+    * This permits us to use calculus to calculate what the sum would be from individual particles
+
+#### The Problem
+- Imagine a non-conducting circle of radius $R$ with a uniform positive charge about its circumference
+- Consider a point P that is located on the line perpendicular to the plane of the circle that passes through its center point
+    * Define $z$ as the distance along that line between the point P and the center of the circle 
+- Imagine that the charge along the circumference can be described with a **linear charge density**
+    * The symbol for **linear charge density** is $\lambda$
+    * There are also **surface charge density** and **volume charge density**
+        + **Surface charge density** = a metric that associates areas with how much charge one should expect to find in any given area
+            - Symbol is $\sigma$
+        + **Volume charge density** = a metric that associates volumes with how much charge one should expect to find in any given area
+            - Symbol is $\rho$
+- Define $ds$ as the differential length along the circumference of the circle
+    * This is what we will input into our **linear charge density** to figure out how much charge is in that strecth of circumference
+- Define $d\vec{E}$ as the differential electric field vector that is associated with the stretch of circumference of length $ds$
+
+##### First Step
+- Question: *How are we going to deal with a particle system with so many particles?  What if we don't even know how many particles there are?*
+    * Answer: we are going to split the circumference into infinitesimally small segments of length $ds$.  We will treat each of these as their own particles
+        + We can do this because $\vec{E}$ obeys the principle of superposition
+
+##### Second Step
+- Question: *How are we going to have all the $\vec{E}$ that we calculate summed up into one net $\vec{E}$?*
+    * Answer: we are going to separate all of our $\vec{E}$ vectors into components that can be summed at the end of the problem.
+
+##### Third Step
+- Question: *How are we going to sum all of the $\vec{E}$ components?*
+    * Answer: we will use integration
+
+#### Solving the Problem
+- Consider the following
+$$ dq = \lambda ds $$
+- This just means that the differential charge for our infinitesimal stretch of circumference will be equal to our **linear charge density** multiplied by the differential length
+    * If you think about the units, it makes perfect sense
+$$ (C) = \frac{C}{m} * m $$
+- Considering the stretch of length $ds$, we can see that it will exert a $d\vec{E}$ on point P according to the one-particle system formula
+$$ \vec{E} = \frac{1}{4 \pi \epsilon_0} \frac{q}{r^2} $$
+- Adapting it to our situation, $\vec{E} = d\vec{E}$, $q = \lambda ds$, and $\epsilon_0$ is just the permittivity constant
+- However, we do not know $r$, the distance from the source particle and the point in question.
+    * We know that the point lies on the line perpendicular to the plane of the circle that passes through the center point
+    * We know the circle is of radius $R$, and the length between the center point and P is $z$
+    * From this information, we can make a right triangle of side lengths $R$ and $z$ and hypotenuse $r$
+        + $r$ can be found with the pythagorean theorem
+$$ c^2 = a^2 + b^2 $$
+$$ r^2 = R^2 + z^2 $$
+$$ r = \sqrt{R^2 + z^2} $$
+- Making those substitutions,
+$$ d\vec{E} = \frac{1}{4 \pi \epsilon_0} \frac{\lambda ds}{\bigg( \sqrt{R^2 + z^2} \bigg)^2} $$
+$$ d\vec{E} = \frac{1}{4 \pi \epsilon_0} \frac{\lambda ds}{(R^2 + z^2)} $$
+- Recall the right triangle formed between P, the center of the circle, and the point on the circumference
+    * You can see that the $d\vec{E}$ exerted on P is some angle $\theta$ from the vertical
+    * If you imagine the right triangle with the point on the exact opposite side of the circle, you can see that the two $d\vec{E}$ vectors have horizontal components that cancel each other out
+        + This proves true for all points on the circumference
+            - This means we only have to sum the vertical components... HURRAY!
+- Imagine a new right triangle that is created when you superimpose $d\vec{E}$ onto P with $\theta$ from the vertical
+    * The horizontal component is equal to $d\vec{E}cos(\theta)$
+- So, our net $\vec{E}$ is just the sum of of all the $d\vec{E}cos(\theta)$ about the circle
+    * But $\theta$ isn't a variable we are integrating with respect to; we need to define it in terms of existing variables
+        + Imagine the triangle linking P, the center of the circle, and the charged particle on the circumference.  The angle with vertex P has a magnitude of $\theta$
+        + From there, we know that $cos(\theta)$ is just the adjacent length over the hypotenuse length
+$$ cos(\theta) = \frac{z}{\sqrt{R^2 + z^2}} $$
+        + We can substitute this definition of $cos(\theta)$ into our earlier formula
+$$ \vec{E} = \sum \bigg( \frac{1}{4 \pi \epsilon_0} \frac{\lambda ds}{(R^2 + z^2)} \bigg) \frac{z}{\sqrt{R^2 + z^2}} $$
+- Now, we need to bust out the calculus
+    * We've defined the differential $\vec{E}$, and now the following tautology spells the way
+$$ \vec{E} = \int d\vec{E} $$
+- Now, we can use our definition of $d\vec{E}$ to make the integral concrete
+    * Since we determined that the horizontal components cancel each other out, we will just solve for the magnitude of $\vec{E}$, so that it makes our integral simpler
+$$ |\vec{E}| = \int_{0}^{2 \pi} \bigg[ \bigg( \frac{1}{4 \pi \epsilon_0} \frac{\lambda}{(R^2 + z^2)} \bigg) \frac{z}{\sqrt{R^2 + z^2}} \bigg] ds $$
+- Notice that our integrand does not contain $s$, nor any variables at all--they're all constants!
+    * This means we can just take the entire integrant(without the $ds$, of course) outside of the integral
+        + Easiest integral ever...
+$$ |\vec{E}| = \frac{\lambda z}{4 \pi \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}} \int_{0}^{2 \pi} ds $$
+$$ |\vec{E}| = \frac{\lambda z}{4 \pi \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}} \times (2 \pi) $$
+$$ |\vec{E}| = \frac{\lambda z}{2 \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}}$$
+
