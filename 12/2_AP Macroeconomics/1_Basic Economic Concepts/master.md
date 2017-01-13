@@ -178,3 +178,50 @@
         + Canada
         + France
         + *etc*
+
+
+---
+
+
+# 2017-01-13
+
+### Production Possibilities Frontier(PPF)
+- Also called the **production possibilities curve(PPC)**
+- A model of how resources can be allocated to produce commodities
+    * Useful for demonstrating scarcity, trade-offs, opportunity cost, and efficiency
+- Four assumptions
+    1. There are only two commodities can be produced
+    2. Theoretical 0% unemployment rate
+        * *Perfect efficiency*
+    3. We have a finite, fixed amount of resources
+        * *Ceteris Paribus* = fixed resources
+    4. We have a stagnant amount of technology
+        * If technology were changing when we were producing our **PPF**, then our graft would be shifting constantly
+
+#### Example of PPF
+- INSERT GRAPH 1-1 here
+
+#### Economics Based on the PPF
+- Each point is a *possible* production scheme
+    * If you chose any one point, your **trade-offs** are all the other points
+- **Efficiency** = the line represents *perfect efficiency* of resource utilization
+    * If your production is plotted *below* the curve, there is present some source of inefficiency
+        + Unemployment, etc
+    * If your production is plotted *above* the curve, then you are high
+        + It is by definition *more* than perfectly efficient, which isn't possible
+- **Opportunity cost** is represented by the slope of the curve at any given point
+    * **Constant opportunity cost** = a situation wherein the **ppf** is a straight line
+    * **Law of Increasing Opportunity Cost** = a theorem that stipulates that in most **ppf** curves, the opportunity cost(slope of the line) increases in magnitude
+        + Think of the bowed curve; the "negative-ness" of the slope constantly increases
+        + Resources do not linearly transfer between the requisites for producing two commodities
+            - What if the resources are *currency*?
+            - Commodity A costs some amount x per unit
+            - Commodity B costs some amount y per unit
+            - The linear rate of exchange between A and B should just be the ratio $\frac{x}{y}$
+
+#### How Can the PPF Shift?
+1. Change in the quantity of resources or the efficiency by which we can use existing resources
+2. Change technology--extract resources more efficiently, produce more efficiently
+3. Trade
+    * If two countries have different optimal points, they can trade to make each other better off
+    * Trade balance is typically in favor of those who produce **capital goods**
