@@ -123,3 +123,21 @@
         + Posited that dreams involve deep wishes and coping with emotions
     * **Manifest content** = the narrative events that underpin a dream
     * **Latent content** = the symbolic meaning that the **manifest content** is meant to encode
+
+
+---
+
+
+# 2017-01-13
+
+###  Purpose of Dreams
+- In REM sleep, the brain sorts through information
+    * Things that are learned through the day are reinforced
+        + One reason why the sleep deprivation in students is bad
+- REM sleep periods become longer when one is sleep deprived
+- Three hypotheses about the purpose of dreams
+    1. Dreaming is a maintenance time for the brain to replenish neurotransmitters and other substances and process information
+    2. Dreaming is a time for the brain to work out solutions to problems faced in the days
+    3. Dreaming is an attempt to organize information faced in the day into a coherent narrative
+        * Almost like a computer defragmentating a spinning hard drive
+            + SSD master race
