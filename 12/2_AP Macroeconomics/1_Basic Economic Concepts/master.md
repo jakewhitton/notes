@@ -225,3 +225,15 @@
 3. Trade
     * If two countries have different optimal points, they can trade to make each other better off
     * Trade balance is typically in favor of those who produce **capital goods**
+
+
+---
+
+
+# 2017-01-17
+
+### Types of Efficiency
+- **Productive efficiency** = the extent to which the productive capacity of a society is being fully utilized
+    * All points along the **ppf** are equally *productively efficient*
+- **Alocative efficiency** = the extent to which the permutation of production possibilities aligns with what the society at large desires
+    * If a point isn't along the **ppf**, then it is not efficient in the productive or allocative capacity
