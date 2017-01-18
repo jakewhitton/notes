@@ -27,4 +27,8 @@
 - [ ] Read chapter 26
 
 ## Misc
-- None
+- Topics to research
+    * Vim(more advanced functionality and VimScript)
+    * Regex
+        + Primarily to improve the notes scripts
+    * Rust programming language
