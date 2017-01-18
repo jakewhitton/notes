@@ -237,3 +237,34 @@
     * All points along the **ppf** are equally *productively efficient*
 - **Alocative efficiency** = the extent to which the permutation of production possibilities aligns with what the society at large desires
     * If a point isn't along the **ppf**, then it is not efficient in the productive or allocative capacity
+
+
+---
+
+
+# 2017-01-18
+
+### Trade
+
+
+#### Why Do People Trade?
+- *In general, **people** trade so that they can obtain goods they either don't have the means to produce themself or possess a high opportunity cost for producing it themself*
+- In economics, people become **specialized** in labor
+    * Different people are good at different things
+    * As result people do what they're best at and then they *trade*
+    * *Supposedly*, trade increases human welfare for both parties
+        + Unless you're a third world country
+
+#### Absolute and Comparative Advantage
+- **Per unit Opportunity Cost** = basically just the opportunity cost per unit produced
+- **Absolute Advantage** = a disparity in productive efficiency pertaining to some product
+    * With respect to **output**, the nation with the *highest* output has the **absolute advantage**
+    * With respect to **input**, the nation that can produce a unit of product using the *fewest* resources has the **absolute advantage**
+- **Comparative Advantage** = a disparity in **per unit opportunity cost** pertaining to some product
+    * The idea is that each nation should produce for what their opportunity cost is lowest
+    * With respect to **output**, the nation with the lowest **per unit opportunity cost** has the **comparative advantage**
+- Which is more important: **absolute** or **comparative** advantage?
+    * It depends on the circumstances
+        + If production *efficiency* is desired, then nations should specialize to produce the product they have the **comparitive advantage** for
+        + If production *quantity* is desired, then nations should specialize to produce the product they have the **absolute advantage** for
+            - *e.g.* Wartime arms production: the nation's safety is on the line

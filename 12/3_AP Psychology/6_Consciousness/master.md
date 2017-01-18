@@ -165,3 +165,33 @@
     * If things are happening in parallel, the idea is that not all sensations will get through to the conscious mind
     * **Hidden observer** = a kind of third person perspective that subjects take on when hypnotized
         + Can explain how subjects don't feel pain
+
+
+---
+
+
+# 2017-01-18
+
+#llucinagens** = a class of drugs that alters peception in some noticable way
+    + Perhaps the most notable example is **LSD**
+        -  Lysergic Acid Di-ethylamide### How Can Hypnosis Help?
+- Pain management
+    * Childbirth
+    * Dentist work
+    * Arthritis
+    * Back pain
+    * Substitute for pain meds
+        + *e.g.* morphine
+
+### Drugs
+** =- Three types of drugs
+    * Natural
+    * Synthesized
+    - Important question: is the drug an **agonist** or **antagonist**?
+        * **Agonist** = a substance that imitates a neurotransmitter and falsely activates sreceptors
+        * **Antagonist** = a substance that interferes with a particular neurotransmitter--often by blocking the receptor from being activated
+        - **Tolerance** = a propensity to obtain decreased response to a recurring stimulus or substance
+        - Four types of drug
+            1. **Depressants** = a class of drugs that lowers inhibitions and limits long-distance neural communication
+                * Essential, all signals have a hard time getting around
+
