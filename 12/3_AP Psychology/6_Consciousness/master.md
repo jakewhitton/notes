@@ -172,9 +172,7 @@
 
 # 2017-01-18
 
-#llucinagens** = a class of drugs that alters peception in some noticable way
-    + Perhaps the most notable example is **LSD**
-        -  Lysergic Acid Di-ethylamide### How Can Hypnosis Help?
+### How Can Hypnosis Help?
 - Pain management
     * Childbirth
     * Dentist work
@@ -185,9 +183,56 @@
 
 ### Drugs
 - Important question: is the drug an **agonist** or **antagonist**?
-    * **Agonist** = a substance that imitates a neurotransmitter and falsely activates sreceptors
+    * **Agonist** = a substance that imitates a neurotransmitter and falsely activates receptors
     * **Antagonist** = a substance that interferes with a particular neurotransmitter--often by blocking the receptor from being activated
 - **Tolerance** = a propensity to obtain decreased response to a recurring stimulus or substance
-- Four types of drug
-    1. **Depressants** = a class of drugs that lowers inhibitions and limits long-distance neural communication
-        * Essential, all signals have a hard time getting around
+
+
+#### Four types of drug
+- **Psychoactive** = a term that describes any drug that has an affect on the brain
+- **Psychotropic** = a term that describes drugs *designed* to have a therepeutic affect
+
+
+##### Depressants
+- **Depressants** = a class of drugs that lowers inhibitions and limits long-distance neural communication
+    * Essential, all signals have a hard time getting around
+    * Most popular example is **alchohol**
+        + Responsible for the most deaths worldwide
+    * **Barbiturates** = a class of drugs that limit **CNS** activity
+        + Can impair judgement and memory
+        + Can be *especially* strong if paired with other depressants, like alcohol
+    * **Opiates** = a class of drugs that is characterized by limiting pain and anxiety
+        + **Opium** = a plant that naturally occurs this kind of drug
+            - **Morphine** and **heroin** are derivatives of **opium**
+        + **Opiods** = synthetically procured opiates
+
+##### Hallucinagens
+- **Hallucinagens** = a class of drugs that alters peception in some noticable way
+    * Perhaps the most notable example is **LSD**
+        +  Lysergic Acid Di-ethylamide
+    * Other examples
+        - **Tetra-hydra cannibanol(THC)** = psychoactive element in marijuana
+        - **Peyote**
+        - **Amanita Muscaria** = active component in mushrooms
+        - **Ecstasy(MDMA)** = considered a *mild* hallucinogen
+
+
+---
+
+
+# 2017-01-19
+
+##### Stimulants
+- **Stimulants** = a class of drug that increases neural activity
+    * Most notable examples are **amphetamines**
+        + Especially associated with mood changes and changes in body chemistry
+    * Examples
+        + **Ecstasy(MDMA)** is primarily thought of as a **stimulant**
+
+### Near-Death Experiences(NDE)
+- **Near-Death Experience(NDE)** = a phenomenon that involves accounts of visions and sights seen when technically dead
+- Interpretation
+    * **Dualism** = a philosophical view that the mind and body exist independently in distinct *substances*
+        + Descarte espoused this view: **substance dualism**
+        + Religion is founded on this principle
+    * **Monism** = a philosophical view that the mind and body are tied by the physical world only
