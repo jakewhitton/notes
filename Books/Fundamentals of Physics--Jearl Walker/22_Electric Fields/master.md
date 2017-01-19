@@ -119,7 +119,7 @@ $$ |\vec{E}| = \frac{1}{2 \pi \epsilon_0} \frac{qd}{z^3} $$
 
 ##### A Note About the Solution
 - If you notice, our final result features a simple product: $qd$
-    * This is given a special name: **electric dipole movement**
+    * This is given a special name: **electric dipole moment**
     * It's symbol is $\vec{p}$
     * It is a *vector* quantity, since it's scaling a vector $\vec{d}$ by a scalar $q$
         + We didn't treat $\vec{d}$ as a vector in the solution above, but technically it is considered a vector that points towards the positive particle in the dipole
@@ -130,7 +130,6 @@ $$ |\vec{E}| = \frac{1}{2 \pi \epsilon_0} \frac{qd}{z^3} $$
 
 ###$\vec{E}$ at Distant Points
 - The formula for $\vec{E}$ for distant points on the dipole axis is characterized by $\frac{1}{z^3}$
-
 
 
 ---
@@ -212,11 +211,27 @@ $$ \vec{E} = \sum \bigg( \frac{1}{4 \pi \epsilon_0} \frac{\lambda ds}{(R^2 + z^2
 $$ \vec{E} = \int d\vec{E} $$
 - Now, we can use our definition of $d\vec{E}$ to make the integral concrete
     * Since we determined that the horizontal components cancel each other out, we will just solve for the magnitude of $\vec{E}$, so that it makes our integral simpler
-$$ |\vec{E}| = \int_{0}^{2 \pi} \bigg[ \bigg( \frac{1}{4 \pi \epsilon_0} \frac{\lambda}{(R^2 + z^2)} \bigg) \frac{z}{\sqrt{R^2 + z^2}} \bigg] ds $$
+$$ |\vec{E}| = \int_{0}^{2 \pi R} \bigg[ \bigg( \frac{1}{4 \pi \epsilon_0} \frac{\lambda}{(R^2 + z^2)} \bigg) \frac{z}{\sqrt{R^2 + z^2}} \bigg] ds $$
 - Notice that our integrand does not contain $s$, nor any variables at all--they're all constants!
     * This means we can just take the entire integrant(without the $ds$, of course) outside of the integral
         + Easiest integral ever...
-$$ |\vec{E}| = \frac{\lambda z}{4 \pi \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}} \int_{0}^{2 \pi} ds $$
-$$ |\vec{E}| = \frac{\lambda z}{4 \pi \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}} \times (2 \pi) $$
-$$ |\vec{E}| = \frac{\lambda z}{2 \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}}$$
+$$ |\vec{E}| = \frac{\lambda z}{4 \pi \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}} \int_{0}^{2 \pi R} ds $$
+$$ |\vec{E}| = \frac{\lambda z}{4 \pi \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}} \times (2 \pi R) $$
+$$ |\vec{E}| = \frac{\lambda z (2 \pi R)}{4 \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}}$$
+- This is valid, but we can make the substitution
+$$ \lambda = \frac{q_{total}}{2 \pi R} $$
+- to get
+$$ |\vec{E}| = \frac{z \frac{q_{total}}{2 \pi R} (2 \pi R)}{4 \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}}$$
+$$ |\vec{E}| = \frac{z q_{total}}{4 \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}}$$
+- Thus, our problem is solved
+    * Typically, $q_{total}$ is just called q for convenience
+- Congratulations on making it through!
+
+
+---
+
+
+# 22.05
+
+### The Electric Field Due to a Charged Disk
 
