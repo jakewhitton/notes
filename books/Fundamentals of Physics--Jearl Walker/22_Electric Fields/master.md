@@ -217,12 +217,12 @@ $$ |\vec{E}| = \int_{0}^{2 \pi R} \bigg[ \bigg( \frac{1}{4 \pi \epsilon_0} \frac
         + Easiest integral ever...
 $$ |\vec{E}| = \frac{\lambda z}{4 \pi \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}} \int_{0}^{2 \pi R} ds $$
 $$ |\vec{E}| = \frac{\lambda z}{4 \pi \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}} \times (2 \pi R) $$
-$$ |\vec{E}| = \frac{\lambda z (2 \pi R)}{4 \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}}$$
+$$ |\vec{E}| = \frac{\lambda z (2 \pi R)}{4 \pi \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}}$$
 - This is valid, but we can make the substitution
 $$ \lambda = \frac{q_{total}}{2 \pi R} $$
 - to get
-$$ |\vec{E}| = \frac{z \frac{q_{total}}{2 \pi R} (2 \pi R)}{4 \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}}$$
-$$ |\vec{E}| = \frac{z q_{total}}{4 \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}}$$
+$$ |\vec{E}| = \frac{z \frac{q_{total}}{2 \pi R} (2 \pi R)}{4 \pi \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}}$$
+$$ |\vec{E}| = \frac{z q_{total}}{4 \pi \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}}$$
 - Thus, our problem is solved
     * Typically, $q_{total}$ is just called q for convenience
 - Congratulations on making it through!
@@ -234,4 +234,32 @@ $$ |\vec{E}| = \frac{z q_{total}}{4 \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}
 # 22.05
 
 ### The Electric Field Due to a Charged Disk
+- The last section was about *linear* charge densities
+    * This one will use the same methodology with **surface charge density($\sigma$)**
+        + DON'T FREAK OUT; we don't have to go through that whole procedure again
+
+
+#### The Problem
+- Imagine a circular disk of radius R and uniform charge $q$ described by $\sigma$ and a point P along the central axis
+    * Now, superimpose a ring of radius $r$ and charge $dq$
+        + *Do you see where this is going?*
+    * We know that the $\vec{E}$ exerted on P by the differential ring is
+$$ \vec{E} = \frac{z q_{total}}{4 \pi \epsilon_0 \big( R^2 + z^2 \big)^\frac{3}{2}} $$
+- Making the appropriate substitutions, we get
+
+$$ d\vec{E} = \frac{z dq}{4 \pi \epsilon_0 \big( r^2 + z^2 \big)^\frac{3}{2}} $$
+- Now, we just have to define $dq$ in terms of our integrating variable, $r$
+- Consider the following
+$$ dq = \sigma (2 \pi r) dr $$
+- This just indicates that our differential charge along each ring is equal to the surface charge density multiplied by the differential area that ring occupies
+- Making that substitution,
+$$ d\vec{E} = \frac{z \sigma (2 \pi r) dr }{4 \pi \epsilon_0 \big( r^2 + z^2 \big)^\frac{3}{2}} $$
+$$ d\vec{E} = \bigg[ \frac{z \sigma (2 \pi r) }{4 \pi \epsilon_0 \big( r^2 + z^2 \big)^\frac{3}{2}} \bigg] dr $$
+$$ d\vec{E} = \bigg[ \frac{z \sigma r }{2 \epsilon_0 \big( r^2 + z^2 \big)^\frac{3}{2}} \bigg] dr $$
+- Now, we integrate both sides
+$$ \int d\vec{E} = \int \bigg[ \frac{z \sigma r }{2 \epsilon_0 \big( r^2 + z^2 \big)^\frac{3}{2}} \bigg] dr $$
+- Much of the integrand is composed of constants, which we can factor out
+$$ \int d\vec{E} = \frac{z \sigma}{2 \epsilon_0} \int \bigg[ \frac{r}{\big( r^2 + z^2 \big)^\frac{3}{2}} \bigg] dr $$
+- We can solve this integral by using u-substitution
+$$ u =  $$
 
