@@ -1,30 +1,23 @@
 # TODO
 
 ## AP Literature and Composition
-- Turn in second objective test
-    * AP Multiple choice
-    * You were given it to do at home because you were absent--never turned in
-- Study for pride and prejudice monster quote test
+- None
 - [SEE KEY DATES](./keydates.md)
 
 ## AP Macroeconomics
-- Quiz tomorrow?
+- Unit 1 Homework
+    * Not sure when it's due
 
 ## AP Psychology
-- Dream journal project due day of final
+- Dream analysis project
+    * Supposed to be due on the day of the final
+        + You will be absent -- due Wednesday(2016-01-25)
 
 ## AP Computer Science
 - None
 
 ## AP Physics C: Electricity and Magnetism
-- [ ] Presentation on Circuit Breaker technology
-    * Complete ASAP
-- [ ] Read chapter 21
-- [ ] Read chapter 22
-- [ ] Read chapter 23
-- [ ] Read chapter 24
-- [ ] Read chapter 25
-- [ ] Read chapter 26
+- None
 
 ## Misc
 - Topics to research
@@ -32,3 +25,5 @@
     * Regex
         + Primarily to improve the notes scripts
     * Rust programming language
+    * Type theory
+        + Primarily for understanding the type system in Rust
