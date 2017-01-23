@@ -268,3 +268,59 @@
         + If production *efficiency* is desired, then nations should specialize to produce the product they have the **comparitive advantage** for
         + If production *quantity* is desired, then nations should specialize to produce the product they have the **absolute advantage** for
             - *e.g.* Wartime arms production: the nation's safety is on the line
+
+
+---
+
+
+# 2017-01-20
+
+## Demand
+- **Demand** = a metric of how *willing* and how *able*
+- **Law of Demand** = **price** is inversely related to **quantity demanded**
+    * Why does the law of demand *work*?
+        1. **Substitution Effect** = *if the price of a product changes, consumers may change habits by purchasing a substitute*
+            + Only affects the **quantity demanded**
+        2. **Income Effect** = *if the price of a product changes, the **purchasing power** of consumers increases*
+            + They are able to purchase *more*
+        3. **Law of Diminishing Marginal Utility** = *the per-unit utility of a product is inversely related to the quantity purchased*
+- **Demand Schedule** = the permutation of **prices** and **quantity desired** that the consumer would act in accordance with
+    * A demand curve is just a graphical representation of a **demand schedule**
+        + Is downward-sloping, because of the three factors
+    * When interpretting the data, one should assume all else being equal(income, etc)
+        + *ceteris paribus*
+
+
+---
+
+
+# 2017-01-23
+
+### Price and its Relation to Quantity Demanded and Demand
+- **BIGGEST RULE OF ALL RULES**: *price of a good **never** shifts the demand curve for that good*
+    * Rather, there is an inverse relationship between price and quantity demanded
+    * HOWEVER, the price of complement and supplement goods *will* change demand
+- If **price** doesn't shift demand, what does?
+    * Answer: *the five shifters of demand*
+
+#### Five Shifters of Demand
+1. Tastes and preferences
+    * Different people like different things at different times
+2. Number of consumers
+    * If there are more consumers in an area, quantity demanded will increase across the board
+3. Price of related goods
+    * Demand curves of **complement goods** are tied together
+        + *e.g.* Cereal shift in demand -> milk shift in demand
+    * Demand curves of **substitute goods** are inversely related
+        + *e.g.* Coffee demand decreases, tea demand increases
+4. Income
+    * Consumer purchasing power shifts and quantity demanded shifts across the board
+    * **Normal goods** = a good whose demand curve is directly related to a shift in consumer goods
+        + Think of them as *luxury* goods
+        + Mo' money -> Mo' meaningless consumerism
+    * **Inferior goods** = a good whose demand curve is inversely related to a shift in consumer purchasing power
+        + Examples
+            - Used cars
+            - McDonalds
+5. Consumer expectations
+    * Hype about products shifts demand
