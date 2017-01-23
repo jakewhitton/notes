@@ -5,7 +5,7 @@
     * AP Multiple choice
     * You were given it to do at home because you were absent--never turned in
 - Study for pride and prejudice monster quote test
-- [SEE KEY DATES](./12/1_AP Literature and Composition/keydates.md)
+- [SEE KEY DATES](./keydates.md)
 
 ## AP Macroeconomics
 - Quiz tomorrow?
