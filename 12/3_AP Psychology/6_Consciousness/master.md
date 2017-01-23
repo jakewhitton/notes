@@ -172,9 +172,8 @@
 
 # 2017-01-18
 
-<<<<<<< HEAD
 ### How Can Hypnosis Help?
-=======
+
 ### Drugs
 - Important question: is the drug an **agonist** or **antagonist**?
     * **Agonist** = a substance that imitates a neurotransmitter and falsely activates sreceptors
@@ -188,7 +187,6 @@
 **Hallucinagens** = a class of drugs that alters peception in some noticable way
     + Perhaps the most notable example is **LSD**
         -  Lysergic Acid Di-ethylamide### How Can Hypnosis Help?
->>>>>>> c4d1c7bdfb52adeb4094d9bc38410700d3d55e5c
 - Pain management
     * Childbirth
     * Dentist work
@@ -196,7 +194,6 @@
     * Back pain
     * Substitute for pain meds
         + *e.g.* morphine
-<<<<<<< HEAD
 
 ### Drugs
 - Important question: is the drug an **agonist** or **antagonist**?
@@ -253,5 +250,3 @@
         + Descarte espoused this view: **substance dualism**
         + Religion is founded on this principle
     * **Monism** = a philosophical view that the mind and body are tied by the physical world only
-=======
->>>>>>> c4d1c7bdfb52adeb4094d9bc38410700d3d55e5c
