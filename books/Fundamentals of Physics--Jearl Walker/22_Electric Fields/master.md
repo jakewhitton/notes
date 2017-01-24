@@ -257,9 +257,28 @@ $$ d\vec{E} = \frac{z \sigma (2 \pi r) dr }{4 \pi \epsilon_0 \big( r^2 + z^2 \bi
 $$ d\vec{E} = \bigg[ \frac{z \sigma (2 \pi r) }{4 \pi \epsilon_0 \big( r^2 + z^2 \big)^\frac{3}{2}} \bigg] dr $$
 $$ d\vec{E} = \bigg[ \frac{z \sigma r }{2 \epsilon_0 \big( r^2 + z^2 \big)^\frac{3}{2}} \bigg] dr $$
 - Now, we integrate both sides
-$$ \int d\vec{E} = \int \bigg[ \frac{z \sigma r }{2 \epsilon_0 \big( r^2 + z^2 \big)^\frac{3}{2}} \bigg] dr $$
+$$ \int_{r=0}^{r=R} d\vec{E} = \int_{r=0}^{r=R} \bigg[ \frac{z \sigma r }{2 \epsilon_0 \big( r^2 + z^2 \big)^\frac{3}{2}} \bigg] dr $$
 - Much of the integrand is composed of constants, which we can factor out
-$$ \int d\vec{E} = \frac{z \sigma}{2 \epsilon_0} \int \bigg[ \frac{r}{\big( r^2 + z^2 \big)^\frac{3}{2}} \bigg] dr $$
+$$ \int_{r=0}^{r=R} d\vec{E} = \frac{z \sigma}{2 \epsilon_0} \int_{r=0}^{r=R} \bigg[ \frac{r}{\big( r^2 + z^2 \big)^\frac{3}{2}} \bigg] dr $$
+$$ \vec{E} = \frac{z \sigma}{2 \epsilon_0} \int_{r=0}^{r=R} \bigg[ \frac{r}{\big( r^2 + z^2 \big)^\frac{3}{2}} \bigg] dr $$
 - We can solve this integral by using u-substitution
-$$ u =  $$
-
+$$ u = \big( r^2 + z^2 \big) $$
+$$ \frac{du}{dr} = \frac{1}{dr} \bigg[ \big( r^2 + z^2 \big) \bigg]$$
+$$ \frac{du}{dr} = \big( 2 r \big) $$
+$$ du = \big( 2 r \big) dr $$
+$$ dr = \frac{1}{\big( 2 r \big)} du $$
+- We can convert our limits of integration from r units to u units by
+$$ u = \big( r^2 + z^2 \big) $$
+- Making that substitution, our integral becomes
+$$ \vec{E} = \frac{z \sigma}{2 \epsilon_0} \int_{u=z^2}^{u=R^2 + z^2} \bigg( \frac{r}{u^\frac{3}{2}} \bigg) (\frac{1}{2 r} du) $$
+$$ \vec{E} = \frac{z \sigma}{4 \epsilon_0} \int_{u=z^2}^{u=R^2 + z^2} \bigg( \frac{1}{u^\frac{3}{2}} \bigg) du $$
+$$ \vec{E} = \frac{z \sigma}{4 \epsilon_0} \int_{u=z^2}^{u=R^2 + z^2} \bigg( u^{ - \frac{3}{2}} \bigg) du $$
+$$ \vec{E} = \frac{z \sigma}{4 \epsilon_0} \bigg[ \frac{u^{- \frac{1}{2}}}{- \frac{1}{2}} \bigg]_{z^2}^{R^2 + z^2} $$
+$$ \vec{E} = \frac{z \sigma}{4 \epsilon_0} \bigg[ \frac{-2}{\sqrt{u}} \bigg]_{u=z^2}^{u=R^2 + z^2} $$
+$$ \vec{E} = - \frac{z \sigma}{2 \epsilon_0} \bigg[ \frac{1}{\sqrt{u}} \bigg]_{u=z^2}^{u=R^2 + z^2} $$
+$$ \vec{E} = - \frac{z \sigma}{2 \epsilon_0} \bigg[ \frac{1}{\sqrt{R^2 + z^2}} - \frac{1}{\sqrt{z^2}} \bigg] $$
+$$ \vec{E} = \frac{z \sigma}{2 \epsilon_0} \bigg[ \frac{1}{\sqrt{z^2}} - \frac{1}{\sqrt{R^2 + z^2}} \bigg] $$
+$$ \vec{E} = \frac{z \sigma}{2 \epsilon_0} \bigg[ \frac{1}{z} - \frac{1}{\sqrt{R^2 + z^2}} \bigg] $$
+$$ \vec{E} = \frac{\sigma}{2 \epsilon_0} \bigg[ \frac{z}{z} - \frac{z}{\sqrt{R^2 + z^2}} \bigg] $$
+$$ \vec{E} = \frac{\sigma}{2 \epsilon_0} \bigg[ 1 - \frac{z}{\sqrt{R^2 + z^2}} \bigg] $$
+- And thus, the problem is solved.  Isn't calculus fun?
