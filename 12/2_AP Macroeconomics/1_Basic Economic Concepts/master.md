@@ -338,7 +338,7 @@
         + If price is *low*, producers want to produce less to mitigate loss
 - **Law of Supply** = *there is a positive correlation between quantity supplied and price*
 
-#### Five Shifters of Supply
+### Five Shifters of Supply
 1. Price/supply of inputs to production
     * *e.g.* labor costs are higher due to those pesky communists demanding a livable wage
 2. Number of sellers
@@ -354,6 +354,11 @@
     * Production goes where the profit is
         + If future price of good is expected to be high, production *now* will increase
 
-#### Price and Supply
+### Price and Supply
 - Just like demand, **price** of a good NEVER shifts supply for that good
     * Rather, the supply curve relates *each* price to a corresponding quantity supplied
+
+### Surplus and Shortage
+- **Surplus** = a term that describes a situation in which quantity supplied is *greater* than quantity demanded
+- **Shortage** = a term that describes a situation in which quantity supplied is *less* than quantity demanded
+- Theoretically, the market will adjust by raising or lowering the price to make up for a **shortage** or **surplus**
