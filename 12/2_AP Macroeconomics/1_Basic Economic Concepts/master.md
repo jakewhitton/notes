@@ -324,3 +324,36 @@
             - McDonalds
 5. Consumer expectations
     * Hype about products shifts demand
+
+
+---
+
+
+# 2017-01-24
+
+## Supply
+- **Supply** = a term that describes producers propensity to produce a certain number of **quantity supplied** for any given **price**
+    * **Quantity supplied** = the number of units of a product produced
+        + If price is *high*, producers want to produce more to take advantage of the higher profit margin
+        + If price is *low*, producers want to produce less to mitigate loss
+- **Law of Supply** = *there is a positive correlation between quantity supplied and price*
+
+#### Five Shifters of Supply
+1. Price/supply of inputs to production
+    * *e.g.* labor costs are higher due to those pesky communists demanding a livable wage
+2. Number of sellers
+    * if there are *more* sellers, overall supply increases
+        + If demand stays constant, that results in a **equilibrium price** decrease
+            - **Equilibrium price** = the price at which **quantity demanded** and **quantity supplied** are equal
+3. Technology
+    * *Typically* technology progression results in more efficient utilization of resources
+        + Leads to an increase in supply
+4. Government Taxes & Subsidies
+    * Government offen subsidizes small business to maintain competition in the market
+5. Expectations of Future Profit
+    * Production goes where the profit is
+        + If future price of good is expected to be high, production *now* will increase
+
+#### Price and Supply
+- Just like demand, **price** of a good NEVER shifts supply for that good
+    * Rather, the supply curve relates *each* price to a corresponding quantity supplied
