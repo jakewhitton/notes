@@ -9,12 +9,11 @@
     * Not sure when it's due
 
 ## AP Psychology
-- Dream analysis project
-    * Supposed to be due on the day of the final
-        + You will be absent -- due Wednesday(2016-01-25)
+- None
 
 ## AP Computer Science
-- None
+- Data sleuth card
+- Explore performance task + 3 sources
 
 ## AP Physics C: Electricity and Magnetism
 - None
