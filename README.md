@@ -1,5 +1,9 @@
 # Notes
 
+#  IMPORTANT
+- I have updated the genmaster and ugenmaster scripts, so some of this information is outdated.  I hope to re-write the README.md soon.
+
+
 ## Structure of This Repository
 The base of this repository contains miscellaneous files(todo.md, keydates.md, README.md, *etc.*) as well as a directoy named "scripts"  All directories *not* named "scripts" are called **containers**.  Each container should possess a number of directories referred to as **subcontainers**.  Each subcontainer should possess a number of directories referred to as **units**.
 
