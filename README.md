@@ -1,40 +1,79 @@
 # Notes
 
-#  IMPORTANT
-- I have updated the genmaster and ugenmaster scripts, so some of this information is outdated.  I hope to re-write the README.md soon.
+## What is it?
+
+This is a repository that serves as a central location for my note-taking
+system--the scripts, the notes themselves, and the compiled binaries(pdfs, etc).
+
+## Why?
+
+If I take notes by hand, I seldom end up reviewing them.  In this way, I can
+produce very well-organized, serchable notes and publish them to the bottomless
+pit of the internet in hope that they will be useful to *someone*.
+
+## How Does it Work?
+
+### What is a "Unit"?
+1. **Unit** = any directory that satisfies the following:
+    * Must contain a markdown file
+        + Markdown files end with the suffix ".md"
+        + NOTE: if the only markdown file in a given directory is "master.md",
+          then the directory isn't treated as a unit
+            * This is because "master.md" is reserved for the markdown file that
+              contains the compiled notes
+    * Must not exist on the UNIT_BLACKLIST array found in the `ugenmaster`
+      script
+
+With this definition in mind, we can look at the two companion scripts that
+drive the core functionality: `ugenmaster` and `genmaster`
+
+### Ugenmaster
+
+`ugenmaster` is a shell script that acts as somewhat of a wrapper to
+`genmaster`.  It takes no parameters, and it will complain if you pass it some.
+Essentially, `ugenmaster` calls `genmaster` on every unit within the "notes"
+directory on the root of this repo.  It does this by assessing those two
+conditions above.  If it passes, it calls `genmaster` on that directory.
+
+### Genmaster
+
+This is where the real functionality is.  This script takes one parameter--the
+path(can be relative or absolute) to a unit.  It performs the sanity check that
+the directory passed is indeed a unit(again, by checking the conditions above).
+Once it verifies that everything is okay(the directory exists and is a unit,
+etc), it creates a "master.md" file in a directory in /tmp that is appended with
+the process's PID(so if the program is running concurrently, the two won't
+interfere with one another).  It does this by looping through the list of
+markdown files---sorted alphabetically---and places into the file its
+filename(stripped of the .md) as an H1 header, the contents of the file, and
+then a separator.  Let's discuss the separator briefly.
+
+#### Separator
+- **Separator** = the file that contains the text that will pasted in between
+  each markdown entry
+    * A global separator is located at $REPO/conf/separator.md
+    * You can specify a per-unit separator by creating a ".separator" file in
+      the unit you wish for it to apply to
+        + Local separator overrides global separator
+
+After `genmaster` compiles the "master.md" in /tmp/notes-[PID]/, it checks
+whether the unit either has no "master.md" or has a "master.md" that is
+different from the newly compiled one.  In the case that *either* of those are
+true, the "master.md" from the unit is overwritten with the "master.md" from
+/tmp and a new pdf is generated using pandoc.
+
+### How Can I Use It?
+
+Essentially, you can create whatever directory heirarchy you like.  The script
+will compile *only* the units(keep in mind that you can blacklist certain units
+if you don't want them to be compiled into a master document; *e.g.* todos,
+calendars, etc).  As such, you can be as creative as you want.  If you want a
+directory tree 40 levels deep, go for it.
+
+Just create markdown files in your unit directory, and develop a naming scheme
+that will ensure your notes are compiled in the correct order(I represent dates
+as YYYY-MM-DD, since this is guaranteed to be sorted properly).
 
 
-## Structure of This Repository
-The base of this repository contains miscellaneous files(todo.md, keydates.md, README.md, *etc.*) as well as a directoy named "scripts"  All directories *not* named "scripts" are called **containers**.  Each container should possess a number of directories referred to as **subcontainers**.  Each subcontainer should possess a number of directories referred to as **units**.
-
-Each unit should contain markdown files.  You can develop a naming scheme that makes sense for your particular container, subcontainer, and unit.
-
-There are two bash scripts in the "scripts" folder that you can make use of: genmaster and ugenmaster.
-
-## Using the Bash Scripts
-
-#### genmaster
-The "genmaster" script can be used as such
-
-```
-[user] $ genmaster <PATH_TO_UNIT>
-```
-
-As it is rather inconvenient to have to specify the path manually, I recommend *not* using this script and opting instead for the use of "ugenmaster", which serves as a kind of wrapper for genmaster.
-
-The function of this script is to compile a master markdown document with labels and separators to distinguish each section of notes from one another.  It first compiles this master markdown file in /tmp.  After it finishes, it checks whether the unit it is directed towards possesses a master.md and, if it does, whether the master markdown document already present is *different* from the one compiled in /tmp.  If it *is* different, it copies the /tmp version over into the unit directory.
-
-In the case that the unit directory has **either** no master.md file *or* a master.md file that is *different* from the one generated in /tmp, the /tmp version is copied over into the unit, and a master pdf is generated using pandoc.  If that condition is not met, thet script makes no changes to the unit directory.
-
-#### ugenmaster
-The "ugenmaster" script can be used as such
-
-```
-[user] $ ugenmaster
-```
-
-The ugenmaster script takes no parameters; if you pass a parameter to it, it will give an error.
-
-The function of this script is to *iterate* through each **unit** that is present in all **containers** and **subcontainers** that exist in the repository.  As it iterates through each unit, it makes a call to genmaster with respect to that *particular* unit.  As such, the script serves to update **all** units in the repository.
-
-I suggest you use this script rather than genmaster, as it is more useful.
+If you have any questions, please let me know.  I'd be amazed if this even gets
+seen by more than 5 people.  I'm very interested in your feedback
