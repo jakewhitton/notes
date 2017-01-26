@@ -79,3 +79,10 @@ as YYYY-MM-DD, since this is guaranteed to be sorted properly).
 
 If you have any questions, please let me know.  I'd be amazed if this even gets
 seen by more than 5 people.  I'm very interested in your feedback
+
+
+#### A Word About "Markdown"
+
+Since the pdfs are generated using `pandoc`, you can embed LaTex within your
+document by enclosing your LaTex code in \$'s or in \$\$'s, depending on
+whether you want it ti be inline with the text or formatted as an equation.
