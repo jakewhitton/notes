@@ -75,5 +75,4 @@ if [ ! -f "${DIR}/master.md" ] || [ ! -z "`diff "${DIR}/master.md" "${tmpDir}/ma
 	pandoc -s -f markdown -o "${DIR}/master.pdf" --latex-engine=pdflatex "${DIR}/master.md"
 fi
 
-exit -1
 rm -R "${tmpDir}"
