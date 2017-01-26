@@ -48,9 +48,7 @@
 |Congress makes treaties     |Cannot enforce laws                |States often override fed                   |Fewer state powers in constitution  |
 |Can borrow money            |No national court system           |Criminals could escape jurisdiction of state|Judicial court system               |
 
-
 ---
-
 
 # 2016-08-30
 
@@ -98,9 +96,7 @@ a.
 - Some rights not explicitly listed in constitution
     * Right to privacy
 
-
 ---
-
 
 # 2016-08-31
 
@@ -126,9 +122,7 @@ a.
 - Informal
     * Judicial Review
 
-
 ---
-
 
 # 2016-09-01
 
@@ -185,9 +179,7 @@ a.
 - Limit terms of senators to one and reps to 3
 - Establish a guaranteed basic income to all
 
-
 ---
-
 
 # 2016-09-02
 
@@ -195,9 +187,7 @@ a.
 - **Federalism**: a political system that preserves certain policy decisions to local governmental units(i.e. states)
 - **Unitaryism**: a political system where states are strictly subservient and hold few legislative abilities
 
-
 ---
-
 
 # 2016-09-06
 
@@ -278,9 +268,7 @@ a.
 - George W. Bush
     - **Preemption** = we kill you before you kill us!
 
-
 ---
-
 
 # 2016-09-07
 
@@ -308,9 +296,7 @@ a.
         + Pioneered by Reagan
         + **Revenue Sharing** = does not require states to match funds in order to receive grants
 
-
 ---
-
 
 # 2016-09-08
 
@@ -338,9 +324,7 @@ a.
     * Reserved powers
         + Granted to states by 10th amendment
 
-
 ---
-
 
 # 2016-09-09
 

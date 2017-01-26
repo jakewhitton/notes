@@ -55,9 +55,7 @@
     * Gerrymandering puts them at a disadvantage
     * Anti-government sentiment
 
-
 ---
-
 
 # 2016-11-10
 
@@ -109,9 +107,7 @@
     * Both
         + Amendment passing
 
-
 ---
-
 
 # 2016-11-15
 
@@ -155,9 +151,7 @@
     * **Conference Committee** = a committee composed of members from both chambers of Congress that exists to resolve legislative disputes
         + Forms compromises on bills so they are more widely appealing
 
-
 ---
-
 
 # 2016-11-16
 
@@ -232,9 +226,7 @@
     * Additionally, they can place regulations on what they can do
 - Lobbyists and many other grousp
 
-
 ---
-
 
 # 2016-11-28
 
@@ -279,9 +271,7 @@
     * William Clinton
     * Richard Nixon was **NOT** impeached; he resigned before they could impeach him
 
-
 ---
-
 
 # 2016-11-29
 
@@ -337,9 +327,7 @@
     * **Executive agreement** = the agreeing with the position another country has taken; does not require 
         + Is fundamentally a **foreign** power
 
-
 ---
-
 
 # 2016-11-30
 
@@ -407,9 +395,7 @@
     * **Head of State** = the performing of a ceremonial function
         + Media gobbles it up
 
-
 ---
-
 
 # 2016-12-02
 
@@ -468,9 +454,7 @@
     * National security policy
 - **Persuader** = attempt to convince segments of the population of the virtues of certain policy-positions
 
-
 ---
-
 
 # 2016-12-05
 
@@ -508,9 +492,7 @@
             - Well-organized
             - Divided into subunits
 
-
 ---
-
 
 # 2016-12-06
 
@@ -587,9 +569,7 @@
 14. **Department of Veterans Affairs**
 15. **Department of Homeland Security**
 
-
 ---
-
 
 # 2016-12-07
 

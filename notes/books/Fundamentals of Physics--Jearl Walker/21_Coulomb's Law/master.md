@@ -75,9 +75,7 @@ $$(A) \times (sec) = (C)$$
 - **Spherical conductors**
     * in a spherical conductor with an excess charge, particles seek to maximize the distance between all other similarly charged particles
 
-
 ---
-
 
 # 21.02
 
@@ -92,9 +90,7 @@ $$ \textbf{e} = 1.602 \times 10^{-19} C $$
 - **Quantized** = a word that is meant to convey the discrete nature of a phenomenon
     * things come in "packets" rather than continuously flowing like a substance
 
-
 ---
-
 
 # 21.03
 

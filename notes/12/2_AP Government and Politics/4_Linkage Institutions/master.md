@@ -18,9 +18,7 @@
             - *Wat.*
         + Internet publications
 
-
 ---
-
 
 # 2016-10-17
 
@@ -44,9 +42,7 @@
         + Helps to reinforce negative view of government
         + Media is seen as limiting force on government
 
-
 ---
-
 
 # 2016-10-18
 
@@ -79,9 +75,7 @@
     * **Structural bias** = stories are chosen and presented in orer to get good ratings--not necessarily to present the truth
         + "If it bleeds, it leads."
 
-
 ---
-
 
 # 2016-10-20
 
@@ -101,9 +95,7 @@
 - **Ticket-Splitting** = in an election where multiple ballots are cast for different positions, the voter votes for different parties for each position
     * causes **divided government**
 
-
 ---
-
 
 # 2016-10-21
 
@@ -141,9 +133,7 @@
     * e.g. FDR in 1932
 - **Party Realignment** = new issue redraws coilition bounds, changing the political parties in the process
 
-
 ---
-
 
 # 2016-10-24
 
@@ -177,9 +167,7 @@
 - **Proportional Representation** = seats in Congress are distributed based on votes received by each party
 - **Coalition Government** = multiple parties come together to make policy
 
-
 ---
-
 
 # 2016-10-27
 
@@ -205,9 +193,7 @@
 - **Iron Triangle** = a relationship formed between Congress, interest groups, and federal agencies(the Bureaucracy)
 - **Issue Network** = groups of entities that are connected through the effort to get a law passed
 
-
 ---
-
 
 # 2016-10-28
 
@@ -245,9 +231,7 @@
             - **Independent Expenditure** = an expense that is eligible for write-off
             - Makes rich people's incomes *look* smaller(less tax), while being able to influence the political process
 
-
 ---
-
 
 # 2016-11-02
 
@@ -282,9 +266,7 @@
         + Serves as insulating layer between the government and the people
         + Shifts focus towards "battle-ground" states and highly-populated states
 
-
 ---
-
 
 # 2016-11-08
 
@@ -334,9 +316,7 @@
     * Candidates who represent the rich get more funding
         + Capitalism is *garbage*
 
-
 ---
-
 
 # 2016-11-09
 

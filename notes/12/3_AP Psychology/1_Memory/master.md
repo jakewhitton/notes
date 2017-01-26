@@ -39,9 +39,7 @@
 ### Mnemonics
 - Shrink down long sequences into distinguishing characters and string them together into short words or sentences
 
-
 ---
-
 
 # 2016-08-29
 
@@ -85,9 +83,7 @@
 ### Implicit Memory/Procedural Memory:
 - Memory of information that happens spontaneously
 
-
 ---
-
 
 # 2016-09-01
 
@@ -130,9 +126,7 @@
 - Retroactive Interference
     * New information supercedes new information
 
-
 ---
-
 
 # 2016-09-02
 

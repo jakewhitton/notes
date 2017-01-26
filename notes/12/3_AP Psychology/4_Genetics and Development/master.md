@@ -29,9 +29,7 @@
     * Hemophilia
 
 
-
 ---
-
 
 # 2016-10-25
 
@@ -52,9 +50,7 @@
 - **Adoption Studies** = studies of different children who are raised as if genetically related
     * Useful for studying influence of genetics
 
-
 ---
-
 
 # 2016-10-27
 
@@ -78,9 +74,7 @@
         + Stronger sense of "family" or "community"
 
 
-
 ---
-
 
 # 2016-11-02
 
@@ -118,9 +112,7 @@
     * Typically caused by abnormalities in hormones
 
 
-
 ---
-
 
 # 2016-11-03
 
@@ -157,9 +149,7 @@
     * **Habituation** = a trend of decreasing response when frequency of exposure is increased
         + Babies get bored with your stupid toys
 
-
 ---
-
 
 # 2016-11-07
 
@@ -198,9 +188,7 @@
             - Hypothetical thinking
             - ALGEBRA!!!
 
-
 ---
-
 
 # 2016-11-09
 
@@ -280,9 +268,7 @@
 6. Self-Actualization
     - Change requires that you disobey the law
 
-
 ---
-
 
 # 2016-11-14
 

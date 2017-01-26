@@ -62,9 +62,7 @@
     * Occurs in **stage 2** of the sleep cycle
     * Grow in magnitude with duration of sleep
 
-
 ---
-
 
 # 2017-01-12
 
@@ -124,9 +122,7 @@
     * **Manifest content** = the narrative events that underpin a dream
     * **Latent content** = the symbolic meaning that the **manifest content** is meant to encode
 
-
 ---
-
 
 # 2017-01-13
 
@@ -142,9 +138,7 @@
         * Almost like a computer defragmentating a spinning hard drive
             + SSD master race
 
-
 ---
-
 
 # 2017-01-17
 
@@ -166,9 +160,7 @@
     * **Hidden observer** = a kind of third person perspective that subjects take on when hypnotized
         + Can explain how subjects don't feel pain
 
-
 ---
-
 
 # 2017-01-18
 
@@ -230,9 +222,7 @@
         - **Amanita Muscaria** = active component in mushrooms
         - **Ecstasy(MDMA)** = considered a *mild* hallucinogen
 
-
 ---
-
 
 # 2017-01-19
 

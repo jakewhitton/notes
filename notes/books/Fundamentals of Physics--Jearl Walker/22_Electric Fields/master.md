@@ -59,9 +59,7 @@ $$\vec{E}_{\vec{P}} = \frac{\vec{F}_{\vec{P}}}{q_0}$$
 - **Uniform Electric Field** = an electric field where all vectors point in the same direction
 - **Nonuniform Electric Field** = an electric field where vector direction varies from point to point
 
-
 ---
-
 
 # 22.02
 
@@ -80,9 +78,7 @@ $$ \vec{E} = \frac{\vec{F}_1}{q0} + \frac{\vec{F}_2}{q0} + ... + \frac{\vec{F}_n
 $$ \vec{E} = \vec{E}_1 + \vec{E}_2 + ... + \vec{E}_n $$
 $$ \vec{E} = \sum \vec{E}_i $$
 
-
 ---
-
 
 # 22.03
 
@@ -131,9 +127,7 @@ $$ |\vec{E}| = \frac{1}{2 \pi \epsilon_0} \frac{qd}{z^3} $$
 ###$\vec{E}$ at Distant Points
 - The formula for $\vec{E}$ for distant points on the dipole axis is characterized by $\frac{1}{z^3}$
 
-
 ---
-
 
 # 22.04
 
@@ -227,9 +221,7 @@ $$ |\vec{E}| = \frac{z q_{total}}{4 \pi \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\fra
     * Typically, $q_{total}$ is just called q for convenience
 - Congratulations on making it through!
 
-
 ---
-
 
 # 22.05
 

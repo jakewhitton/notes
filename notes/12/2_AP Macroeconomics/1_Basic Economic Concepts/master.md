@@ -52,9 +52,7 @@
     * Think of *cost-benefit analysis*
 - Premise: *people will continue to do something until the marginal costs are greater than the marginal benefits*
 
-
 ---
-
 
 # 2017-01-11
 
@@ -122,9 +120,7 @@
         + **Profit** = **Revenue** - **Costs**
             - **Revenue** = the sum of value obtained by selling the goods produced
 
-
 ---
-
 
 # 2017-01-12
 
@@ -179,9 +175,7 @@
         + France
         + *etc*
 
-
 ---
-
 
 # 2017-01-13
 
@@ -226,9 +220,7 @@
     * If two countries have different optimal points, they can trade to make each other better off
     * Trade balance is typically in favor of those who produce **capital goods**
 
-
 ---
-
 
 # 2017-01-17
 
@@ -238,9 +230,7 @@
 - **Alocative efficiency** = the extent to which the permutation of production possibilities aligns with what the society at large desires
     * If a point isn't along the **ppf**, then it is not efficient in the productive or allocative capacity
 
-
 ---
-
 
 # 2017-01-18
 
@@ -269,9 +259,7 @@
         + If production *quantity* is desired, then nations should specialize to produce the product they have the **absolute advantage** for
             - *e.g.* Wartime arms production: the nation's safety is on the line
 
-
 ---
-
 
 # 2017-01-20
 
@@ -290,9 +278,7 @@
     * When interpretting the data, one should assume all else being equal(income, etc)
         + *ceteris paribus*
 
-
 ---
-
 
 # 2017-01-23
 
@@ -325,9 +311,7 @@
 5. Consumer expectations
     * Hype about products shifts demand
 
-
 ---
-
 
 # 2017-01-24
 

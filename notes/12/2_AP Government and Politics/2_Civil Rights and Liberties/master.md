@@ -32,9 +32,7 @@
     * Court ruled that it didn't meet "clear and present danger" conditions established in *Schenck v US(1919)*
     * However, BoR application will be decided on a court-by-court basis
 
-
 ---
-
 
 # 2016-09-22
 
@@ -76,9 +74,7 @@
     * **Commercial Speech** can be restricted because it is *public*
         + *FCC v Pacifica(1978)* = court uphold bans on obscenity on public frequencies
 
-
 ---
-
 
 # 2016-09-26
 
@@ -116,9 +112,7 @@
         + **Penumbra** = shadow, used as legal precedent
     * *Roe v Wade(1972)* = Abortion falls within the *penumbra* established in *Griswold v Connecticut*
 
-
 ---
-
 
 # 2016-09-28
 
@@ -166,9 +160,7 @@ b.
 - **Mid-level review** = policy or actions discriminating based on gender are only okay if they "bear a substantial relationship to an important legislative purpose"
 - **Rational Basis Test** = any other policy or action that discriminates based on other criterion must be *reasonable* and bear a "rational relationship to a legitimate governmental interest"
 
-
 ---
-
 
 # 2016-09-29
 
@@ -207,9 +199,7 @@ b.
 - Prevents discriminating institutions from receiving federal money
 - Civil Rights cases can be taken up by Justice Department--people don't have to sue to establish legal precedent
 
-
 ---
-
 
 # 2016-09-30
 
@@ -236,9 +226,7 @@ b.
         + What constitutes a "disability"?
         + What constitutes a "reasonable accomodation"?
 
-
 ---
-
 
 # 2016-10-03
 

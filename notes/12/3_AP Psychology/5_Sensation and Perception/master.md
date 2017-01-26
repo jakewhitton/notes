@@ -41,9 +41,7 @@
     * *eg.* Electromagnetic waves turning into action potentials
     * **Sensation** is the process of transduction from various media to action potentials
 
-
 ---
-
 
 # 2016-11-29
 
@@ -87,9 +85,7 @@
     * **Blind spot** = a area of the retina that cannot sense light
         + Caused by **optic nerve** and blood vessels
 
-
 ---
-
 
 # 2016-12-05
 
@@ -125,9 +121,7 @@
 - **Color constancy** = the phenomenon of the brain adjusting perception in different lighting conditions so that colors look the same
     * Color is fundamentally a psychological property, not a physical property
 
-
 ---
-
 
 # 2016-12-06
 
@@ -165,9 +159,7 @@
     * **Auditory nerve**
         + Attached to **cochlea**
 
-
 ---
-
 
 # 2016-12-08
 
@@ -238,9 +230,7 @@
             - **Connectedness** = disperate entities can be grouped if they are conneted or bridged
         + Brain organizes entities into figures and ground
 
-
 ---
-
 
 # 2016-12-09
 

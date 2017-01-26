@@ -17,9 +17,7 @@
     * Answer: I tend to believe he is a sincere person.  The stranger parts of the scene, I feel, are better explained by the same kind of admiration for younger people that Holden demonstrates towards kids lke Phoebe or the kid tying her skate in central park
 
 
-
 ---
-
 
 # personalities
 

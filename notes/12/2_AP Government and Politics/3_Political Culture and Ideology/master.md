@@ -22,9 +22,7 @@
 - Wave 3: Asians and Hispanics
     * Asians come from war-torn areas = refugees
 
-
 ---
-
 
 # 2016-10-10
 
@@ -64,9 +62,7 @@
         + Urban/Rural/Suburban
     * Education
 
-
 ---
-
 
 # 2016-10-11
 

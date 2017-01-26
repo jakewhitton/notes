@@ -85,9 +85,7 @@
 - Disadvantages:
     * Very difficult to prove causation 
 
-
 ---
-
 
 # 2016-09-07
 
@@ -114,9 +112,7 @@
 8. Provide results and interpretations to participants.
 9. Treat participants with dignity and respect.
 
-
 ---
-
 
 # 2016-09-08
 

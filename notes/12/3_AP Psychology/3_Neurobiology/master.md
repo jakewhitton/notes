@@ -51,9 +51,7 @@
     * The drug fits *really* well and simulates the neurotransmitter
     * **Excites** the neurotransmitter or increases activity
 
-
 ---
-
 
 # 2016-09-22
 
@@ -118,9 +116,7 @@
     * GABA
 
 
-
 ---
-
 
 # 2016-09-27
 
@@ -183,9 +179,7 @@
 - Neural Networks = a web of inter-connected neurons that cooperate to process information
 - Through experience and feedback, neural networks are modified
 
-
 ---
-
 
 # 2016-09-29
 
@@ -205,9 +199,7 @@
     * Large electromagnets and radio waves make water in the brain orient itself in line with the magnetic field
     * Can generate very high-detail images
 
-
 ---
-
 
 # 2016-10-03
 
@@ -285,9 +277,7 @@
             - Processes auditory sense data
     * **Association Areas** = areas of the cerebral cortex not involved in motor or sensory functions
 
-
 ---
-
 
 # 2016-10-04
 
