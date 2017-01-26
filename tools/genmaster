@@ -9,7 +9,7 @@ if [ $# -ne 1 ]; then
 	exit -1
 fi
 
-DIR="$1"
+DIR="`cd "$1"; pwd`" # The extra shell is for the case where the parameter is a relative path; this will turn it into an absolute path
 
 # If directory doesn't exist, quit
 if [ ! -d "$DIR" ]; then
@@ -27,7 +27,7 @@ if [ -z "$files" ]; then
 	exit -1
 fi
 
-echo "Processing `cd "$DIR"; pwd`..." # The extra shell is needed in case someone specifies a relative path; this will turn it into an absolute path
+echo "Processing ${DIR}..."
 
 # Now, we know for sure that the directory actually exists and that it contains user-created markdown files
 # Time to compile them!
