@@ -1,45 +1,34 @@
-#!/bin/bash
+#!/bin/sh
 
-#Store current directory so we can cd to it at the end of the script
-currentDirectory="`pwd`"
-
-usage() {
-	echo "Incorrect usage.  This script does not take parameters."
-	echo "Usage: ugenmaster"
-}
-
-
-if [ ! -z "$1" ]; then
-	usage
-	exit
+# If a parameter was passed, exit
+if [ $# -ne 0 ]; then
+	echo "Incorrect usage.  This script takes no parameters."
+	echo "usage: ugenmaster"
+	exit -1
 fi
 
-NOTES_DIRECTORY="/home/jake/notes"
+REPO_DIR="/home/jake/notes"
 
-cd $NOTES_DIRECTORY
+NOTES_DIR="${REPO_DIR}/notes"
 
-baseDirectories=(*/)
+# If you want to omit certain directories from being detected as units, add them here
+UNIT_BLACKLIST=("${NOTES_DIR}")
 
-for container in "${baseDirectories[@]}"; do
-	if [ ! "$container" == "scripts/" ]; then
-		cd "$container"
-		containerDirectories=(*/)
-		for subcontainer in "${containerDirectories[@]}"; do
-			cd "$subcontainer"
-			subcontainerDirectories=(*/)
-			for unit in "${subcontainerDirectories[@]}"; do
-				cd "$unit"
-				
-				#Code to run on each unit
-				printf "Processing %s/%s%s%s\n" "$NOTES_DIRECTORY" "$container" "$subcontainer" "$unit"
-				genmaster "`pwd`"
+# Set IFS to newline, so that we can iterate over directories that have tabs or spaces in their names
+IFS="
+"
 
-				cd ..
-			done
-			cd ..
-		done
-		cd ..
+for dir in `find "$NOTES_DIR" -type d -not -path '*/\.*' | sort`; do # Iterate over each non-hidden(e.g. .git/) subdirectory
+	
+	# If $dir is equivalent to one of the elements of $UNIT_BLACKLIST, continue to the next iteration of the loop(skip the current value)
+	for blacklisted_directory in "${UNIT_BLACKLIST[@]}"; do
+		if [ "$dir" == "$blacklisted_directory" ]; then
+			continue 2;
+		fi
+	done
+	
+	# Now that we know $dir isn't blacklisted, we call genmaster on it if it contains markdown files
+	if ls "$dir"/*.md &> /dev/null; then
+		genmaster "$dir"
 	fi
 done
-
-cd "$currentDirectory"
