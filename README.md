@@ -3,7 +3,8 @@
 ## What is it?
 
 This is a repository that serves as a central location for my note-taking
-system--the scripts, the notes themselves, and the compiled binaries(pdfs, etc).
+system--the scripts, the notes themselves, and the compiled binaries(pdfs,
+etc).
 
 ## Why?
 
@@ -19,8 +20,8 @@ pit of the internet in hope that they will be useful to *someone*.
         + Markdown files end with the suffix ".md"
         + NOTE: if the only markdown file in a given directory is "master.md",
           then the directory isn't treated as a unit
-            * This is because "master.md" is reserved for the markdown file that
-              contains the compiled notes
+            * This is because "master.md" is reserved for the markdown file
+              that contains the compiled notes
     * Must not exist on the UNIT_BLACKLIST array found in the `ugenmaster`
       script
 
@@ -31,9 +32,10 @@ drive the core functionality: `ugenmaster` and `genmaster`
 
 `ugenmaster` is a shell script that acts as somewhat of a wrapper to
 `genmaster`.  It takes no parameters, and it will complain if you pass it some.
-Essentially, `ugenmaster` calls `genmaster` on every unit within the "notes"
-directory on the root of this repo.  It does this by assessing those two
-conditions above.  If it passes, it calls `genmaster` on that directory.
+Essentially, `ugenmaster` calls `genmaster` on each directory and
+sub-directory(recursively, so all nested folders count) within the "notes"
+folder in the root of the repo. It does this by assessing those two conditions
+above.  If it passes, it calls `genmaster` on that directory.
 
 ### Genmaster
 
@@ -41,8 +43,8 @@ This is where the real functionality is.  This script takes one parameter--the
 path(can be relative or absolute) to a unit.  It performs the sanity check that
 the directory passed is indeed a unit(again, by checking the conditions above).
 Once it verifies that everything is okay(the directory exists and is a unit,
-etc), it creates a "master.md" file in a directory in /tmp that is appended with
-the process's PID(so if the program is running concurrently, the two won't
+etc), it creates a "master.md" file in a directory in /tmp that is appended
+with the process's PID(so if the program is running concurrently, the two won't
 interfere with one another).  It does this by looping through the list of
 markdown files---sorted alphabetically---and places into the file its
 filename(stripped of the .md) as an H1 header, the contents of the file, and
