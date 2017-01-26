@@ -85,4 +85,4 @@ seen by more than 5 people.  I'm very interested in your feedback
 
 Since the pdfs are generated using `pandoc`, you can embed LaTex within your
 document by enclosing your LaTex code in $'s or in $$'s, depending on
-whether you want it ti be inline with the text or formatted as an equation.
+whether you want it to be inline with the text or formatted as an equation.
