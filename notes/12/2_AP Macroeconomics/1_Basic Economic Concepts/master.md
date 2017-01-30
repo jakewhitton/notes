@@ -346,3 +346,27 @@
 - **Surplus** = a term that describes a situation in which quantity supplied is *greater* than quantity demanded
 - **Shortage** = a term that describes a situation in which quantity supplied is *less* than quantity demanded
 - Theoretically, the market will adjust by raising or lowering the price to make up for a **shortage** or **surplus**
+
+---
+
+# 2017-01-30
+
+## Circular Flow
+- There are *two* markets
+    * **Product Market** = a market where goods and services are sold to consumers
+        + Fundamentally for **consumer goods**
+    * **Resource/Factor Market** = a market where input and capital is sold to producers
+        + Fundamentally for **capital goods**
+- Value flows in a circular way to and from different parts of the cycle
+    * The government can modulate the process through taxes and subsidies
+- **Private Sector** = the subset of the economy that consists of privately owned businesses and individuals
+- **Public Sector** = the subset of the economy that consists of public goods and government projects
+- **Factor Payments** = payments for capital
+    * Roughly synonomous with "costs"
+    * *e.g.*
+        + Wages
+        + Rent
+        + Physical capital
+        + Interest on loans
+- **Transfer Payments** = a government action that redistributes wealth or income
+- **Subsidies** = a patronage of a particular business or industry using public tax-dollars
