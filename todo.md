@@ -6,14 +6,13 @@
 
 ## AP Macroeconomics
 - Unit 1 Homework
-    * Not sure when it's due
+    * Due wednesday
 
 ## AP Psychology
 - None
 
 ## AP Computer Science
-- Data sleuth card
-- Explore performance task + 3 sources
+- None
 
 ## AP Physics C: Electricity and Magnetism
 - None
