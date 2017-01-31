@@ -8,6 +8,9 @@
 ## AP Macroeconomics
 - Unit 1 Homework
     * Due wednesday
+- Review packet
+    * Due friday with rest of participation packet
+        + Includes all classwork and notes
 
 ## AP Psychology
 - None
