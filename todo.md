@@ -1,7 +1,8 @@
 # TODO
 
 ## AP Literature and Composition
-- None
+- Pride & Prejudice essay
+    * Due tomorrow(2016-01-31)
 - [SEE KEY DATES](./keydates.md)
 
 ## AP Macroeconomics
