@@ -82,13 +82,13 @@ $$ \vec{E} = \sum \vec{E}_i $$
 
 # 22.03
 
-### Electric Field Due to a Dipole
+## Electric Field Due to a Dipole
 - **Dipole** = an arrangement of charged particles defined by two particles of equal but opposite charges that are separated by some distance
 - **Dipole axis** = the immaginary line that contains the position of each particle in a dipole
 - Question: *can we come up with a general formula for some point P along the dipole axis?*
     * Answer: yes we can(not a reference to ~~Yo' mama~~ Obama)
 
-#### Solving the Problem
+### Solving the Problem
 - Since we know that
 $$ \vec{E} = \sum \vec{E}_i $$
 - and there are only two particles,
@@ -113,7 +113,7 @@ $$ |\vec{E}| = \frac{1}{2 \pi \epsilon_0} \frac{qd}{z^3} \frac{1}{\big[ 1 - (\fr
 $$ |\vec{E}| = \frac{1}{2 \pi \epsilon_0} \frac{qd}{z^3} $$
 - note that this is a *simplification*--it makes calculations easier but doesn't apply as broadly as the prior equation
 
-##### A Note About the Solution
+#### A Note About the Solution
 - If you notice, our final result features a simple product: $qd$
     * This is given a special name: **electric dipole moment**
     * It's symbol is $\vec{p}$
@@ -131,14 +131,14 @@ $$ |\vec{E}| = \frac{1}{2 \pi \epsilon_0} \frac{qd}{z^3} $$
 
 # 22.04
 
-### Electric Field Due to a Line of Charge
+## Electric Field Due to a Line of Charge
 - WARNING: this is largely considered the hardest part of the class; BRACE YOURSELF
 - Prior to this, we calculated $\vec{E}$ mostly in the context of simple particle systems
     * Now, we consider when the systems include arbitrarily large number of particles in certain configurations
 - When dealing with more complex particle systems, charge is often described in terms of **charge densities** rather than through the summation of each particle's individual charge
     * This permits us to use calculus to calculate what the sum would be from individual particles
 
-#### The Problem
+### The Problem
 - Imagine a non-conducting circle of radius $R$ with a uniform positive charge about its circumference
 - Consider a point P that is located on the line perpendicular to the plane of the circle that passes through its center point
     * Define $z$ as the distance along that line between the point P and the center of the circle 
@@ -166,7 +166,7 @@ $$ |\vec{E}| = \frac{1}{2 \pi \epsilon_0} \frac{qd}{z^3} $$
 - Question: *How are we going to sum all of the $\vec{E}$ components?*
     * Answer: we will use integration
 
-#### Solving the Problem
+### Solving the Problem
 - Consider the following
 $$ dq = \lambda ds $$
 - This just means that the differential charge for our infinitesimal stretch of circumference will be equal to our **linear charge density** multiplied by the differential length
@@ -225,13 +225,13 @@ $$ |\vec{E}| = \frac{z q_{total}}{4 \pi \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\fra
 
 # 22.05
 
-### The Electric Field Due to a Charged Disk
+## The Electric Field Due to a Charged Disk
 - The last section was about *linear* charge densities
     * This one will use the same methodology with **surface charge density($\sigma$)**
         + DON'T FREAK OUT; we don't have to go through that whole procedure again
 
 
-#### The Problem
+### The Problem
 - Imagine a circular disk of radius R and uniform charge $q$ described by $\sigma$ and a point P along the central axis
     * Now, superimpose a ring of radius $r$ and charge $dq$
         + *Do you see where this is going?*
@@ -274,3 +274,106 @@ $$ \vec{E} = \frac{z \sigma}{2 \epsilon_0} \bigg[ \frac{1}{z} - \frac{1}{\sqrt{R
 $$ \vec{E} = \frac{\sigma}{2 \epsilon_0} \bigg[ \frac{z}{z} - \frac{z}{\sqrt{R^2 + z^2}} \bigg] $$
 $$ \vec{E} = \frac{\sigma}{2 \epsilon_0} \bigg[ 1 - \frac{z}{\sqrt{R^2 + z^2}} \bigg] $$
 - And thus, the problem is solved.  Isn't calculus fun?
+
+---
+
+# 22.06
+
+## How Does $\vec{E}$ Relate to Force?
+- Imagine we had a point particle of charge $q$
+    * If we placed that particle into an $\vec{E}$ field, it would experience an **electrostatic force**
+        + The $\vec{E}$ field we place the particle in is often called the **external field**
+- Since the unit of our $\vec{E}$ field is $\frac{N}{C}$, we can express the electrostatic force as
+$$ \vec{F} = q \vec{E} $$
+- Really, this is true just because of the way we defined $\vec{E}$
+
+### Elementary Charge
+- **Elementary charge($e$)** = the charge, in $C$, of one proton
+    * Or, equivalently, the opposite of the charge of one electron
+- The equation
+$$ \vec{F} = q \vec{E} $$
+- actually helped calculate this value!
+- **Millikan Oil-Drop Experiment** = a test that can be used to determine the value of $e$
+    1. Arrange a cylinder with two volumes, separated by a flat conductive material with a small hole in the center
+        * Label the top volume A
+        * Label the bottom volume B
+        * Label the conductive separator S
+    2. Connect one terminal of a battery to the bottom plate(which is also conductive) and another to a switch
+        * Then, connect the other switch terminal to the conductive separator S
+    2. Spray oil into A as an aerosol
+        * Some particles accumulate a excess charge through collisions
+    3. As oil drops occasionally land in C, take measurements as to how long it takes particles to move certain distances
+- Through using the above procedure, we can determine how electrostatic forces are affecting the oil particles
+    * In addition, if you assume that
+$$ q \in \{ n e \}, n \in \mathbb{N} $$
+    * then, you can calculate what $e$ actually is!
+        + Note that you must first assume charge is quantized before you make this leap
+
+### Ink-Jet Printing
+- Interestingly, this relationship between $\vec{F}$ and $\vec{E}$ is used in ink-jet printing technology
+    * A voltage is applied across two conductive plates, and the ink particles(which are consistent in charge) are sent through
+        + By modulating the voltage, the ink drop can be driven to a specific spot
+        + Alternatively, if the voltage is kept constant(as a result, $\vec{E}$ is kept constant), then you can accomplish the same effect by changing $q$
+
+### Electrical Breakdown and Sparks
+- If $\vec{E}$ is sufficiently high(it surpasses a value known as $\vec{E}_c$, which stands for $\vec{E}$-critical), electrons in the surrounding material can be stripped
+    * The result is that the air becomes conductive because there are so many freed electrons
+        + As current passes through this pseudo-conductor, the electrons occasionally strike atoms, causing a release of light
+            - This is what causes the "spark" look
+
+---
+
+# 22.07
+
+## Dipoles in an $\vec{E}$ Field
+- Recall the definition of **dipole moment($\vec{p}$)**:
+$$ \vec{p} = q \vec{d} $$
+- where $\vec{d}$ is the vector that points from the negative particle of the dipole to the positive one
+- Imagine that we put a dipole in a uniform $\vec{E}$ field
+    * Then, the direction of $\vec{p}$ makes an angle $\theta$ with $\vec{E}$
+    * If we assume the dipole is a rigid body, then we can calculate the net force exerted by the $\vec{E}$ field
+$$ \Sigma \vec{F} = \big( -q \vec{E} \big) + \big( q \vec{E} \big) $$
+$$ \Sigma \vec{F} = \vec{0} $$
+- as such, the dipole actually doesn't experience any net force
+    * *however*, the dipole does experience a **net torque**
+        + The dipole actually rotates about its center of mass
+- **Torque($\tau$)** is defined as
+$$ \vec{\tau} = \vec{r} \times \vec{F} $$
+- where $\vec{r}$ is the vector pointing from the center of rotation to where the force is being applied
+- If we'd like to find the **net torque**, we just add the two torques together
+$$ \Sigma \vec{\tau} = \bigg( \vec{r}_{(+)} \times \vec{F}_{(+)} \bigg) + \bigg( \vec{r}_{(-)} \times \vec{F}_{(-)} \bigg) $$
+- Remember that our dipole has a vector $\vec{d}$ that points from the negative particle to the positive particle
+    * We can create a vector $\vec{k}$ that points from the negative particle to the center of mass
+    * Then, we can define $\vec{r}_{(+)}$ and $\vec{r}_{(-)}$ in terms of $\vec{d}$ and $\vec{k}$
+$$ \vec{r}_{(+)} = \vec{d} - \vec{k} $$
+$$ \vec{r}_{(-)} = - \vec{k} $$
+- We can use these equations and the fact that
+$$ \vec{F} = q \vec{E} $$
+- as substitutions for our earlier equation
+$$ \Sigma \vec{\tau} = \bigg( \big( \vec{d} - \vec{k} \big) \times \big( q \vec{E} \big) \bigg) + \bigg( \big( - \vec{k} \big) \times \big( -q \vec{E} \big) \bigg) $$
+- One property of cross products is that
+$$ \big( \vec{a} \times \vec{b} \big) = - \big( \vec{b} \times \vec{a} \big) $$
+- This property is called "anti-communativity"
+- Using this, we can rearrange the expresion
+$$ \Sigma \vec{\tau} = - \bigg( \big( q \vec{E} \big) \times \big( \vec{d} - \vec{k} \big) \bigg) - \bigg( \big( -q \vec{E} \big) \times \big( - \vec{k} \big)  \bigg) $$
+$$ \Sigma \vec{\tau} = - \bigg[ \bigg( \big( q \vec{E} \big) \times \big( \vec{d} - \vec{k} \big) \bigg) + \bigg( \big( -q \vec{E} \big) \times \big( - \vec{k} \big)  \bigg) \bigg] $$
+- Another property of cross products is that
+$$ \big( f \vec{a} \big) \times \vec{b} = \vec{a} \times \big( f \vec{b} \big) $$
+- where $f$ is a scalar
+    * Using this, we can rewrite the equation as
+$$ \Sigma \vec{\tau} = - \bigg[ \bigg( \big( q \vec{E} \big) \times \big( \vec{d} - \vec{k} \big) \bigg) + \bigg( \big( q \vec{E} \big) \times \big( (-1) ( -\vec{k}) \big)  \bigg) \bigg] $$
+$$ \Sigma \vec{\tau} = - \bigg[ \bigg( \big( q \vec{E} \big) \times \big( \vec{d} - \vec{k} \big) \bigg) + \bigg( \big( q \vec{E} \big) \times \big( \vec{k} \big)  \bigg) \bigg] $$
+- Another property of cross products is that
+$$ \bigg( \vec{a} \times \vec{b} \bigg) + \bigg( \vec{a} \times \vec{c} \bigg) = \vec{a} \times \bigg( \vec{b} + \vec{c} \bigg)$$
+- Using this, we get
+$$ \Sigma \vec{\tau} = - \bigg[ \big( q \vec{E} \big) \times \bigg( \big( \vec{d} - \vec{k}\big) + \big( \vec{k} \big) \bigg) \bigg] $$
+$$ \Sigma \vec{\tau} = - \bigg[ \big( q \vec{E} \big) \times ( \vec{d} ) \bigg] $$
+- Using the same property of transitive scalars as we did prior,
+$$ \Sigma \vec{\tau} = - \bigg[ \vec{E} \times \big( q \vec{d} \big) \bigg] $$
+- Using the definition of $\vec{p}$, we get
+$$ \Sigma \vec{\tau} = - \bigg[ \vec{E} \times \vec{p} \bigg] $$
+- Using the property of anti-communativity, we get
+$$ \Sigma \vec{\tau} = \vec{p} \times \vec{E} $$
+- And with that, we have found the net torque of a dipole in a uniform $\vec{E}$ field
+    * I'm proud of you, son
+
