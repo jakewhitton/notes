@@ -192,7 +192,7 @@ $$ d\vec{E} = \frac{1}{4 \pi \epsilon_0} \frac{\lambda ds}{(R^2 + z^2)} $$
         + This proves true for all points on the circumference
             - This means we only have to sum the vertical components... HURRAY!
 - Imagine a new right triangle that is created when you superimpose $d\vec{E}$ onto P with $\theta$ from the vertical
-    * The horizontal component is equal to $d\vec{E}cos(\theta)$
+    * The vertical component of $d\vec{E}$ is equal to $d\vec{E}cos(\theta)$
 - So, our net $\vec{E}$ is just the sum of of all the $d\vec{E}cos(\theta)$ about the circle
     * But $\theta$ isn't a variable we are integrating with respect to; we need to define it in terms of existing variables
         + Imagine the triangle linking P, the center of the circle, and the charged particle on the circumference.  The angle with vertex P has a magnitude of $\theta$
@@ -377,3 +377,53 @@ $$ \Sigma \vec{\tau} = \vec{p} \times \vec{E} $$
 - And with that, we have found the net torque of a dipole in a uniform $\vec{E}$ field
     * I'm proud of you, son
 
+## Potential Energy of a Dipole in a Uniform $\vec{E}$ field
+- Now that we have a means of calculating the net torque exerted on a dipole, we can determine the potential energy stored in any given permutation
+- In order to do so, we can use the definition of **work($W$)**
+$$ W = |\vec{F}| d $$
+- Adapting it to our situation, we say that $U$ is $W$, $|\vec{\tau}|$ is $|\vec{F}|$, and $\theta$ is $d$
+$$ U = |\vec{\tau}| \theta $$
+- Note that this formula only applies if $\vec{\tau}$ is constant, which it isn't
+    * In order to account for this, we use calculus
+    * Consider if we replaced all these terms with differential terms
+$$ dU = |\vec{\tau}| d\theta $$
+- Then, we could just use the tautology
+$$ U = \int dU $$
+- With our definition of $dU$ to calculate U
+$$ U = \int \bigg( |\vec{\tau}| d\theta \bigg) $$
+$$ U = \int \bigg( |\vec{p} \times \vec{E}| d\theta \bigg) $$
+$$ U = \int \bigg( |\vec{p} \times \vec{E}| \bigg) d\theta $$
+- A property of cross products is that
+$$ |\vec{a} \times \vec{b}| = |\vec{a}| |\vec{b}| sin( \theta )$$
+- where $\theta$ is the angle between $\vec{a}$ and $\vec{b}$
+- As such, we can redefine our integral
+$$ U = \int \bigg( |\vec{p}| |\vec{E}| sin( \theta )\bigg) d\theta $$
+- Since $$ and $$ are constants, we can factor them out
+$$ U =  |\vec{p}| |\vec{E}| \int sin(\theta) d\theta $$
+$$ U =  |\vec{p}| |\vec{E}| \big[ - cos(\theta) \big] $$
+$$ U = - |\vec{p}| |\vec{E}| cos(\theta) $$
+- This is valid, but we can simplify it a bit
+    * This actually matches the definition of a **dot product** fairly closely
+$$ \vec{a} \cdot \vec{b} = |\vec{a}| |\vec{b}| cos(\theta) $$
+- Consider if we re-wrote the equation as
+$$ U = - \big[ |\vec{p}| |\vec{E}| cos(\theta) \big] $$
+- Then we can just use the definition of dot product to simplify
+$$ U = - \big[ \vec{p} \cdot \vec{E} ] $$
+- A property of dot products is that
+$$ c \bigg( \vec{a} \cdot \vec{b} \bigg) = \big( c \vec{a} \big) \cdot \vec{b} = \vec{a} \cdot \big( c \vec{b} \big) $$
+- where $c$ is a scalar
+- Using this, we can rewrite the equation as
+$$ U = \big( - \vec{p} \big) \cdot \vec{E} $$
+- You could place the $-1$ in the $\vec{E}$ if you wish; it really doesn't matter
+    * The parentheses are redundant technically, so its often just written as
+$$ U = -\vec{p} \cdot \vec{E} $$
+- In this form, its assumed the negative belongs to the $\vec{p}$, but, like I said, it *really* doesn't matter
+- This equation represents the energy state of a dipole
+    * If you want to calculate *work*, you need to take a difference between two states
+$$ \Delta U = U_{f} - U_{i} $$
+
+### Microwave Cooking
+- Interestingly, this is *exactly* how microwave ovens work
+    * The microwave sets up an oscillating $\vec{E}$ field, and the molecules of water in the food try to align themselves
+        + As the field is constantly changing, the water molecules accumulate rotational energy
+            - This is transfered to its surroundings as heat energy $\to$ hot pockets at 3:00AM
