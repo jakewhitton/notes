@@ -32,10 +32,9 @@ drive the core functionality: `ugenmaster` and `genmaster`
 
 `ugenmaster` is a shell script that acts as somewhat of a wrapper to
 `genmaster`.  It takes no parameters, and it will complain if you pass it some.
-Essentially, `ugenmaster` calls `genmaster` on each directory and
-sub-directory(recursively, so all nested folders count) within the "notes"
-folder in the root of the repo. It does this by assessing those two conditions
-above.  If it passes, it calls `genmaster` on that directory.
+Essentially, `ugenmaster` calls `genmaster` on each *unit* that is a descendent
+of the "notes" folder at the root of this repo.  It makes the determination as
+to whether or not a directory is a unit with the above conditions.
 
 ### Genmaster
 
