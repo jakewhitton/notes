@@ -1,0 +1,29 @@
+# 23.01
+
+### A Note About This Chapter
+- Last chapter was fairly brutal
+    * Physics is really about making hard problems easy with abstraction
+        + This chapter will be lesse labor-intensive
+- Through *symmetry*, we can skip parts of problems
+    * Like how we only summed the vertical components of $d\vec{E}$ in 22.04
+
+## Gauss' Law
+- **Gauss' law** = a law that relates net charge of a volume enclosed by a closed surface and the $\vec{E}$ field about that closed surface
+    * Discovered by Carl Friedrich Gauss
+        + Lived from 1777 until 1855
+- Imagine a particle of positive charge q
+    * Now superimpose a sphere centered at the particle
+        + The surface of the sphere is called a **Gaussian surface**
+        + The $\vec{E}$ vectors around the surface point radially outwards
+            - Because the particle is *positive*
+        + Those same vectors are said to **pierce** the surface of the sphere
+- The essential utility of **Gauss' Law** is that we can infer things about the net charge of an object by examining the $\vec{E}$ field about its outer surface
+    * Or, equivalently, we can use the net charge to infer information about the $\vec{E}$ about the object's outer surface
+
+### Electric Flux
+- **Electric flux** = a metric of *how much* the $\vec{E}$ field *pierces* the guassian surface
+    * The symbol for **electric flux** is $\phi$
+- The best way to learn about this is to just do a bunch of examples
+
+#### Electric Flux On a Flat Surface in a Uniform $\vec{E}$ Field
+- Imagine we had a uniform $\vec{E}$ field
