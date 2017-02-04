@@ -27,3 +27,16 @@
 
 #### Electric Flux On a Flat Surface in a Uniform $\vec{E}$ Field
 - Imagine we had a uniform $\vec{E}$ field
+    * Now superimpose a flat surface of area A
+        + Orient it along with yz-plane with its center point at the origin
+    * Denote the angle that the uniform $\vec{E}$ vectors make with the x-axis as $\theta$
+    * Then, we can imagine splitting the $\vec{E}$ vectors into two components
+        + One that *directly* pierces the surface
+            - Directly perpandicular to the surface
+            - This vector is the **electric flux** for any given differential area
+        + One that doesn't pierce the surface at all
+            - Directly parallel to the surface
+- We can define the magnitude of the electric flux in a subarea of A as
+$$ |\vec{E}_x| = |\vec{E}| cos(\theta) $$
+- This is valid, but there is a more elegant solution
+    * This value can ac
