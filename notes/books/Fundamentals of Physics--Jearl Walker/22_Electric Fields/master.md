@@ -4,7 +4,7 @@
 
 
 ## "Action At a Distance"
-- Particles that don't physically "touch" can stil have electrostatic forces exchanged
+- Particles that don't physically "touch" can still have electrostatic forces exchanged
     * How does that work if the particles aren't "touching"?
         + **Answer**: *electric fields*
 
@@ -39,7 +39,7 @@ $$ \vec{E} = \frac{\vec{F}}{q_0} $$
 1. Take a particle of a very small, positive charge $q_0$
 2. Place that particle at a point $\vec{P}$ near some charged object O
 3. Determine the electrostatic force between O and the particle of charge $q_0$ through empirical means
-    * Perhaps measure acceleration and use newtonian mechanics to find $\vec{F}$
+    * Perhaps measure acceleration and use Newtonian mechanics to find $\vec{F}$
 4. Calculate $\vec{E}$ at $\vec{P}$ by the following equation
 $$\vec{E}_{\vec{P}} = \frac{\vec{F}_{\vec{P}}}{q_0}$$
 
@@ -55,7 +55,7 @@ $$\vec{E}_{\vec{P}} = \frac{\vec{F}_{\vec{P}}}{q_0}$$
         + Result of the mathematical definition of $\vec{E}$
 - Two rules
     1. The electric field vector must be tangent to the electric field line through that point and in the same direction
-    2. If the electric field vectors have tails that lie in a plane perpandicular to said electric field vectors, then the magnitude of $\vec{E}$ is visually present by the relative density of electric field vectors, not by the magnitude of them
+    2. If the electric field vectors have tails that lie in a plane perpendicular to said electric field vectors, then the magnitude of $\vec{E}$ is visually present by the relative density of electric field vectors, not by the magnitude of them
 - **Uniform Electric Field** = an electric field where all vectors point in the same direction
 - **Nonuniform Electric Field** = an electric field where vector direction varies from point to point
 
@@ -71,7 +71,7 @@ $$|\vec{E}| = \frac{\frac{1}{4 \pi \epsilon_0} \frac{qq_0}{r^2}}{q_0}$$
 $$|\vec{E}| = \frac{1}{4 \pi \epsilon_0} \frac{q}{r^2}$$
 - This formula allows to calculate the *magnitude* of the electric field at any given point
     * Note that this formula doesn't use $q_0$; we can calculate $\vec{E}$ independent of any empirical data
-- Because forces obey superposition(the permittability of treating a vector sum as representative of the whole), we can demonstrate that the electric field obeys superposition
+- Because forces obey superposition(the permittivity of treating a vector sum as representative of the whole), we can demonstrate that the electric field obeys superposition
 $$ \vec{E} = \frac{\sum \vec{F}_i}{q_0}$$
 $$ \vec{E} = \frac{\vec{F}_1 + \vec{F}_2 + \vec{F}_3 + ... + \vec{F}_n}{q_0} $$
 $$ \vec{E} = \frac{\vec{F}_1}{q0} + \frac{\vec{F}_2}{q0} + ... + \frac{\vec{F}_n}{q0} $$
@@ -84,7 +84,7 @@ $$ \vec{E} = \sum \vec{E}_i $$
 
 ## Electric Field Due to a Dipole
 - **Dipole** = an arrangement of charged particles defined by two particles of equal but opposite charges that are separated by some distance
-- **Dipole axis** = the immaginary line that contains the position of each particle in a dipole
+- **Dipole axis** = the imaginary line that contains the position of each particle in a dipole
 - Question: *can we come up with a general formula for some point P along the dipole axis?*
     * Answer: yes we can(not a reference to ~~Yo' mama~~ Obama)
 
@@ -96,8 +96,8 @@ $$ \vec{E} = \vec{E}_{(+)} + \vec{E}_{(-)} $$
 - We can use our formula for calculating $\vec{E}$ in a one particle system
 $$ |\vec{E}_i| = \frac{1}{4 \pi \epsilon_0} \frac{q}{r^2} $$
 - But, in order to do this, we really should define a more useful variable.
-- Imagine a 3-dimensional cartesian coordinate system and orient the dipole axis with the z-axis and the midpoint between the two dipole particles with the origin.
-- Then, define d as the distance between the two particlces in the dipole.  The particles would be located at$(0, 0, \frac{d}{2})$ and $(0, 0, - \frac{d}{2})$
+- Imagine a 3-dimensional Cartesian coordinate system and orient the dipole axis with the z-axis and the midpoint between the two dipole particles with the origin.
+- Then, define d as the distance between the two particles in the dipole.  The particles would be located at$(0, 0, \frac{d}{2})$ and $(0, 0, - \frac{d}{2})$
 - Then, define z as the z-coordinate of our point P that lies along the dipole axis
 - Then, assuming that the negative particle is at $(0, 0, -\frac{d}{2})$,
 $$ |\vec{E}_{(+)}| = \frac{1}{ 4 \pi \epsilon_0 } \frac{q}{(z - \frac{d}{2})^2} $$
@@ -150,7 +150,7 @@ $$ |\vec{E}| = \frac{1}{2 \pi \epsilon_0} \frac{qd}{z^3} $$
         + **Volume charge density** = a metric that associates volumes with how much charge one should expect to find in any given area
             - Symbol is $\rho$
 - Define $ds$ as the differential length along the circumference of the circle
-    * This is what we will input into our **linear charge density** to figure out how much charge is in that strecth of circumference
+    * This is what we will input into our **linear charge density** to figure out how much charge is in that stretch of circumference
 - Define $d\vec{E}$ as the differential electric field vector that is associated with the stretch of circumference of length $ds$
 
 ##### First Step
@@ -179,7 +179,7 @@ $$ \vec{E} = \frac{1}{4 \pi \epsilon_0} \frac{q}{r^2} $$
     * We know that the point lies on the line perpendicular to the plane of the circle that passes through the center point
     * We know the circle is of radius $R$, and the length between the center point and P is $z$
     * From this information, we can make a right triangle of side lengths $R$ and $z$ and hypotenuse $r$
-        + $r$ can be found with the pythagorean theorem
+        + $r$ can be found with the Pythagorean theorem
 $$ c^2 = a^2 + b^2 $$
 $$ r^2 = R^2 + z^2 $$
 $$ r = \sqrt{R^2 + z^2} $$
@@ -192,7 +192,7 @@ $$ d\vec{E} = \frac{1}{4 \pi \epsilon_0} \frac{\lambda ds}{(R^2 + z^2)} $$
         + This proves true for all points on the circumference
             - This means we only have to sum the vertical components... HURRAY!
 - Imagine a new right triangle that is created when you superimpose $d\vec{E}$ onto P with $\theta$ from the vertical
-    * The horizontal component is equal to $d\vec{E}cos(\theta)$
+    * The vertical component of $d\vec{E}$ is equal to $d\vec{E}cos(\theta)$
 - So, our net $\vec{E}$ is just the sum of of all the $d\vec{E}cos(\theta)$ about the circle
     * But $\theta$ isn't a variable we are integrating with respect to; we need to define it in terms of existing variables
         + Imagine the triangle linking P, the center of the circle, and the charged particle on the circumference.  The angle with vertex P has a magnitude of $\theta$
@@ -207,7 +207,7 @@ $$ \vec{E} = \int d\vec{E} $$
     * Since we determined that the horizontal components cancel each other out, we will just solve for the magnitude of $\vec{E}$, so that it makes our integral simpler
 $$ |\vec{E}| = \int_{0}^{2 \pi R} \bigg[ \bigg( \frac{1}{4 \pi \epsilon_0} \frac{\lambda}{(R^2 + z^2)} \bigg) \frac{z}{\sqrt{R^2 + z^2}} \bigg] ds $$
 - Notice that our integrand does not contain $s$, nor any variables at all--they're all constants!
-    * This means we can just take the entire integrant(without the $ds$, of course) outside of the integral
+    * This means we can just take the entire integrand(without the $ds$, of course) outside of the integral
         + Easiest integral ever...
 $$ |\vec{E}| = \frac{\lambda z}{4 \pi \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}} \int_{0}^{2 \pi R} ds $$
 $$ |\vec{E}| = \frac{\lambda z}{4 \pi \epsilon_0 \bigg( R^2 + z^2 \bigg)^{\frac{3}{2}}} \times (2 \pi R) $$
@@ -352,8 +352,8 @@ $$ \vec{F} = q \vec{E} $$
 $$ \Sigma \vec{\tau} = \bigg( \big( \vec{d} - \vec{k} \big) \times \big( q \vec{E} \big) \bigg) + \bigg( \big( - \vec{k} \big) \times \big( -q \vec{E} \big) \bigg) $$
 - One property of cross products is that
 $$ \big( \vec{a} \times \vec{b} \big) = - \big( \vec{b} \times \vec{a} \big) $$
-- This property is called "anti-communativity"
-- Using this, we can rearrange the expresion
+- This property is called "anti-commutativity"
+- Using this, we can rearrange the expression
 $$ \Sigma \vec{\tau} = - \bigg( \big( q \vec{E} \big) \times \big( \vec{d} - \vec{k} \big) \bigg) - \bigg( \big( -q \vec{E} \big) \times \big( - \vec{k} \big)  \bigg) $$
 $$ \Sigma \vec{\tau} = - \bigg[ \bigg( \big( q \vec{E} \big) \times \big( \vec{d} - \vec{k} \big) \bigg) + \bigg( \big( -q \vec{E} \big) \times \big( - \vec{k} \big)  \bigg) \bigg] $$
 - Another property of cross products is that
@@ -371,8 +371,58 @@ $$ \Sigma \vec{\tau} = - \bigg[ \big( q \vec{E} \big) \times ( \vec{d} ) \bigg] 
 $$ \Sigma \vec{\tau} = - \bigg[ \vec{E} \times \big( q \vec{d} \big) \bigg] $$
 - Using the definition of $\vec{p}$, we get
 $$ \Sigma \vec{\tau} = - \bigg[ \vec{E} \times \vec{p} \bigg] $$
-- Using the property of anti-communativity, we get
+- Using the property of anti-commutativity, we get
 $$ \Sigma \vec{\tau} = \vec{p} \times \vec{E} $$
 - And with that, we have found the net torque of a dipole in a uniform $\vec{E}$ field
     * I'm proud of you, son
 
+## Potential Energy of a Dipole in a Uniform $\vec{E}$ field
+- Now that we have a means of calculating the net torque exerted on a dipole, we can determine the potential energy stored in any given permutation
+- In order to do so, we can use the definition of **work($W$)**
+$$ W = |\vec{F}| d $$
+- Adapting it to our situation, we say that $U$ is $W$, $|\vec{\tau}|$ is $|\vec{F}|$, and $\theta$ is $d$
+$$ U = |\vec{\tau}| \theta $$
+- Note that this formula only applies if $\vec{\tau}$ is constant, which it isn't
+    * In order to account for this, we use calculus
+    * Consider if we replaced all these terms with differential terms
+$$ dU = |\vec{\tau}| d\theta $$
+- Then, we could just use the tautology
+$$ U = \int dU $$
+- With our definition of $dU$ to calculate U
+$$ U = \int \bigg( |\vec{\tau}| d\theta \bigg) $$
+$$ U = \int \bigg( |\vec{p} \times \vec{E}| d\theta \bigg) $$
+$$ U = \int \bigg( |\vec{p} \times \vec{E}| \bigg) d\theta $$
+- A property of cross products is that
+$$ |\vec{a} \times \vec{b}| = |\vec{a}| |\vec{b}| sin( \theta )$$
+- where $\theta$ is the angle between $\vec{a}$ and $\vec{b}$
+- As such, we can redefine our integral
+$$ U = \int \bigg( |\vec{p}| |\vec{E}| sin( \theta )\bigg) d\theta $$
+- Since $|\vec{p}|$ and $|\vec{E}|$ are constants, we can factor them out
+$$ U =  |\vec{p}| |\vec{E}| \int sin(\theta) d\theta $$
+$$ U =  |\vec{p}| |\vec{E}| \big[ - cos(\theta) \big] $$
+$$ U = - |\vec{p}| |\vec{E}| cos(\theta) $$
+- This is valid, but we can simplify it a bit
+    * This actually matches the definition of a **dot product** fairly closely
+$$ \vec{a} \cdot \vec{b} = |\vec{a}| |\vec{b}| cos(\theta) $$
+- Consider if we re-wrote the equation as
+$$ U = - \big[ |\vec{p}| |\vec{E}| cos(\theta) \big] $$
+- Then we can just use the definition of dot product to simplify
+$$ U = - \big[ \vec{p} \cdot \vec{E} ] $$
+- A property of dot products is that
+$$ c \bigg( \vec{a} \cdot \vec{b} \bigg) = \big( c \vec{a} \big) \cdot \vec{b} = \vec{a} \cdot \big( c \vec{b} \big) $$
+- where $c$ is a scalar
+- Using this, we can rewrite the equation as
+$$ U = \big( - \vec{p} \big) \cdot \vec{E} $$
+- You could place the $-1$ in the $\vec{E}$ if you wish; it really doesn't matter
+    * The parentheses are redundant technically, so its often just written as
+$$ U = -\vec{p} \cdot \vec{E} $$
+- In this form, its assumed the negative belongs to the $\vec{p}$, but, like I said, it *really* doesn't matter
+- This equation represents the energy state of a dipole
+    * If you want to calculate *work*, you need to take a difference between two states
+$$ \Delta U = U_{f} - U_{i} $$
+
+### Microwave Cooking
+- Interestingly, this is *exactly* how microwave ovens work
+    * The microwave sets up an oscillating $\vec{E}$ field, and the molecules of water in the food try to align themselves
+        + As the field is constantly changing, the water molecules accumulate rotational energy
+            - This is transferred to its surroundings as heat energy $\to$ hot pockets at 3:00AM

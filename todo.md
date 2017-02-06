@@ -19,7 +19,8 @@
 - None
 
 ## AP Physics C: Electricity and Magnetism
-- None
+- Read until page 826 in textbook
+- Prepare for presentation on Monday
 
 ## Misc
 - Topics to research
