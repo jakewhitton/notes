@@ -156,3 +156,61 @@
     * Lithium carbonate is the most commonly used drug to treat bipolar
     * Rates of bipolar disorder don't differ substantially between sexes
     * Typically, the early symptoms appear at ages 15-25
+
+---
+
+# 2017-02-06
+
+### Explaining Mood Disorders
+- There are two main causes for mood disorders
+    * Neurotransmitter unbalance
+        + Low levels of these neurotransmitters are thought to be related
+            - Dopamine
+            - Norepinephrine
+            - Serotonin
+    * Genetics
+- Certain factors can exasperbate existing mood disorders
+    * Grief following the death of a loved one
+    * Unemployment
+    * Loss of health
+    * Financial troubles
+
+#### Cognitive Differences in Depressed People
+- **A.T. Beck** = a researcher that studied this issue
+    * He discovered that depressed people have overly negative views of
+        + Themselves
+        + Their world
+        + Their future
+    * Depressed people generally perceive situations as *more* negative
+- **Hopelessness theory** = a model of explaining depression that emphasizes specific patterns of behavior or cognition
+    * "Learned helplessness" = a term that describes how repeated exposure to negative stimuli deccrease the likelihood that a person will look for ways to help their suffering
+
+## Dissociative Disorders
+- **Dissociative disorder** = a psychological disorder associated with a separation between conscious awareness and prior identity
+- Symptoms typically start early
+    * Often the result of abuse of trauma early on
+    * Females are more prone to the disorder
+- **Dissociative Identity Disorder** = a dissociative disorder wherein a person exhibits multiple distinct personalities that alternate between one another
+    * The subject is still debated in psychiatry and psychology
+    * Used to be caused "multiple personality disorder"
+- **Dissociative amnesia** = a symptom of some dissociative disorders that involves memory loss
+    * Also called "psychogenic amnesia"
+    * Is often caused by trauma
+    * **Global amnesia** = a complete loss of identity
+- **Dissociative fugue state** = a state of consciousness characterized by global amnesia with a replaced identity
+    * Also called "psychogenic fugue"
+    * Is subject to much debate
+        + Are the subjects just pretending to avoid responsibility?
+
+## Schizophrenia
+- **Schizophrenia** = a psychological disorder involved with many different kinds of symptoms
+    * Translated as "split mind"
+    * Symptoms
+        + Disorganized or delusional thinking
+        + Incorrect perceptions
+        + Mismatched emotions or actions
+        + Obstructed speech
+            - **Word salad** = rapid alternation between sensical speech and nonsense
+            - **Clanging** = unintentional rhyming
+    * No disparity between sexes
+        + Often, symptoms appear during adolescence
