@@ -74,7 +74,7 @@ $$|\vec{E}| = \frac{1}{4 \pi \epsilon_0} \frac{q}{r^2}$$
 - Because forces obey superposition(the permittivity of treating a vector sum as representative of the whole), we can demonstrate that the electric field obeys superposition
 $$ \vec{E} = \frac{\sum \vec{F}_i}{q_0}$$
 $$ \vec{E} = \frac{\vec{F}_1 + \vec{F}_2 + \vec{F}_3 + ... + \vec{F}_n}{q_0} $$
-$$ \vec{E} = \frac{\vec{F}_1}{q0} + \frac{\vec{F}_2}{q0} + ... + \frac{\vec{F}_n}{q0} $$
+$$ \vec{E} = \frac{\vec{F}_1}{q_0} + \frac{\vec{F}_2}{q_0} + ... + \frac{\vec{F}_n}{q_0} $$
 $$ \vec{E} = \vec{E}_1 + \vec{E}_2 + ... + \vec{E}_n $$
 $$ \vec{E} = \sum \vec{E}_i $$
 
