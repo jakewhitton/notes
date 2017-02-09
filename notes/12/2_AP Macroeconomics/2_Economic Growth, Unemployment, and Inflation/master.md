@@ -96,3 +96,38 @@ $$ \Sigma X = X - M $$
             - Periods of time where the curve is below the line is **unemployment**
     * **Recession** = a period of decline in real GDP that lasts for 6 months
         + If significantly longer, it is a **depression**
+
+---
+
+# 2017-02-09
+
+## Unemployment
+- **Unemployment rate** = the ratio of the able-bodied population that is looking for a job but hasn't gotten hired yet
+$$ \%_{Unemployed} = \frac{Q_{unemployed}}{Q_{labor force}} * 100 $$
+- where $Q_{unemployed}$ is the number of unemployed persons in an economy and $Q_{labor force}$ is the number of persons that are in the **labor force**
+    * **Labor force** = the part of the population that is considered as employed or potentially employable
+        + Must be above 16 years old
+        + Able and willing to work
+        + Not institutionalized
+            - *i.e.* prison, mental hospitals, etc
+        + Not serving in military, a full-time student, or retired
+
+
+### Three Types of Unemployment
+1. **Frictional unemployment** = a type of unemployment characterized by apt workers that are between jobs or temporarily unemployed
+    * **Seasonal unemployment** = a type of **frictional unemployment** characterized by working periods being *seasonal*
+        + *e.g.* a Santa clause impersonator
+2. **Structural Unemployment** = a type of unemployment characterized by the skills of the labor force becoming obselete
+    * Especially relevant *now*, as automation changes the economic landscape
+    * **Creative destruction** = a term that describes the process of these kinds of jobs disappearing
+    * **Technological unemployment** = a specific type of **structural unemployment** driven by automation
+3. **Cyclical unemployment** = a type of unemployment that is caused by the effects of a recession
+    * Due to recssions, consumer demand decreases across the board, and companies respond with a reduced demand for labor
+        + Cyclical unemployment is also called "demand deficient unemployment"
+
+### Natural Rate of Unemployment
+- **Natural Rate of Unemployment(NRU)** = the rate of unemployment that is deemed "normal" for an economy not in recession
+    * Based on frictional and structural unemployment
+- **Full employment output(Y)** = the real GDP generated if an economy does not experience cyclical unemployment
+    * So, "full employment" is really just an "acceptable" unemployment calculated with frictional and structural unemployment rates
+        + For the United States, "full employment" is at ~5% unemployment
