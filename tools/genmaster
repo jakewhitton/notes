@@ -20,7 +20,8 @@ fi
 
 # Populate a variable $files with all the markdown files in the directory(excluding master.md)
 # Then, if $files is null, quit
-files="`find "${DIR}" -not -name "master.md" -a -name "*.md" 2> /dev/null | sort`"
+files="`find "${DIR}" -maxdepth 1 -not -name "master.md" -a -name "*.md" 2> /dev/null | sort`"
+
 
 if [ -z "$files" ]; then
 	echo "Directory does not contain markdown files. Quitting."
