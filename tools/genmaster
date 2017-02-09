@@ -9,45 +9,48 @@ if [ $# -ne 1 ]; then
 	exit -1
 fi
 
-DIR="`cd "$1"; pwd`" # The extra shell is for the case where the parameter is a relative path; this will turn it into an absolute path
 
 # If directory doesn't exist, quit
-if [ ! -d "$DIR" ]; then
+if [ ! -d "$1" ]; then
 	echo "ERROR: directory does not exist. Quitting."
-	echo "$DIR"
+	echo "$1"
 	exit -1
 fi
 
+DIR="`cd "$1"; pwd`" # The extra shell is for the case where the parameter is a relative path; this will turn it into an absolute path
+
+# Initialize /tmp
+tmp="/tmp/notes-${$}" # ${$} is just the process ID
+mkdir -p "$tmp"
+echo "" > "${tmp}/master.md"
+
+# Create a backup of the directory in case something goes wrong
+cp -R "$DIR" "${tmp}/backup"
+
 # Populate a variable $files with all the markdown files in the directory(excluding master.md)
 # Then, if $files is null, quit
-files="`find "${DIR}" -maxdepth 1 -not -name "master.md" -a -name "*.md" 2> /dev/null | sort`"
-
+files="`find "$DIR" -maxdepth 1 -not -name "master.md" -a -name "*.md" 2> /dev/null | sort`"
 
 if [ -z "$files" ]; then
 	echo "Directory does not contain markdown files. Quitting."
 	exit -1
 fi
 
-echo "Processing ${DIR}..."
-
 # Now, we know for sure that the directory actually exists and that it contains user-created markdown files
 # Time to compile them!
 
-# Initialize /tmp
-mkdir -p "/tmp/notes-${$}"
-tmpDir="/tmp/notes-${$}"
-echo "" > "${tmpDir}/master.md"
+echo "Processing ${DIR}..."
 
-# If a user-provided separator is present(in "${DIR}/.separator"), copy that to ${tmpDir}/separator.md.
-# If not, just copy the default separator at ${REPO_DIR}/conf/separator.md to ${tmpDir}/separator.md
+# If a user-provided separator is present(in "${DIR}/.separator"), copy that to ${tmp}/separator.md.
+# If not, just copy the default separator at ${REPO_DIR}/conf/separator.md to ${tmp/separator.md
 if [ -f "${DIR}/.separator" ]; then
-	cp "${DIR}/.separator" "${tmpDir}/separator.md"
+cp "${DIR}/.separator" "${tmp}/separator.md"
 else
-	cp "${REPO_DIR}/conf/separator.md" "${tmpDir}/separator.md"
+cp "${REPO_DIR}/conf/separator.md" "${tmp}/separator.md"
 fi
 
 # Populate separatorLength; we'll need it later
-separatorLength=`cat "${tmpDir}/separator.md" | wc -l`
+separatorLength=`cat "${tmp}/separator.md" | wc -l`
 
 
 ## Compile master.md in /tmp ##
@@ -55,25 +58,32 @@ IFS="
 "
 for file in $files
 do	
-	echo "# `basename "$file" .md`" >> "${tmpDir}/master.md"
-	echo "" >> "${tmpDir}/master.md"
-	cat "$file" >> "${tmpDir}/master.md"
-	cat "${tmpDir}/separator.md" >> "${tmpDir}/master.md"
+echo "# `basename "$file" .md`" >> "${tmp}/master.md"
+echo "" >> "${tmp}/master.md"
+cat "$file" >> "${tmp}/master.md"
+cat "${tmp}/separator.md" >> "${tmp}/master.md"
 done
 # Now, master.md is built but it has one extra empty line at the beggining and $separatorLength lines of separator at the end
 # We need to delete those lines
-sed -i '1d' "${tmpDir}/master.md"
+sed -i '1d' "${tmp}/master.md"
 for i in $(seq 1 $separatorLength)
 do
-	sed -i '$d' "${tmpDir}/master.md"
+	sed -i '$d' "${tmp}/master.md"
 done
 
 # Okay, master.md is fully built
 # Now, we need to check if the unit warrants an update
-if [ ! -f "${DIR}/master.md" ] || [ ! -z "`diff "${DIR}/master.md" "${tmpDir}/master.md"`" ]; then
-	cp "${tmpDir}/master.md" "${DIR}/master.md"
+if [ ! -f "${DIR}/master.md" ] || [ ! -z "`diff "${DIR}/master.md" "${tmp}/master.md"`" ]; then
 	echo "   Generating master document..."
-	pandoc -s -f markdown -o "${DIR}/master.pdf" --latex-engine=pdflatex "${DIR}/master.md"
+	pandocResult="`pandoc -s -f markdown -o "${tmp}/master.pdf" --latex-engine=pdflatex "${tmp}/master.md" 2>&1`"
+	if [ -n "$pandocResult" ]; then
+		echo "ERROR: Pandoc failed to generate master pdf.  Unit directory has not been changed."
+		echo "$pandocResult"
+		rm -R "$tmp"
+		exit -1
+	fi
+	cp "${tmp}/master.md" "${DIR}/master.md"
+	cp "${tmp}/master.pdf" "${DIR}/master.pdf"
 fi
 
-rm -R "${tmpDir}"
+rm -R "$tmp"
