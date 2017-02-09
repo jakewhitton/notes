@@ -158,4 +158,37 @@ $$ \Sigma q = 0 $$
         + Label the differential area $dA$
             - Note that this is distinct from $d\vec{A}$--a vector; $dA$ just represents the patch of area along the surface
 - Now, imagine creating a Gaussian cylinder whose bases are parallel to $dA$
-    * Since $dA$ is assumed to be
+    * Since $dA$ is assumed to be infinitesimally small, we can assume that it is essentially flat
+    * You can imagine that the cylinder encompasses some enclosed charge q
+        + As we have seen in the previous sections, the charge inhabits the surface of the object we are studying which is within our cylinder
+    * Then, since $dA$ is a differential area, you can imagine that all the $\vec{E}$ vectors are *perpendicular* to $dA$
+    * Then, we can set up Gauss' law, this time in its non-integral form
+$$ \epsilon_0 \Sigma \phi = \Sigma q $$
+- In order to evaluate $\Sigma \phi$, we can split the cylinder into three surfaces
+    * The inner base --- $B_1$
+    * The outer base --- $B_2$
+    * The curved side --- $S$
+- Since $B_1$ resides inside of the conductor, it experiences no flux
+- Since $S$ is essentially perpendicular to $dA$, the $\vec{E}$ vectors don't pierce $S$, and it contributes no flux
+- Thus, all of the flux comes from $B_2$, the base of the cylinder that lies outside of the conductor
+    * We can define $\sigma$ as follows
+$$ \sigma = \frac{\Sigma q}{dA} $$
+- Using that definition, we can rewrite Gauss' law
+$$ \epsilon_0 \Sigma \phi = \sigma dA $$
+- Flux can be evaluated just by multiplying the magnitude of the piercing component and the area
+    * And, since we demonstrated that flux only comes from $B_2$, we can do that quite easily
+        + Note that we assume $dA$ is equal in area to $B_2$, but this is a safe assumption because they are differential areas
+$$ \Sigma \phi = |\vec{E}| dA $$
+- Using that definition, we can again rewrite Gauss' law
+$$ \epsilon_0 |\vec{E}| dA = \sigma dA $$
+- Then, we can cancel out the $dA$'s from both sides
+$$ \epsilon_0 |\vec{E}| = \sigma $$
+- and isolate $|\vec{E}|$
+$$ |\vec{E}| = \frac{\sigma}{\epsilon_0} $$
+- This formula gives us the magnitude of the $\vec{E}$ field *just* outside of the conductor
+- gg well played m8
+
+---
+
+# 23.04
+
