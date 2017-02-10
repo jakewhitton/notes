@@ -131,3 +131,19 @@ $$ \%_{Unemployed} = \frac{Q_{unemployed}}{Q_{labor force}} * 100 $$
 - **Full employment output(Y)** = the real GDP generated if an economy does not experience cyclical unemployment
     * So, "full employment" is really just an "acceptable" unemployment calculated with frictional and structural unemployment rates
         + For the United States, "full employment" is at ~5% unemployment
+
+---
+
+# 2017-02-10
+
+### Shortcomings of Unemployment Metrics
+- The **unemployment rate** does not consider **discouraged workers**
+    * Thus, people that get exhausted and burnt out with looking for a job ultimately aren't captured in this metric
+        + As such, the unemployment rate can drop just by an increase in discouraged workers
+- **Underemployed worker(part-time worker)** = a worker that wants to work *more*, but cannot find that employment
+- Inequality
+    * Employment descrimination is technically illegal, but it still happens
+    * Basis varies
+        + Race
+        + Age
+        + Sex
