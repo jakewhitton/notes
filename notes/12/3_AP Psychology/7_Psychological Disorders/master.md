@@ -214,3 +214,58 @@
             - **Clanging** = unintentional rhyming
     * No disparity between sexes
         + Often, symptoms appear during adolescence
+
+---
+
+# 2017-02-13
+
+### Three Types of Schizophrenic Symptoms
+1. **Positive symptoms** = an element of cognition that is *added* to the experience of a schizophrenic
+    * **Hallucinations** = false perceptions
+        + Can help reinforce **delusions**
+        + Schizophrenics very often hear *voices*
+            - Visual hallucinations are less pervasive
+    * **Delusions** = false beliefs, especially of *persecution* or *grandeur*
+        + **Delusions of persecution** = the belief that there are people that want to harm you
+        + **Delusions of grandeur** = an overinflated ego
+        ++ **Delusions of being controlled** = the belief that cognition itself is compromised by some external entity
+1. **Negative symptoms** = an element of cognition that is *removed* from the experience of a schizophrenic
+    * Poverty of speech = an ability to speak
+    * Flat affect = a lack of emotional expression
+1. **Disorganized symptoms** = an element of cognition that involves a perversion of an existing behavior or thought process
+    * **Erratic speech** = speech patterns that are irrational
+        + **Word salad** = a seemingly random jumble of words that has intention but doesn't make sense
+        + **Over-inclusion** = coherent thoughts that jump seamlessly from one disperate idea to another
+            - Not like **word salad**, because each individual thought is actual coherent
+        + **Paralogic** = faulty logic that reaches absurd conclusions but *feels* correct to the schizophrenic
+        + **Clang associations** = unintentional rhyming while speaking
+    * **Disorganized behavior** = behavioral patterns that are irrational
+        + Inadequate emotional expression
+            - *e.g.* Laughing during a funeral
+            - Often times, emotions are actually *reversed*, so sad things evoke a happy response
+        + **Catatonic behavior**  = a state of complete unresponsiveness
+- In addition to these classifications, there are some other terms that used to describe symptoms of schizophrenia
+    * **Chronic**/**Process** = a term that describes a pattern where symptoms emerge slowly and increase in magnitude over time
+        + Generally, recovery from this kind of schizophrenia is unlikely
+    * **Acute**/**Reactive** = a term that describes a pattern where symptoms emerge quickly and rise in magnitude very quickly
+        + Generally, recovery from this kind of schizophrenia is much more likely
+
+### Five Types of Schizophrenia
+1. **Paranoid schizophrenia**
+    * Characterized by obsession with delusions and hallucinations, often with intense paranoia or an inflated ego
+2. **Disorganized schizophrenia**
+    * Characterized by the disorganized symptoms
+        + *e.g.*
+            - Word salad
+            - Flat affect
+3. **Catatonic schizophrenia**
+    * Characfterized by a *catatonic* state, extreme negativity, or mimicking other's actions
+4. **Undifferentiated schizophrenia**
+    * Kind of a catch-all term for schizophrenia that cannot be otherwise classified
+5. **Residual schizophrenia**
+    * Characterized by withdrawal following the cessation of hallucinations and delusions
+
+### The Dopamine Theory
+- A lot of scientists believe that an excess of dopamine can cause schizophrenia
+    * As a result, many drugs that target schizophrenia act on reducing the activity of dopamine
+    * Dopamine isn't the *sole* cause; other neurotransmitters seem to be related
