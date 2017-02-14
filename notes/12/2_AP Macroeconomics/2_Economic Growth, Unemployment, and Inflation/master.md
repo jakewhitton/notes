@@ -67,7 +67,7 @@ $$ GDP_{per-capita} = \frac{GDP}{population} $$
 4. Net exports
     * Formula is essentially just
 $$ \Sigma X = X - M $$
-    * where X is imports and M is imports
+    * where X is exports and M is imports
 
 ---
 
@@ -177,3 +177,24 @@ $$ \%_{I} = \frac{P_f - P_i}{P_i} $$
 - What about **deflation**?
     * **Deflation** = a general decrease in the price of goods
         + Can be very bad because resources are hoarded, inhibiting growth
+
+---
+
+# 2017-02-14
+
+### Example of Calculating Some Values
+- Assume year 1 is base year
+
+|  Year  |  Units of Output  |  Price |  Nominal GDP |  Real GDP  |  CPI  |
+|--------|-------------------|--------|--------------|------------|-------|
+|   1    |       10          |   $4   |     $40      |   $40      |  100  |
+|   2    |       10          |   $5   |     $50      |   $40      |  125  |
+|   3    |       15          |   $6   |     $90      |   $60      |  150  |
+|   4    |       20          |   $8   |     $160     |   $80      |  200  |
+|   5    |       25          |   $4   |     $100     |   $100     |  100  |
+
+### CPI vs GDP Deflator
+- **GDP deflator** = a metric of of price changes of *all* goods produced
+- **CPI** = a metric of price changes for a very specific market basket
+- In general, if prices for inputs changes, that will be reflected in GDP deflator
+    * So, CPI is an *incomplete* story
