@@ -269,3 +269,30 @@
 - A lot of scientists believe that an excess of dopamine can cause schizophrenia
     * As a result, many drugs that target schizophrenia act on reducing the activity of dopamine
     * Dopamine isn't the *sole* cause; other neurotransmitters seem to be related
+
+---
+
+# 2017-02-14
+
+### Schizophrenia risk: Genetics, Environment, Biology, and Culture
+- Scientists believe there is a genetic factor to developing schizophrenia
+    * People with no schizophrenic sibilings have a 1% chance of developing symptoms
+    * People with one schizophrenic sibiling have a 10% chance of developing symptoms
+    * People with an identical twin that is schizophrenic have a 50% chance of developing symptoms
+        + Similarly, if *both* parents are schizophrenic, the child is has a 50% chance of developing symptoms
+- Scientists also believe there are some environmental factors that increase the risk of schizophrenia
+    * Complications during birth
+        + *e.g.* Oxygen deprivation
+    * Viral infection during pregnancy
+- Scientists also beleive there are biological factors that indicate a high risk of schizophrenia
+    * An excess or deficit of neurotransmitter
+    * **Dopamine theory**
+    * Abnormal brain structure
+        + Enlarged cerebral ventricles
+        + Reduced tissue surrounding the cerebral ventricles
+    * Abnormal brain activity
+        + Reduced activity in frontal lobe
+- There appears to be *no* substantial difference between cultures
+    * Industrialized nations have higher incidence and longer recovery times
+        + That is thought to be related to stress level
+    * Developing nations tend to treat it like a physical illness
