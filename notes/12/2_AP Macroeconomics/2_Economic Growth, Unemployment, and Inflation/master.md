@@ -198,3 +198,39 @@ $$ \%_{I} = \frac{P_f - P_i}{P_i} $$
 - **CPI** = a metric of price changes for a very specific market basket
 - In general, if prices for inputs changes, that will be reflected in GDP deflator
     * So, CPI is an *incomplete* story
+
+---
+
+# 2017-02-15
+
+### Problems With CPI
+1. **Substitution Bias** = the demand for two substitute goods might shift, and the CPI will only test *one* of them
+    * As a result, it looks like prices went up or down, but really they just shifted to a different good
+2. **New products** = new market baskets need to be constantly created
+3. **Product quality** = CPI only accounts for *price* change
+    * If price change, CPI assumes that the product is the *same*, even if the product is better or higher quality
+        + CPI is blind to improvements, so increases in CPI can be deceiving
+
+### Three Causes of Inflation
+1. Change in the **quantity** of currency
+    * If the government prints more currency, each individual dollar becomes less valuable
+    * Called the **quantity theory**
+        + **Velocity** = the average number of times a piece of currency changes hands
+$$ M V = P Y $$
+        + where $M$ is **money supply**, $V$ is **velocity**, $P$ is **price level**, and $Y$ is **quantity of output**
+            - We tend to assume that **velocity** is constant
+    * **Hyperinflation** = a situation that can arise when a government prints new money to pay off debts
+        + As a result, banks do not lend, halting growth
+        + Examples
+            - Bolivia
+            - Peru
+            - Brazil
+            - Germany post WW1
+2. **Demand-Pull Inflation**
+    * Essentially, just an overall increase in demand
+        + The demand curve shifts, resulting in a new **equillibrium price**
+3. **Cost-Push Inflation**
+    * Essentially, an increase in input costs
+        + Suppliers have to raise prices to skim off the same profit margin
+        + **Negative supply shock** = some kind of event that causes a sudden decrease in supply of some input
+            - *e.g.* oil spill
