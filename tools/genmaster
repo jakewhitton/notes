@@ -19,18 +19,9 @@ fi
 
 DIR="`cd "$1"; pwd`" # The extra shell is for the case where the parameter is a relative path; this will turn it into an absolute path
 
-# Initialize /tmp
-tmp="/tmp/notes-${$}" # ${$} is just the process ID
-mkdir -p "$tmp"
-echo "" > "${tmp}/master.md"
-
-# Create a backup of the directory in case something goes wrong
-cp -R "$DIR" "${tmp}/backup"
-
 # Populate a variable $files with all the markdown files in the directory(excluding master.md)
 # Then, if $files is null, quit
 files="`find "$DIR" -maxdepth 1 -not -name "master.md" -a -name "*.md" 2> /dev/null | sort`"
-
 if [ -z "$files" ]; then
 	echo "Directory does not contain markdown files. Quitting."
 	exit -1
@@ -39,14 +30,23 @@ fi
 # Now, we know for sure that the directory actually exists and that it contains user-created markdown files
 # Time to compile them!
 
+# Initialize /tmp
+tmp="/tmp/notes-${$}" # ${$} is just the process ID
+mkdir -p "$tmp"
+echo "" > "${tmp}/master.md"
+
+# Create a backup of the directory in case something goes wrong
+cp -R "$DIR" "${tmp}/backup"
+
+
 echo "Processing ${DIR}..."
 
 # If a user-provided separator is present(in "${DIR}/.separator"), copy that to ${tmp}/separator.md.
 # If not, just copy the default separator at ${REPO_DIR}/conf/separator.md to ${tmp/separator.md
 if [ -f "${DIR}/.separator" ]; then
-cp "${DIR}/.separator" "${tmp}/separator.md"
+	cp "${DIR}/.separator" "${tmp}/separator.md"
 else
-cp "${REPO_DIR}/conf/separator.md" "${tmp}/separator.md"
+	cp "${REPO_DIR}/conf/separator.md" "${tmp}/separator.md"
 fi
 
 # Populate separatorLength; we'll need it later
@@ -58,10 +58,10 @@ IFS="
 "
 for file in $files
 do	
-echo "# `basename "$file" .md`" >> "${tmp}/master.md"
-echo "" >> "${tmp}/master.md"
-cat "$file" >> "${tmp}/master.md"
-cat "${tmp}/separator.md" >> "${tmp}/master.md"
+	echo "# `basename "$file" .md`" >> "${tmp}/master.md"
+	echo "" >> "${tmp}/master.md"
+	cat "$file" >> "${tmp}/master.md"
+	cat "${tmp}/separator.md" >> "${tmp}/master.md"
 done
 # Now, master.md is built but it has one extra empty line at the beggining and $separatorLength lines of separator at the end
 # We need to delete those lines
