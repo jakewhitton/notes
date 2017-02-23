@@ -329,7 +329,7 @@
 - The essential aim is to surface unconscious motivations and desires
     * Freud believes that conflicts among the **id**, **ego**, and **superego** can cause anxiety
         + Bringing these conflicts to the conscious awareness can permit the patient to resolve the underlying cause of their problems
-- According to Freud, *anxiety* is the chief caues for psychological disorders
+- According to Freud, *anxiety* is the chief causes for psychological disorders
     * Anxiety is thought to be created when sexual or aggressive impulses are forcefully repressed
     * Guilt is when those impulses are partially but incompletely expressed
 - Modern psychoanalytic techniques are often called "psychodynamic therapy" or "insight therapy"
@@ -355,4 +355,36 @@
         + Focuses on facilitating personal growth
     * This is because the therapy is more directed by the patient than the therapist
         + The patient can stop at any time, and the patient decides what to talk about
-    * The relationship is more 
+    * The relationship is more co-equal than in other models of psychotherapy
+
+---
+
+# 2017-02-23
+
+#### Gestalt Therapy
+- **Gestalt therapy** = a methodology of psychotherapy that attempts to combine psychoanalysis and humanistic methods
+    * Developed by Fritz Perls
+        + Thought that humanistic psychology didn't consider role of unconscious at all
+- Essential goal is to bring understanding to people's moment-to-moment emotions and motivations
+    * Is sometimes called the "being state"
+        + Characterized by perfect authenticity and perception of one's motivations and desires
+
+#### Behavior Therapy
+- **Behavior therapy** = a methodology of psychotherapy that emphasizes how mechanisms of conditioning can be used to reprogram behavior and thoughts
+- **Counter-conditioning** = 
+    * **Operant conditioning** = the technique of reinforcing behaviors through punishments and rewards
+    * **Classical conditioning** = the technique of associating a two stimuli together to change behavior
+        + *e.g.* A baby that observes a rat and hears a loud noise enough times will cry just when they see the rat
+        + **Aversive conditioning** = using classical conditioning to reach a positive result
+- Essential theory is that *all* behavior is learned
+    * And, as a result, behaviors can be re-learned to something better
+- Contrasts with both psychoanalysis and humanistic psychotherapy in that it *doesn't* focus on the causes of negative emotions
+    * For example, the *cause* of your compulsive behaviors may be an abusive parent
+        + But a behavioral therapist would simply retrain you to do a different behavior
+- Phobia management techniques
+    * **Exposure therapy** = a technique of behavioral therapy that emphasizes recurrent exposure to negative stimuli to desensitize
+        + **Immersion** = recreating the negative stimuli in as much sensory detail as possible
+            - Also called **flooding**
+    * **Systematic desensitization** = a more gradual approach with the same mechanics as **exposure therapy**
+        + The process of desensitizing yourself is approached as several steps
+            - *first, look at a spider, then let it crawl on your hand, etc*
