@@ -228,7 +228,7 @@
     * **Delusions** = false beliefs, especially of *persecution* or *grandeur*
         + **Delusions of persecution** = the belief that there are people that want to harm you
         + **Delusions of grandeur** = an overinflated ego
-        ++ **Delusions of being controlled** = the belief that cognition itself is compromised by some external entity
+        + **Delusions of being controlled** = the belief that cognition itself is compromised by some external entity
 1. **Negative symptoms** = an element of cognition that is *removed* from the experience of a schizophrenic
     * Poverty of speech = an ability to speak
     * Flat affect = a lack of emotional expression
@@ -364,9 +364,7 @@
 #### Gestalt Therapy
 - **Gestalt therapy** = a methodology of psychotherapy that attempts to combine psychoanalysis and humanistic methods
     * Developed by Fritz Perls
-        + Thought that humanistic psychology didn't consider role of unconscious at all
-- Essential goal is to bring understanding to people's moment-to-moment emotions and motivations
-    * Is sometimes called the "being state"
+        + Thought that humanistic psychology didn't consider role of unconscious at all - Essential goal is to bring understanding to people's moment-to-moment emotions and motivations * Is sometimes called the "being state"
         + Characterized by perfect authenticity and perception of one's motivations and desires
 
 #### Behavior Therapy
@@ -388,3 +386,30 @@
     * **Systematic desensitization** = a more gradual approach with the same mechanics as **exposure therapy**
         + The process of desensitizing yourself is approached as several steps
             - *first, look at a spider, then let it crawl on your hand, etc*
+        + Process steps
+            1. Progressive relaxation
+            2. Organize a heirarchy of increasingly anxiety-inducing experience
+            3. Progress through each element in the heirarchy
+- **Token economy** = a method of operant conditioning that rewards people with an arbitrary currency
+    * Used to a great extent in all kinds of institutions
+        + Schools, prisons, etc
+
+---
+
+# 2017-02-24
+
+#### Cognitive Therapy
+- **Cognitive therapy** = a methodology of psychotherapy that emphasizes the role thought patterns play in emotional responses
+    * The essential role is to *correct* maladaptive thought patterns
+- Albert Ellis
+    * **Rational-emotive therapy** = a sub-model of cognitive therapy that asserts strong emotions occur from irrational ideas
+        + Thus, pressing for justification can make the patient realize that their emotions do not make sense
+        + ABC Model
+            - Activating event
+            - Beliefs
+            - Consequences
+        + The elimination of irrational beliefs will resolve emotional turmoil
+- Aaron Beck
+    * Believed that **negative cognitive bias** can result in distorted perceptions that affect behavior and mental health
+        * **Negative cognitive bias** = the brain's propensity to fixate on negative things
+    * By challenging that bias, one can prevent a downward spiral of negativity
