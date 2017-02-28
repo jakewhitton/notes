@@ -1,16 +1,11 @@
 # TODO
 
 ## AP Literature and Composition
-- Pride & Prejudice essay
-    * Due tomorrow(2016-01-31)
+- None
 - [SEE KEY DATES](./keydates.md)
 
 ## AP Macroeconomics
-- Unit 1 Homework
-    * Due wednesday
-- Review packet
-    * Due friday with rest of participation packet
-        + Includes all classwork and notes
+- None
 
 ## AP Psychology
 - None
@@ -19,8 +14,7 @@
 - None
 
 ## AP Physics C: Electricity and Magnetism
-- Read until page 826 in textbook
-- Prepare for presentation on Monday
+- None
 
 ## Misc
 - Topics to research
