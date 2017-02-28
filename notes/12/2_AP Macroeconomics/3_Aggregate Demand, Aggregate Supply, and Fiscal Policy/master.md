@@ -48,3 +48,21 @@ $$ AD = C + I + G + \Sigma X $$
             * If the USD->Euro exchange rate changes, the purchasing power of each respective currency changes, and net exports change
         2. Change in domestic economic well-being
             * Generally, countries with high GDP-per-capita spend more on foreign goods
+
+---
+
+# 2017-02-28
+
+## Aggregate Supply
+- **Aggregate supply** = the quantity of goods and services businesses will produce(Real GDP) at certain price levelsj
+    * Has different behaior depending on time interval
+        + **Short-run aggregate supply** = input costs(wages, natural resources, etc) do not increase as price level increase
+            - If there is a right shift in aggregate demand, businesses can generate more profit, so they scale production
+        + **Long-run aggregate supply** = input costs(wages, natural resources, etc) *will* increase as price level increases
+            - If there is a right shift in aggregate demand, businesses can scale for more profit, but eventually input costs will rise
+
+### Shifters of Aggregate Supply
+1. Change in input costs
+    * **Supply shocks** = some event that rapidly affects the availability of some good
+2. Change in taxes, regulations, or subsidies
+3. Change in productivity
