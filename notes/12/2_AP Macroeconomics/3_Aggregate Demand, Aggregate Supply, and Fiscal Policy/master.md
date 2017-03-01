@@ -66,3 +66,14 @@ $$ AD = C + I + G + \Sigma X $$
     * **Supply shocks** = some event that rapidly affects the availability of some good
 2. Change in taxes, regulations, or subsidies
 3. Change in productivity
+
+---
+
+# 2017-03-01
+
+## Inflationary and Recessionary Gaps
+- **Inflationary gap** = a situation in which the equillibrium point on the AD-AS graph is to the right of the LRAS line
+- **Recessionary gap** = a situation in which the equillibrium point on the AD-AS graph is to the left of the LRAS line
+    * Is generally caused by a shift in AD, but can be caused by a shift of AS
+    * **Stagflation** = a situation caused by a negative supply shock that stagnates growth and causes inflation
+        + Is caused by a leftward shift of aggregate supply
