@@ -413,3 +413,27 @@
     * Believed that **negative cognitive bias** can result in distorted perceptions that affect behavior and mental health
         * **Negative cognitive bias** = the brain's propensity to fixate on negative things
     * By challenging that bias, one can prevent a downward spiral of negativity
+
+---
+
+# 2017-03-01
+
+#### Cognitive Behavioral Therapy
+- **Cognitive behavioral therapy** = a combination of cognitive therapy and behavioral therapy
+    * Uses conditioning and correcting irrational beliefs to improve mental health
+
+#### System Therapy
+- **System therapy** = a method of psychotherapy that emphasizes treating many individuals as one
+    * Emphasizes the role that relationships affect emotional wellbeing
+- Focuses on improving communication and building positive relationships
+    * *e.g.*
+        + Family therapy
+        + Alcoholism group therapy
+        + Couple therapy
+
+### Incidence of Mental Illness
+- Most people do not seek treatment
+    * Mostly due to the social stigma
+- Some report spontaneous remission
+    * Usually caused by *something*, may be unknown to the patient
+- Meta-analyses show that psychotherapy is consistently more effective than no treatment
