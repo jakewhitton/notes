@@ -77,3 +77,16 @@ $$ AD = C + I + G + \Sigma X $$
     * Is generally caused by a shift in AD, but can be caused by a shift of AS
     * **Stagflation** = a situation caused by a negative supply shock that stagnates growth and causes inflation
         + Is caused by a leftward shift of aggregate supply
+
+---
+
+# 2017-03-02
+
+## Aggregate Supply In the Long Run
+- Generally, a shift of aggregate demand will correspond with a long-term opposite shift in aggregate supply
+    * For example, an increase in AD will result in a higher equillibrium price, and eventually input costs will increase(i.e. wage pressure) causing a decrease in AS
+    * If AD decreases, equillibrium price will decrease, so producers will scale their production down
+        * With less demand for inputs(labor, resources, etc), their price will go down
+            + That decrease in input costs causes an increase in AS
+- **Capital stock** = the amount of capital goods purchased or produced by an economy to increase output
+    * This is the *only* thing that can shift the LRAS line
