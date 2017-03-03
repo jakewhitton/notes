@@ -90,3 +90,18 @@ $$ AD = C + I + G + \Sigma X $$
             + That decrease in input costs causes an increase in AS
 - **Capital stock** = the amount of capital goods purchased or produced by an economy to increase output
     * This is the *only* thing that can shift the LRAS line
+
+---
+
+# 2017-03-03
+
+### Classical Economics vs Keynesian Economics
+- **Classical economics** = a theory of economics developed by Adam Smith and Hayek
+    * Basic premise is that AS is always a vertical line
+        + In other words, producers are constantly trying to produce at max level
+            - Thus, AS is a vertical line determined by labor productivity and resources
+    * Touts that government intervention is *inefficient*; that the market will regulate itself
+- **Keynesian economics** = a theory of economics developed by Keynes
+    * Basic premise is that AS is a horizontal until it meetes with demand, where it starts going up
+    * **Sticky wages** = a characteristic of input costs to stay relatively constant
+- **Intermediate range** = a section of upward sloping AS curve meant to link the classical and keynesian AS curve
