@@ -105,3 +105,10 @@ $$ AD = C + I + G + \Sigma X $$
     * Basic premise is that AS is a horizontal until it meetes with demand, where it starts going up
     * **Sticky wages** = a characteristic of input costs to stay relatively constant
 - **Intermediate range** = a section of upward sloping AS curve meant to link the classical and keynesian AS curve
+
+---
+
+# 2017-03-06
+
+## Phillip's Curve
+- **Phillip's curve** = a graph that demonstrates an inverse relationship between inflation and unemplyoment
