@@ -5,10 +5,10 @@
 - [SEE KEY DATES](./keydates.md)
 
 ## AP Macroeconomics
-- None
+- Participation packet
 
 ## AP Psychology
-- None
+- Reinforcement worksheets
 
 ## AP Computer Science
 - None

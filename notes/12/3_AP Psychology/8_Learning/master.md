@@ -69,8 +69,32 @@
     3. **Fixed interval** = behavior and reinforcement are paried after a predictable amount of time
         + *e.g.*
             - Wage labor
-    4. **Variable interval** = behavioral and reinforcement are paired after an unpredictable amount of time
+    4. **Variable interval** = behavior and reinforcement are paired after an unpredictable amount of time
         + *e.g.*
             - Weather
             - Pop quizzes
             - DUI checkpoints
+
+---
+
+# 2017-03-16
+
+## Cognitive Approach to Learning
+- **Latent learning** = a type of learning that isn't conditioned
+    * Happens almost by accident
+- **Cognitive map** = a mental scheme of a space
+    * Studied by E.C. Tolman
+- **Overjustification effect** = describes how extrinsic rewards tend to overpower intrinsic rewards
+    * For example, if you love playing piano, and then you get a regular paycheck for playing, you motivate yourself with the extrinsic reward
+        + Then, if the extrinsic reward is dropped, you have less motivation than you did starting
+- **Intrinsic motivation** = the motivation to do something purely because you *enjoy* doing it
+    * Generally, this is more *durable* than learned behavior with **extrinsic motivation**
+- **Extrinsic motivation** = the motivation to do something purely because you are rewarded or punished if you do do or don't it, respectively
+    * Is more prone to "burn-out"
+- **Observational learning** = learning by imitation
+    * Studied by Albert Bandura
+    * **Modeling** = the process of learning a behavior through this means
+    * **Prosocial behavior** = constructive, helpful behavior
+        * Essentially the opposite of **antisocial behavior**
+    * **Mirror neurons** = neurons in the frontal lobe that fire when performing an observed action or observing itself
+        + Thought to be an explanation as to why imitation happens
