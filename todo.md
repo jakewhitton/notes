@@ -1,7 +1,7 @@
 # TODO
 
 ## AP Literature and Composition
-- None
+- Prufrock assignment
 - [SEE KEY DATES](./keydates.md)
 
 ## AP Macroeconomics
