@@ -1,0 +1,49 @@
+# 2017-03-20
+
+## What is Personality?
+- **Personality** = an individuals patterns of thinking, feeling, and acting
+- Four perspectives
+    1. **Psychoanalytic** = unconscious processes determine personality
+        * *e.g.*
+            * Anal retentive
+            * Orally fixated
+    2. **Humanistic** = personality is determined by self and fleshed out by self actualization
+    3. **Social cognitive** = personality is determined by beliefs about one's self
+        * e.g.*
+            * Insecurity
+            * Belonging
+    4. **Trait** = personality is determined by the presence of different types of traits
+
+### Psychoanalytic Perspective
+- Essential premise is that psychosexual development is integral to our proper functioning
+    * If something goes awry at some stage, you may develop a problem with that stage
+- Techniques to discover psychosexual problems
+    * **Free association** = the process of unearthing unconscious associations between ideas
+        + Basically, patient begins chaining ideas as they come to mind
+            - Thought to be indicative of unconscious **resistance**
+    * **Dream interpretation** = the process of understanding **latent meaning** in dreams
+    * **Hypnosis** = inducing a mental state where the unconscious motivations and desires can be seen easier
+- **Unconscious** = a storage space for **repressed impulses**
+    * **Repressed impulses** = taboo thoughts, wishes, feelings, or memories
+    * Is not available to the conscious mind; can only be seen indirectly
+- **Preconscious** = a storage space for knowledge that can be invoked but not consciously so
+    * Must be brought to memory by some stimulus
+    * *e.g.*
+        + Events of the day so far
+        + Latent knowledge
+- Three parts of personality
+    1. **Id** = the element that composes our primal element of personality
+        * **Pleasure principle** = the heuristic that immediate pleasurable is the most desirable good
+        * At birth, the mind is only composed of the id
+        * Sources of energy
+            + *Eros* = life instinct, perpetuate life
+            + *Thanatos* = risky, aggressive, self-destructive drive
+        * **Libido** = roughly synonymous with "sex drive"
+    2. **Superego** = the element that composes our moral intuition and aspirations
+        * Moral intuitions are mostly inherited from observation and imitation
+        * It has the power to generate *anxiety*
+        * **Morality principle** = the heuristic that adherence to a code is the most desirable good
+    3. **Ego** = the element that composes our conscious mind
+        * Essential role is to balance the id and superego
+        * **Reality principle** = the heuristic that external restrictions should be reconciled for maximum value
+- **Psychosexual stages** = stages of development where the id focuses on one type of sensory pleasure
