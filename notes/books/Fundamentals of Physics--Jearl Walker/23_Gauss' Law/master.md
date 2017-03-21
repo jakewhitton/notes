@@ -192,3 +192,41 @@ $$ |\vec{E}| = \frac{\sigma}{\epsilon_0} $$
 
 # 23.04
 
+## Using Gauss' Law to Find $\vec{E}$ Near an Infinite Charged Rod
+- Imagine you had a cylindrical rod that extended infinitely in both directions
+    * Also imagine the linear charge density($\lambda$) is constant over the object
+- We can use Gauss' Law to determine $\vec{E}$ for a point P whose distance from the charged rod is $r$
+    * In order to do this, superimpose a Gaussian cylinder with the charged rod intersecting the circular bases at their center\
+- We can use Gauss' Law to determine some interesting things about the situation
+$$ \epsilon_0 \oint \big( \vec{E} \cdot d \vec{A} \big) = \Sigma q $$
+- Using the definition of dot product, we get
+$$ \epsilon_0 \oint \big( |\vec{E}| |d\vec{A}| cos(\theta) \big) = \Sigma q $$
+$$ \epsilon_0 \oint \big( |\vec{E}| cos(\theta) |d\vec{A}| \big) = \Sigma q $$
+- Now, we can split our cylinder into three surfaces: two bases and one curved side
+    * The two bases are parallel to $\vec{E}$, so they contribute no flux
+        + Therefore, all of the flux must come from the curved side
+- Now, we must consider whether $|\vec{E}|$ is constant
+    * Because the rod is infinite in both directions, moving up or down while staying the same distance to the rod will have no difference
+        + Thus, $|\vec{E}|$ is constant, and we can pull it out of our integral
+$$ \epsilon_0 |\vec{E}| \oint \big( cos(\theta) |d\vec{A}| \big) = \Sigma q $$
+- Now, since the way our Gaussian surface is set up, $\theta$ is always equal to 0
+$$ \epsilon_0 |\vec{E}| \oint \big( cos(0) |d\vec{A}| \big) = \Sigma q $$
+$$ \epsilon_0 |\vec{E}| \oint \big( (1) |d\vec{A}| \big) = \Sigma q $$
+$$ \epsilon_0 |\vec{E}| \oint \big( |d\vec{A}| \big) = \Sigma q $$
+- Now, like in a previous section, we've encountered a surface integral whose integrating function is just one
+    * This will just returns the surface area of our surface
+        + Note that we have dismissed the two bases early on, so this is only the surface area of the curved wall
+$$ SA = 2 \pi r h $$
+    * Kind of like how $\int dx$ just returns x
+- Substituting that, we get
+$$ \epsilon_0 |\vec{E}| \big( 2 \pi r h \big) = \Sigma q $$
+- Now, $\Sigma q$ is just the enclosed charge within the cylinder
+    * Since we know the linear charge density($\lambda$), we can just multiply that by the height of the cylinder
+$$ \Sigma q = \lambda h $$
+- Substituting that, we get
+$$ \epsilon_0 |\vec{E}| \big( 2 \pi r h \big) = \lambda h $$
+$$ \epsilon_0 |\vec{E}| \big( 2 \pi r \big) = \lambda $$
+- Isolating $|\vec{E}|$, we get
+$$ |\vec{E}| = \frac{\lambda}{2 \pi \epsilon_0 r} $$
+- And, with that, we have a nice little formula for $\vec{E}$ at a point P outside of a infinite charged rod
+    * This class sure has a lot of formulas
