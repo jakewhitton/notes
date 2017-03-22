@@ -26,6 +26,7 @@ done
 
 # If directory doesn't exist, quit
 if [ ! -d "$DIR" ]; then
+	USAGE
 	echo "ERROR: directory does not exist. Quitting."
 	echo "$DIR"
 	exit -1
