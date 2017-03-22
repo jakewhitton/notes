@@ -36,7 +36,7 @@ DIR="`cd "$DIR"; pwd`" # The extra shell is for the case where the parameter is 
 
 # Populate a variable $files with all the markdown files in the directory(excluding master.md)
 # Then, if $files is null, quit
-files="`find "$DIR" -maxdepth 1 -not -name "master.md" -a -name "*.md" 2> /dev/null | sort`"
+files="`find "$DIR" -maxdepth 1 -not -name "master.md" -a -name "*.md" -a -not -name "*.swp" 2> /dev/null | sort`"
 if [ -z "$files" ]; then
 	echo "Directory does not contain markdown files. Quitting."
 	exit -1
