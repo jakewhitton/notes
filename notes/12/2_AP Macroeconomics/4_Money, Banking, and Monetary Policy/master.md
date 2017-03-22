@@ -179,3 +179,7 @@ $$ Future\ Value = P (1 + R)^N $$
         + Assets
         + Liabilities
         + Net worth
+
+### Money Multiplier
+- There's a money multiplier just like there is a spending multiplier
+$$ Money\ Multiplier = \frac{1}{Reserve\ requirement} $$
