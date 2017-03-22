@@ -1,11 +1,30 @@
 #!/bin/sh
 
-# If a parameter was passed, exit
-if [ $# -ne 0 ]; then
-	echo "Incorrect usage.  This script takes no parameters."
-	echo "usage: ugenmaster"
+USAGE () {
+	echo "Incorrect usage."
+	echo "usage: ugenmaster [--force-all]"
+}
+
+# If more than one parameter was passed, exit
+if [ "$#" -gt "1" ]; then
+	USAGE
 	exit -1
 fi
+
+FORCE_ALL=0 # Default behavior is to not force rebuilds of the pdfs; this feature probably shouldn't be used unless the way you tell pandoc
+            # to generate pdf's changes somehow(like a change of template or something)
+
+# Now that we know there are either 0 or 1 parameters, we have to check them
+for parameter in "$@"
+do
+	if [ "$parameter" == "--force-all" ]; then
+		FORCE_ALL=1
+	else
+		USAGE
+		exit -1
+	fi
+done
+
 
 REPO_DIR="/home/jake/notes"
 
@@ -29,6 +48,11 @@ for dir in `find "$NOTES_DIR" -type d -not -path '*/\.*' | sort`; do # Iterate o
 	
 	# Now that we know $dir isn't blacklisted, we call genmaster on it if it contains markdown files
 	if ls "$dir"/*.md &> /dev/null; then
-		genmaster "$dir"
+		# Lastly, check for force build
+		if [ "$FORCE_ALL" -eq "0" ]; then
+			genmaster "$dir"
+		else
+			genmaster "$dir" --force
+		fi
 	fi
 done
