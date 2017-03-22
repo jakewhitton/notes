@@ -230,3 +230,20 @@ $$ \epsilon_0 |\vec{E}| \big( 2 \pi r \big) = \lambda $$
 $$ |\vec{E}| = \frac{\lambda}{2 \pi \epsilon_0 r} $$
 - And, with that, we have a nice little formula for $\vec{E}$ at a point P outside of a infinite charged rod
     * This class sure has a lot of formulas
+
+---
+
+# 23.05
+
+## Gauss' Law and Planar Symmetry
+- Imagine we had an infinite, nonconducting plane with excess positive charge
+    * Also assume the surface charge density($\sigma$) is constant throughout the plane
+- Let's imagine we wanted to find $\vec{E}$ at a point P that is $d$ units from the plane
+    * We can set up Gauss' Law in non-integral form
+$$ \epsilon_0 \Sigma \phi = q_{enc} $$
+- Our Gaussian surface is going to be a cylinder perpendicular to the plane
+    * The curved wall is parallel to $\vec{E}$, so it contributes no flux
+    * Instead, the flux comes from the two bases
+        + If $\vec{E}$ is constant over the two bases, we can find the flux just by multiplying the surface area with $|\vec{E}|$
+            - $\vec{E}$ actually *is* constant over the end caps, because each point is the same distance from the charge source
+$$ \Sigma \phi = \big( |\vec{E}| A \big) + \big( |\vec{E}| A \big) $$
