@@ -76,3 +76,30 @@
 - **Fixation** = the effect of having an unresolved conflict during some psychosexual stage
     * Results in a lack of closure--the person fixates on that conflict
 - It's important to note that most of these ideas have been discredited and aren't practiced by modern psychodynamic psychologists
+
+---
+
+# 2017-03-22
+
+### Defense Mechanisms
+- **Defense mechanisms** = methods of protection the ego employs to reduce anxiety by distorting perception
+- **Repression** = a defense mechanism where anxiety-inducing thoughts are actively fought by the conscious mind
+    * Results in those memories being still present, but only to the unconscious
+- **Regression** = a defense mechanism where an individual reverts to a psychosexual stage with an unresolved conflict
+    * The individual feels less responsibility for their actions
+- **Reaction formation** = a defense mechanism where the ego substitutes taboo impulses for their opposites
+    * Is a way to avoid situations
+        + For example, hiding an impulse that will lead to conflict with its opposite
+- **Projection** = a defense mechanism where taboo impulses will be attributed to others
+- **Rationalization** = a defense mechanism where unsavory reasons for one's actions are justified with logic rather than the emotions that *really* drive them
+- **Displacement** = a defense mechanism where agressive or sexual impulses are directed towards a person or object that is less threatening
+    * You deal with your anger at your boss by hurting your spouse, etc
+- **Sublimation** = a defense mechanism where harmful impulses are directed into a more socially appropriate activity
+    * *e.g.*
+        + Lifting weights to deal with anger towards the bourgeoisie
+            - *Proletarian gains.*
+        + Writing poetry to deal with inappropriate sexual impulses
+- **Denial** = a defense mechanism where the negative impulse is simply ignored
+    * Is different from repression in that it can still be accessed by the conscious mind
+        + It just isn't acknowledged
+- **Undoing** = a defense mechanism where the guilt for indulging a negative stimulus is counterbalanced with a positive thing
