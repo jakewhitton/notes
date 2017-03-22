@@ -2,22 +2,36 @@
 
 REPO_DIR="/home/jake/notes"
 
-# If the number of parameters passed is not equal to one, quit
-if [ $# -ne 1 ]; then
+# This script can take one or two parameters: a mandatory unit, and an optional
+# --force option.  Ensure that this is the case
+if [ "$#" -ne 1 ] && [ "$#" -ne 2 ]; then
 	echo "Incorrect usage."
-	echo "usage: genmaster <PATH_TO_UNIT>"
+	echo "usage: genmaster <PATH_TO_UNIT> [--force]"
 	exit -1
 fi
 
+
+FORCE=0 # This is zero by default, because the default behavior is to not force a rebuild
+
+# Now that we know there are 1 or two parameters, loop through them
+for parameter in "$@"
+do
+	if [ "$parameter" == "--force" ]; then
+		FORCE=1
+	else
+		# Since parameter is not our force option, it must be specifying our directory
+		DIR="$parameter"
+	fi
+done
 
 # If directory doesn't exist, quit
-if [ ! -d "$1" ]; then
+if [ ! -d "$DIR" ]; then
 	echo "ERROR: directory does not exist. Quitting."
-	echo "$1"
+	echo "$DIR"
 	exit -1
 fi
 
-DIR="`cd "$1"; pwd`" # The extra shell is for the case where the parameter is a relative path; this will turn it into an absolute path
+DIR="`cd "$DIR"; pwd`" # The extra shell is for the case where the parameter is a relative path; this will turn it into an absolute path
 
 # Populate a variable $files with all the markdown files in the directory(excluding master.md)
 # Then, if $files is null, quit
@@ -73,7 +87,7 @@ done
 
 # Okay, master.md is fully built
 # Now, we need to check if the unit warrants an update
-if [ ! -f "${DIR}/master.md" ] || [ ! -z "`diff "${DIR}/master.md" "${tmp}/master.md"`" ]; then
+if [ ! -f "${DIR}/master.md" ] || [ ! -z "`diff "${DIR}/master.md" "${tmp}/master.md"`" ] || [ $FORCE -eq 1 ]; then
 	echo "   Generating master document..."
 	pandocResult="`pandoc -s -f markdown -o "${tmp}/master.pdf" --latex-engine=pdflatex "${tmp}/master.md" 2>&1`"
 	if [ -n "$pandocResult" ]; then
