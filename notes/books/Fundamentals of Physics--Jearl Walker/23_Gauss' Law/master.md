@@ -247,3 +247,29 @@ $$ \epsilon_0 \Sigma \phi = q_{enc} $$
         + If $\vec{E}$ is constant over the two bases, we can find the flux just by multiplying the surface area with $|\vec{E}|$
             - $\vec{E}$ actually *is* constant over the end caps, because each point is the same distance from the charge source
 $$ \Sigma \phi = \big( |\vec{E}| A \big) + \big( |\vec{E}| A \big) $$
+$$ \Sigma \phi = 2 |\vec{E}| A $$
+- The two bases both have positive flux, because the source charge is positive, and $\vec{E}$ points outward
+- Substituting that into Gauss' law, we get
+$$ \epsilon_0 \big( 2 |\vec{E}| A \big) = q_{enc} $$
+- And, solving for $|\vec{E}|$
+$$ |\vec{E}| = \frac{q_{enc}}{2 A \epsilon_0} $$
+- But remember that
+$$ \sigma = \frac{q}{A} $$
+- Making that substitution, we get
+$$ |\vec{E}| = \frac{\sigma}{2 \epsilon_0} $$
+- And with that, we have a formula for $|\vec{E}|$ just outside of the positively charged infinite sheet
+    * Isn't physics *so useful?*
+        + I know this can be boring but bear with it
+
+---
+
+# 23.06
+
+## Proving Shell Theorems with Gauss' Law
+- As it turns out, we can use this tool to prove the two shell theorems
+
+### First Shell Theorem
+
+> A charged particle outside a shell with charge uniformly distributed on its surface is attracted or repelled as if the shell's charge were concentrated as a particle at the shell's center
+
+#### Proof
