@@ -79,11 +79,9 @@ not after the last file.
 
 Then, the script evaluates whether the unit directory satisfies *either* of the
 following:
-
-    1. The unit does not have a master.md present
-    2. The unit has a master.md that is different from the newly compiled one in
+1. The unit does not have a master.md present
+2. The unit has a master.md that is different from the newly compiled one in
        /tmp
-
 If either of these are true, a new pdf is generated using pandoc.  If the
 compilation is successful(*i.e.* pandoc doesn't produce an error), then the
 master.md and master.pdf are copied over to the unit directory.  If the pdf
