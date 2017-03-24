@@ -2,11 +2,15 @@
 
 REPO_DIR="/home/jake/notes"
 
+USAGE() {
+	echo "Incorrect usage."
+	echo "usage: genmaster <PATH_TO_UNIT> [--force]"
+}
+
 # This script can take one or two parameters: a mandatory unit, and an optional
 # --force option.  Ensure that this is the case
 if [ "$#" -ne 1 ] && [ "$#" -ne 2 ]; then
-	echo "Incorrect usage."
-	echo "usage: genmaster <PATH_TO_UNIT> [--force]"
+	USAGE
 	exit -1
 fi
 
@@ -23,6 +27,12 @@ do
 		DIR="$parameter"
 	fi
 done
+
+# If $DIR was never given a value, then the user didn't pass a directory; Throw error
+if [ -z "$DIR" ]; then
+	echo "ERROR: No directory was passed. Quitting."
+	exit -1
+fi
 
 # If directory doesn't exist, quit
 if [ ! -d "$DIR" ]; then
@@ -42,6 +52,7 @@ if [ -z "$files" ]; then
 	exit -1
 fi
 
+
 # Now, we know for sure that the directory actually exists and that it contains user-created markdown files
 # Time to compile them!
 
@@ -52,7 +63,6 @@ echo "" > "${tmp}/master.md"
 
 # Create a backup of the directory in case something goes wrong
 cp -R "$DIR" "${tmp}/backup"
-
 
 echo "Processing ${DIR}..."
 
@@ -90,7 +100,7 @@ done
 # Now, we need to check if the unit warrants an update
 if [ ! -f "${DIR}/master.md" ] || [ ! -z "`diff "${DIR}/master.md" "${tmp}/master.md"`" ] || [ $FORCE -eq 1 ]; then
 	echo "   Generating master document..."
-	pandocResult="`pandoc -s -f markdown -o "${tmp}/master.pdf" --latex-engine=pdflatex "${tmp}/master.md" 2>&1`"
+	pandocResult="`cd "$DIR"; pandoc -s -f markdown -o "${tmp}/master.pdf" --latex-engine=pdflatex "${tmp}/master.md" 2>&1`"
 	if [ -n "$pandocResult" ]; then
 		echo "ERROR: Pandoc failed to generate master pdf.  Unit directory has not been changed."
 		echo "$pandocResult"
