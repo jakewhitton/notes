@@ -59,11 +59,12 @@ Once it does that, it sets up a directory in /tmp and generates a master.md from
 all the source .md files.
 
 It does this by looping over all the files and performs the following operations
-    1. Insert the filename of the markdown file, stripped of the .md suffix, as
-       an H1 header
-    2. Insert a blank line
-    3. Insert the contents of the markdown file
-    4. Insert a **separator**
+
+1. Insert the filename of the markdown file, stripped of the .md suffix, as
+   an H1 header
+2. Insert a blank line
+3. Insert the contents of the markdown file
+4. Insert a **separator**
 
 #### Separator
 - **Separator** = the file that contains the text that will pasted in between
@@ -79,9 +80,11 @@ not after the last file.
 
 Then, the script evaluates whether the unit directory satisfies *either* of the
 following:
+
 1. The unit does not have a master.md present
 2. The unit has a master.md that is different from the newly compiled one in
    /tmp
+
 If either of these are true, a new pdf is generated using pandoc.  If the
 compilation is successful(*i.e.* pandoc doesn't produce an error), then the
 master.md and master.pdf are copied over to the unit directory.  If the pdf
