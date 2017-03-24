@@ -183,3 +183,54 @@ $$ Future\ Value = P (1 + R)^N $$
 ### Money Multiplier
 - There's a money multiplier just like there is a spending multiplier
 $$ Money\ Multiplier = \frac{1}{Reserve\ requirement} $$
+
+---
+
+# 2017-03-24
+
+## A Chain of Events: Changing the Money Supply
+1. The fed makes the determination that it wants to change the money supply
+2. It does this by selling or purchasing bonds
+    * If it sells bonds, people and banks spend their own money to buy them, decreasing the money in circulation
+    * If it buys bonds back from people and banks, those people and banks get more money, increasing the money in circulation
+3. Becacuse the banks now have more(if the fed bought bonds back from them) or less(if the fed sold more to the banks), the banks change the interest rates at which they lend
+    * In this class "interest rate" is kind of a shorthand for "interest rate at which banks loan"
+        + It's *not* the interest rate for savings accounts
+    * If the bank pays a lot for new bonds, then it has to raise their interest rates so they can maintain a profit
+    * If the bank gets paid for bonds it previously owned, then it can be competitive with other banks by offering lower interest rates
+4. Becuse interest rates for loans change, interest rates for savings accounts change
+    * If loaning interest rates increase, savings interest rates will decrease
+        + This is because both measures help to save money when the bank buys a lot of bonds and doesn't have a lot of money
+    * If loaning interest rates decrease, savings interest rates will decrease
+        + This is because both measures will help the bank be competitive with other banks for consumers
+5. Because savings interest rate changes, spending habits change
+    * If savings interest rate decreases, then consumers will spend more now and save less
+        + This is because the interest they stand to gain by saving is *less* than the immediate utility of *buyin' things*!
+    * If savings interest rate increases, then consumers will spend less now and save more
+        + This is because the interest they stand to gain by saving is *more* thant he immediate utility of consumption
+6. Because consumer spending habits change, aggregate demand changes
+    * If spending decreases, AD decreases
+    * If spending increases, AD increases
+7. Because AD changes, price level changes
+    * If AD decreases, price level decreases
+    * If AD increases, price level increases
+8. Because price level changes, demand for money changes
+    * If price level decreases, demand for money decreases
+        + This is because people need *less* money to buy the same things
+    * If price level increases, demand for money increases
+        + This is because people need *more* money to buy the same things
+            - *MOAR. MOAR. MOARRRRRRRRR.*
+
+### A Summary of Changes
+- If money supply decreases, money demand decreases
+- If money supply increases, money demand increases
+- Isn't that a hell of a lot simpler?
+
+### Three Shifters of the Money Supply
+1. **Reserve requirements**
+2. **Discount rates** = the rate at which the fed lends to banks
+3. **Open market operations** = an action where the government sells government securities
+    * **Government securities** = a financial object that the government owns
+    * *e.g.*
+        + Buying bonds
+        + Selling bonds
