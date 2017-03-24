@@ -30,24 +30,40 @@ drive the core functionality: `ugenmaster` and `genmaster`
 
 ### Ugenmaster
 
-`ugenmaster` is a shell script that acts as somewhat of a wrapper to
-`genmaster`.  It takes no parameters, and it will complain if you pass it some.
-Essentially, `ugenmaster` calls `genmaster` on each *unit* that is a descendent
-of the "notes" folder at the root of this repo.  It makes the determination as
-to whether or not a directory is a unit with the above conditions.
+```
+USAGE:
+ugenmaster [--force-all]
+```
+`ugenmaster` is a shell script that serves as a wrapper for `genmaster`. 
+Essentially, it populates a list of all units that are a descendent of
+${REPO_DIR}/notes.  It then calls `genmaster` on all of those units.  If
+provided with the --force-all parameter, it will pass the --force parameter to
+genmaster for **every unit**.  Since pdf's have timestamps, git will think the
+file has changed.  Really you shouldn't use --force-all unless you change the
+way pandoc renders pdf's(like a new template or LaTex engine, etc).
 
 ### Genmaster
 
-This is where the real functionality is.  This script takes one parameter--the
-path(can be relative or absolute) to a unit.  It performs the sanity check that
-the directory passed is indeed a unit(again, by checking the conditions above).
-Once it verifies that everything is okay(the directory exists and is a unit,
-etc), it creates a "master.md" file in a directory in /tmp that is appended
-with the process's PID(so if the program is running concurrently, the two won't
-interfere with one another).  It does this by looping through the list of
-markdown files---sorted alphabetically---and places into the file its
-filename(stripped of the .md) as an H1 header, the contents of the file, and
-then a separator.  Let's discuss the separator briefly.
+```
+USAGE:
+genmaster <UNIT_DIRECTORY> [--force]
+```
+
+This is where the real functionality is.  The script initially performs a sanity
+check to ensure that the directory is in fact a unit(by checking the definition
+outlined above).  Then, it populates a list of all the markdown source
+files--sorted in alphabetical order.  Thus, if you want your notes to compile in
+the correct order, it's important to come up with filenames that sort correctly.
+
+Once it does that, it sets up a directory in /tmp and generates a master.md from
+all the source .md files.
+
+It does this by looping over all the files and performs the following operations
+    1. Insert the filename of the markdown file, stripped of the .md suffix, as
+       an H1 header
+    2. Insert a blank line
+    3. Insert the contents of the markdown file
+    4. Insert a **separator**
 
 #### Separator
 - **Separator** = the file that contains the text that will pasted in between
@@ -57,19 +73,28 @@ then a separator.  Let's discuss the separator briefly.
       the unit you wish for it to apply to
         + Local separator overrides global separator
 
-After `genmaster` compiles the "master.md" in /tmp/notes-[PID]/, it checks
-whether the unit either has no "master.md" or has a "master.md" that is
-different from the newly compiled one.  In the case that *either* of those are
-true, the "master.md" from the unit is overwritten with the "master.md" from
-/tmp and a new pdf is generated using pandoc.
+After those steps are performed on each entry in the file list, it removes the
+last instance of the separator, as we only want separators *between* files and
+not after the last file.
+
+Then, the script evaluates whether the unit directory satisfies *either* of the
+following:
+    1. The unit does not have a master.md present
+    2. The unit has a master.md that is different from the newly compiled one in
+       /tmp
+If either of these are true, a new pdf is generated using pandoc.  If the
+compilation is successful(*i.e.* pandoc doesn't produce an error), then the
+master.md and master.pdf are copied over to the unit directory.  If the pdf
+compilation is unsuccessful, the error message is displayed, but the unit is not
+changed.
 
 ### How Can I Use It?
 
 Essentially, you can create whatever directory heirarchy you like.  The script
-will compile *only* the units(keep in mind that you can blacklist certain units
-if you don't want them to be compiled into a master document; *e.g.* todos,
-calendars, etc).  As such, you can be as creative as you want.  If you want a
-directory tree 40 levels deep, go for it.
+will compile *only* the units(keep in mind that you can blacklist certain
+directories if you don't want them to be compiled into a master document;
+*e.g.* todos, calendars, etc).  As such, you can be as creative as you want.
+If you want a directory tree 40 levels deep, go for it.
 
 Just create markdown files in your unit directory, and develop a naming scheme
 that will ensure your notes are compiled in the correct order(I represent dates
