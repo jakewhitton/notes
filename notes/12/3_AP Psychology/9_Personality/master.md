@@ -119,6 +119,8 @@
         + Scoring and interpretation is very subjective
         + Unreliable results
         + Have no predicting power
+- **Terror-management theory** = the theory that the principle unconscious struggle is to grapple with the fact that we will die
+    * Religion can be understood as a coping mechanism for this anxiety
 
 ### Neofreudian Approach to Personality
 - **Alfred Adler**
@@ -152,3 +154,59 @@
 - **Self-serving bias** = the propensity for one to perceive their actions and thoughts in a favorable light
 - **Individualism** = the behavior of emphasizing your own goals and basing your identity on individual achievements rather than on collective social goals or identity
 - **Collectivism** = the behavior of emphasizing the goals of a social group and defining your identity in terms of that group
+
+---
+
+# 2017-03-28
+
+### Trait Theory of Personality
+- **Trait** = a unique pattern of behavior
+    * Associated with Gordon Allport
+- **Rayman Cattell** = a psychologist who developed the "16 personality factors"
+    * *e.g.*
+        + Self Assured vs Apprehensive
+        + Undisciplined vs Controlled
+- **Hans Eysenck** = psychologist who developed a two-dimensional plane describing personality
+    * Two axes
+        1. Stable vs Unstable
+        2. Introverted vs Extraverted
+
+|             |  Unstable   |   Stable    |
+|-------------|-------------|-------------|
+| Introverted | Melancholic |  Phlegmatic |
+| Extroverted |  Choleric   |   Sanguine  |
+
+- **Personality inventory** = a questionaire meant to assess what traits one has
+    * Shortcomings
+        + Relies on client honesty
+        + Very long tests
+            - Can cause fatigue and skew accuracy
+        + Sometimes people aren't the best judges of their behavior
+    * **Minnesota Multiphasic Personality Inventory(MMPI)** = the most widely researched and used personality inventory
+        + Initially developed as a diagnostic tool for emotional disorders
+        + Now is used broadly as a screening purpose
+            - Like a test you take to make sure you are fit for service, etc
+        + 500 true or false questions
+- Type A vs Type B
+    * **Type A** = a personality category characterized by an intense, focused drive towards achieving goals
+        + Heavily oriented around tasks and completing things
+    * **Type B** = a personality category characterized by a diminished emphasis on task completion and goal setting
+        + More laid back and easy-going
+
+### Five Factor Model of Personality
+- Basic principle is that five characteristics are inherited or present at a very young age
+1. Openness vs Close-minded
+2. Conscientiousness vs Undisciplined
+3. Extraversion vs Introversion
+4. Agreeable vs Antisocial
+5. Neuroticism vs Emotional stability
+
+### Social Cognitive Perspective of Personality
+- **Social cognitive theory** = a theory of personality that emphasizes the importance of observational learning and interpersonal effects
+- **Reciprocal determinism** = the model of personality that is affected by interactions between behavior, environment, and mental processes
+- **Self-efficacy** = one's confidence that they can do the things a situation requires
+- **Personal control** = one's confidence that their environment can be changed through action
+    * A poor sense of personal control is essentially just hopelessness
+- **External locus of control** = the vectors that affect one's environment that cannot be controlled
+- **Internal locus of control** = the vectors that affect one's environment that can be controlled through action
+- **Learned helplessness** = the effect where one's mental model of internal and external loci of control stay persistent, and one believes they have no control over their situation when they really do
