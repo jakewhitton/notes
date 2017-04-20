@@ -40,12 +40,12 @@
             - This vector is the **electric flux** for any given differential area
         + One that doesn't pierce the surface at all
             - Directly parallel to the surface
-- We can define the magnitude of the electric flux in a subarea of A as
-$$ d\phi = |\vec{E}| cos(\theta) $$
+- We can define the magnitude of the electric flux in a subarea of dA as
+$$ d\phi = |\vec{E}| dA cos(\theta) $$
 - This is valid, but there is a more elegant solution
     * This value can calculated with a **dot product**
 $$ d\phi = \vec{E} \cdot d\vec{A} $$
-- where $d\vec{A}$ is a vector perpendicular to the surface with a magnitude equal to the area of the surface
+- where $d\vec{A}$ is a vector perpendicular to the surface with a magnitude equal to the area of the differential area
 - At some points, the $\vec{E}$ field may pierce *into* the surface and in other points, it may pierce outwards
     * In order to find the **net electric flux**, we use integration
 $$ \phi = \oint \vec{E} \cdot d\vec{A} $$
@@ -273,3 +273,65 @@ $$ |\vec{E}| = \frac{\sigma}{2 \epsilon_0} $$
 > A charged particle outside a shell with charge uniformly distributed on its surface is attracted or repelled as if the shell's charge were concentrated as a particle at the shell's center
 
 #### Proof
+- Imagine a spherical shell of total charge q, uniform in surface charge density, and with a radius of R
+    * Now, superimpose a concentric sphere of a radius larger than R
+        + This will be our Gaussian surface
+    * Setting up Gauss' Law, we get
+$$ \epsilon_0 \oint \vec{E} \cdot d\vec{A} = q_{enc} $$
+- Since our Gaussian surface is larger than the shell of charge, $q_{enc}$ is just $q$
+$$ \epsilon_0 \oint \vec{E} \cdot d\vec{A} = q $$
+- Reducing the dot product, we get
+$$ \epsilon_0 \oint |\vec{E}| |d\vec{A}| cos(\theta) = q $$
+- Now, we must ask what $\theta$ is
+    * If we imagine a plane cutting our Gaussian surface in half, we can see that all the charged particles among the shell of charge on each half will cancel each other out in the direction perpendicular to the plane
+        + Thus, $\vec{E}$ and $d\vec{A}$ point in the same direction, so $\theta$ is zero
+$$ \epsilon_0 \oint |\vec{E}| |d\vec{A}| cos(0) = q $$
+$$ \epsilon_0 \oint |\vec{E}| |d\vec{A}| = q $$
+- Now, proving that $|\vec{E}|$ is constant about our Gaussian surface is rather tedious
+    * If you'd like, you can prove it by integrating $|d\vec{E}|$ along the entire surface
+        + Or you could just take my word for it
+    * It is constant, so we can pull it out of the integral
+$$ \epsilon_0 |\vec{E}| \oint |d\vec{A}| = q $$
+- Again, surface integrals where the integrating function is 1 just returns surface area
+$$ \epsilon_0 |\vec{E}| \big( 4 \pi r^2 \big) = q $$
+- Solving for $|\vec{E}|$, we get
+$$ |\vec{E}| = \frac{1}{4 \pi \epsilon_0} \frac{q}{r^2} $$
+- Now, multiplying both sides by the charge of some particle
+$$ |\vec{E}| q_1 = \frac{1}{4 \pi \epsilon_0} \frac{q q_1}{r^2} $$
+- Now, recall the definition of $|\vec{E}|$
+$$ |\vec{E}| = \frac{|\vec{F}|}{q_{particle}} $$
+- Rearranging, we get
+$$ |\vec{F}| = |\vec{E}| q_{particle} $$
+- Making that substitution, we get
+$$ |\vec{F}| = \frac{1}{4 \pi \epsilon_0} \frac{q q_1}{r^2} $$
+- Changing variable names, we get
+$$ |\vec{F}| = \frac{1}{4 \pi \epsilon_0} \frac{q_1 q_2}{r^2} $$
+- We end up with Coulomb's Law!
+    * This means that the force experienced by a particle external to the shell of charge would be identical to if the force were created by a particle at the shell's center of charge q
+        + wew lads we proved it
+
+### Second Shell Theorem
+
+> a charged particle placed inside of a shell that is uniformly charged
+about its surface will experience no electrostatic force from the shell
+
+#### Proof
+- Imagine a shell of charge q with uniform surface charge density and radius R
+    * Now, superimpose, a Gaussian sphere, concentric with the shell of charge, of radius $r < R$
+        + We can set up Gauss' Law as follows
+$$ \epsilon_0 \oint \vec{E} \cdot d\vec{A} = q_{enc} $$
+- Simplifying the dot product, we get
+$$ \epsilon_0 \oint |\vec{E}| |d\vec{A}| cos(\theta) = q $$
+- Now, the same symmetry exists as before; $\vec{E}$ and $d\vec{A}$ have the same symmetry
+    * So, $\theta$ is zero
+$$ \epsilon_0 \oint |\vec{E}| |d\vec{A}| cos(0) = q $$
+$$ \epsilon_0 \oint |\vec{E}| |d\vec{A}| = q $$
+- Similarly, $|\vec{E}|$ is constant about the surface of our Gaussian surface, so it can be pulled out of the integral
+$$ \epsilon_0 |\vec{E}| \oint |d\vec{A}| = q $$
+- Simplifying the surface integral, we get
+$$ \epsilon_0 |\vec{E}| \big( 4 \pi r^2 \big) = q $$
+- Now, since our Gaussian sphere is smaller than the shell, it encloses no charge
+$$ \epsilon_0 |\vec{E}| \big( 4 \pi r^2 \big) = 0 $$
+- The only way for the left side to be zero is if $|\vec{E}|$ is zero or $r$ is zero
+    * $r$ is not zero, so $|\vec{E}|$ must be zero!
+        + *Yay.*
