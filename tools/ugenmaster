@@ -1,5 +1,9 @@
 #!/bin/sh
 
+# Directory of git repo that stores all notes-related files/directories
+REPO_DIR="/home/jake/notes"
+
+
 USAGE () {
 	echo "Incorrect usage."
 	echo "usage: ugenmaster [--force-all]"
@@ -26,33 +30,61 @@ do
 done
 
 
-REPO_DIR="/home/jake/notes"
+# Source file that contains definitions for NOTES_DIR and UNIT_BLACKLIST
+if [ -r "${REPO_DIR}/conf/settings.sh" ]; then
+	source "${REPO_DIR}/conf/settings.sh"
+else
+	echo "ERROR: Could not locate configuration settings at ${REPO_DIR}/conf/settings.sh"
+	echo "Is \$REPO_DIR set correctly in this script?"
+	exit -1
+fi
 
-NOTES_DIR="${REPO_DIR}/notes"
 
-# If you want to omit certain directories from being detected as units, add them here
-UNIT_BLACKLIST=("${NOTES_DIR}")
+# Store directories recursively
+directoryList=`find "$NOTES_DIR" -type d -not -path '*/\.*' -and -not -path "$NOTES_DIR" | sort`
+
+# If no directories were found, quit.
+if [ -z "$directoryList" ]; then
+	echo "No directories found within ${NOTES_DIR}.  Quitting."
+	exit -1
+fi
+
+i=0 # Index for creating new array "unitList"
+unitList=""
 
 # Set IFS to newline, so that we can iterate over directories that have tabs or spaces in their names
 IFS="
 "
 
-for dir in `find "$NOTES_DIR" -type d -not -path '*/\.*' | sort`; do # Iterate over each non-hidden(e.g. .git/) subdirectory
-	
+for dir in $directoryList; do # Iterate over each subdirectory
+
+	# If directory doesn't contain markdown files, continue to next directory
+	if [ -z "`ls "$dir" | grep '.md'`" ]; then
+		continue
+	fi
+
+
 	# If $dir is equivalent to one of the elements of $UNIT_BLACKLIST, continue to the next iteration of the loop(skip the current value)
-	for blacklisted_directory in "${UNIT_BLACKLIST[@]}"; do
-		if [ "$dir" == "$blacklisted_directory" ]; then
+	for blacklisted_directory_regex in "${UNIT_BLACKLIST[@]}"; do
+		if echo "$dir" | grep -q -E "$blacklisted_directory_regex"; then
 			continue 2;
 		fi
 	done
 	
-	# Now that we know $dir isn't blacklisted, we call genmaster on it if it contains markdown files
-	if ls "$dir"/*.md &> /dev/null; then
-		# Lastly, check for force build
-		if [ "$FORCE_ALL" -eq "0" ]; then
-			genmaster "$dir"
-		else
-			genmaster "$dir" --force
-		fi
-	fi
+	# Now we know that $dir has markdown files and isn't blacklisted and is correspondingly a unit
+	# Now, we add it to a new array called "unitList"
+	unitList[i]="$dir"
+	i=$(( i+1 ))
 done
+
+# Yay! Almost done!
+
+if [ $FORCE_ALL -eq 0 ]; then
+	for unit in "${unitList[@]}"; do
+		genmaster "$unit"
+	done
+else
+	for unit in "${unitList[@]}"; do
+		genmaster --forc --forcee "$unit"
+	done
+fi

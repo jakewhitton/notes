@@ -1,6 +1,17 @@
 #!/bin/sh
 
+# This variable declaration occurrs in three places: genmaster, ugenmaster, and ${REPO_DIR}/conf/settings.sh
 REPO_DIR="/home/jake/notes"
+
+# Pull in configuration settings in ${REPO_DIR}/conf/settings.sh
+# Source file that contains definitions for NOTES_DIR and UNIT_BLACKLIST
+if [ -r "${REPO_DIR}/conf/settings.sh" ]; then
+	source "${REPO_DIR}/conf/settings.sh"
+else
+	echo "ERROR: Could not locate configuration settings at ${REPO_DIR}/conf/settings.sh"
+	echo "Is \$REPO_DIR set correctly in this script?"
+	exit -1
+fi
 
 USAGE() {
 	echo "Incorrect usage."
@@ -43,6 +54,15 @@ if [ ! -d "$DIR" ]; then
 fi
 
 DIR="`cd "$DIR"; pwd`" # The extra shell is for the case where the parameter is a relative path; this will turn it into an absolute path
+
+# If directory exists on $UNIT_BLACKLIST, quit
+for blacklisted_directory_regex in "${UNIT_BLACKLIST[@]}"; do
+	if echo "$DIR" | grep -q -E "$blacklisted_directory_regex"; then
+		echo "Unit provided appears on \$UNIT_BLACKLIST.  Quitting."
+		exit -1
+	fi
+done
+
 
 # Populate a variable $files with all the markdown files in the directory(excluding master.md)
 # Then, if $files is null, quit
