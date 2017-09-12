@@ -82,7 +82,7 @@ mkdir -p "$tmp"
 echo "" > "${tmp}/master.md"
 
 # Create a backup of the directory in case something goes wrong
-cp -R "$DIR" "${tmp}/backup"
+cp -R "$DIR" "${tmp}/backup" 2> /dev/null
 
 echo "Processing ${DIR}..."
 
