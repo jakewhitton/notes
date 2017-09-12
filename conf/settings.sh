@@ -13,4 +13,4 @@ NOTES_DIR="${REPO_DIR}/notes"
 # NOTE: Each entry in this array should be a valid regex pattern.
 # Any directory that matches the regex in _any_ part of the string will not count as a unit.
 # Therefore, be careful and use the ^ and $ specifiers to add more specificity to your blacklist so you don't block units you didn't intend to
-UNIT_BLACKLIST=("^${NOTES_DIR}$")
+UNIT_BLACKLIST=("^${NOTES_DIR}$", "psets")
