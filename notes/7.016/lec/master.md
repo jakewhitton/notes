@@ -89,3 +89,38 @@
             + *e.g.* TATA box
     2. RNA polymerase continues to add nucleotides and backbone is synthesized
     3. Eventually, RNA polymerase breaks hydrogen bond between itself and the DNA
+
+---
+
+# 2017-09-25
+
+## Transcription
+
+### Before transcription
+- **Transcriptome** = the set of all RNA molecules in a cell
+- Prior to transcription, the DNA is wound up in the chromosome
+    * Histones are very positive proteins, and DNA phosphates are negative, which is why DNA wraps around them
+    * **Chromatin** = the histones and DNA in one bundled matrix
+    * Two ways to modify chromatin
+        1. **Acetylation** = add an acetyl group onto Lysine
+            + **Upregulation** = increases activity of transcription
+            + Forms **Heterochromatin**
+        2. **Methylation** = add a methyl group onto certain bases
+            + **Downregulation** = decreases activity of transcription
+            + Forms **euchromatin**
+### After transcription
+- **5' capping** = a modification to the 5' end
+    * The 5' terminal nucleotide actually maintains it's three phosphates
+        + Because RNA polymerase doesn't attach first nucleotide to a primer, the triphosphate stays intact
+    * This process happens soon after transcription begins
+        + Because the 5' end will be left in cytoplasm as the rest of the mRNA is synthesized
+- **3' polyadenylation** = a modification to the 3' end
+    * First, mRNA is cleaved at a poly(A) site
+    * Then, a few hundred adenines are added to the end of the 3' end
+        + Called a **Poly-A Tail**
+        + This is because degradation of the 3' end will happen naturally over time
+            - This process will make it so the degredation will only damage non-coding regions for a while
+        + The poly-A tail is used as a marker for nuclear export
+- **Splicing** = the removal of segments(called **introns**) from pre-mRNA
+    * **Intron** = non-coding region of pre-mRNA
+    * **Exon** = coding region of pre-mRNA
