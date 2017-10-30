@@ -28,3 +28,20 @@
     * Evidence
         + Mitochondrial DNA is a circular chromosome
         + Mitichondria have ribosomes that are like those of prokaryotes
+
+---
+
+# 2017-10-13
+
+### Linkage
+- **Linkage** = an effect of when genes are arranged linearly on a chromosome
+    * If they are in proximity on chromosome, they become *linked*
+        + This means that they will sort *dependently*
+
+### Crossing Over
+- During aligning of chromosomes in meiosis, if genes aren't linked, individual alleles can swap over
+    * The class of gametes with with these swapped alleles are called **recombinant**
+    * **Recombinant frequency** = the percentage of gametes that are recombinant
+        + The closer two genes are, the less likely the genes are to cross over
+            - This means that the recombinant frequency will be lower
+        + We can use recombinant frequences to get the distance between gene sequences on the chromosome
