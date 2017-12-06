@@ -1,0 +1,45 @@
+# 2017-12-06
+
+## Infectious Diseases: Viruses and Antivirals
+- This lecture is oriented around the HIV protease
+
+### Anatomy of Viruses
+- **Envelope** = outermost plasma membrane which protects virus
+    * Has glycoproteins that cover the membrane
+- **Protein capsid** = protein region inside envelope
+    * Is typically digested once envelope is fused with the host cell
+- **Viral nucleic acid** = some kind of genetic material
+    * *e.g.* ssDNA, ssRNA, dsDNA, etc
+
+### Baltimore Classification
+- **Baltimore classification** = a system of categorizing different viruses based on the way their viral nucleic acid is modified and expressed through infection
+- Split into 6 "classes"
+
+### Retroviruses
+- Classified as Group 6 under the baltimore classification system
+- Contains **reverse transcriptase** which can create genomic DNA from RNA
+- This created DNA can then be injected into the genome through an enzyme
+
+#### Why Are Retroviruses So Dangerous?
+- They can actually effect the genome of cells
+- Reverse transcriptase is doesn't have strong proof-reading activity, so it mutates much faster than bacteria or other viruses
+
+#### HIV
+- **HIV** = the virus that is responsible for **AIDS**
+    * **AIDS** = Acquired Immune Deficiency Syndrome
+- Process
+    1. Surface glycoproteins on envelope connect to CD4 receptors on T-Helper cells
+    2. Once connected, the plasma membrane of the T Cell and the envelope of the virus fuse and eject the protein capsid and viral RNA into the cell
+    3. The capsid is digested, leaving viral RNA
+    4. Reverse transcriptase creates dsDNA from ssRNA
+    5. DNA is fused into genome with **integrase**
+    6. Viral proteins for capsid and glycoproteins are created in cytoplasm and ER, respectively
+    7. The newly genorated parts assemble and the capsid and viral RNA are pinched off by plasma membrane to form a new virus
+    8. Once immature viruon is formed, a protease does some final protein modification to generate the final capsid structure
+
+### Vaccines
+- Four classes of vaccines
+    1. **Heterologous virus** = using similar but distinct antigens so that immune can be built up through a less dangerous antigen
+    2. **Killed/inactivated virus** = using antigens that have been modified so they are no longer active to allow specific immune response to develop
+    3. **Live attenuated vaccine** = using very small amounts of fully functioning antigen so that a response can develop
+    4. **Recombinant vaccine** = using antigens or parts of antigens that come from genetically modified antigens
