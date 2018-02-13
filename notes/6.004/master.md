@@ -149,3 +149,38 @@ $$I(n) = log_2\bigg(\frac{M}{N}\bigg)$$
             * Result
                 1. Combinational device must have **gain** > 1
                 2. Combinational device must be nonlinear
+
+---
+
+# 2018-02-13
+
+## CMOS Technology
+
+### MOSFETs
+- **MOSFETs(Metal-Oxide-Semiconductor Field-Effect Transistor)** = four-terminal device that allows current to flow between **diffusion terminals** if **gate terminal** voltage is high enough
+    * **Diffusion terminals** = the logical input and output of a MOSFET
+        + **Drain** = the terminal where an input signal is placed
+        + **Source** = the output terminal which either receives the source signal or doesn't, depending on the value at the gate terminal
+    * **Gate terminal** = the terminal that lies right above the channel of Silicon that seperates the drain and source
+        + Placing a positive voltage on the gate creates attractive force that permits electrons to flow from the drain to the source
+    * **Bulk terminal** = connection to either ground or $V_{CC}$ depending on what type of FET
+
+#### NFET vs PFET
+- **NFET** = diffusion terminals are of N type and substrate is of P type
+    * Bulk should connect to ground
+- **PFET** = diffusion terminals are of P type and substrate is of N type
+    * Bulk should connect to $V_{CC}$
+
+### "Complementary MOS"
+- Two MOSFET circuits are complementary when exactly one circuit conducts for any given permutation of inputs
+
+### CMOS and Inversion
+- Generally, MOS circuits are designed with a **pull-up circuit** and a **pull-down circuit**
+    * **Pull-up circuit** = composed of PFETs which conduct on 0
+    * **Pull-down circuit** = composed of NFETs which conduct on 1
+
+### Propogation Delay and Contamination Delay
+- **Propogation delay($T_{PD}$)** = the maximum amount of time a FET device will take to convert valid input to valid output
+- **Contamination delay($T_{CD}$)** = the minimum amount of time a FET device will take to produce an invalid output once an input becomes invalid
+    * Measure of gain?
+    * Why minimum?
