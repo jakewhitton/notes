@@ -216,3 +216,29 @@ $$ \overline{A} + \overline{B} = \overline{A \cdot B} $$
 
 ### Multiplexer
 - **Multiplexer** = a logical element that has a control bus which specifies what input to forward out to and output
+
+---
+
+# 2018-02-22
+
+## Memory and State
+- Future digital systems that we design should be capable of keeping **state**
+    * **State** = a specific configuration of internal memory
+- Specification of desired element
+    * Three terminals
+        1. **Next state** = input where feedback state is funneled
+        2. **Load/Write** = input that specifies whether next state should be written
+        3. **Current state** = output that specifies prior state
+
+### Using Capacitors
+- Use FET device to control access toa capacitor
+    * "Write" means access capacitor and charge the capacitor at a certain voltage
+    * "Read" means access capacitor and read voltage
+
+### Using Inverters
+- Use two inverters where the second inverter output feeds into the first inverter input in a perpetual loop
+    * Called **bistable storage element**
+    * State is kept continuously in the wire between the inverters
+
+### Using Muxes
+- **Latch** = a mux where output is fed back into one of the inputs
