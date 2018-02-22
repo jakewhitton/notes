@@ -120,7 +120,7 @@ done
 # Now, we need to check if the unit warrants an update
 if [ ! -f "${DIR}/master.md" ] || [ ! -z "`diff "${DIR}/master.md" "${tmp}/master.md"`" ] || [ $FORCE -eq 1 ]; then
 	echo "   Generating master document..."
-	pandocResult="`cd "$DIR"; pandoc -s -f markdown -o "${tmp}/master.pdf" --latex-engine=pdflatex "${tmp}/master.md" 2>&1`"
+	pandocResult="`cd "$DIR"; pandoc -s -f markdown -o "${tmp}/master.pdf" --pdf-engine=pdflatex "${tmp}/master.md" 2>&1`"
 	if [ -n "$pandocResult" ]; then
 		echo "ERROR: Pandoc failed to generate master pdf.  Unit directory has not been changed."
 		echo "$pandocResult"
