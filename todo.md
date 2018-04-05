@@ -1,26 +1,17 @@
 # TODO
 
-## AP Literature and Composition
-- Prufrock assignment
-- [SEE KEY DATES](./keydates.md)
+## 6.08
+- DE 1
+- DE 2
+- DE 3
+- DE 4
 
-## AP Macroeconomics
-- Participation packet
+## 6.004
+- Lab 4 due 2018-04-05
 
-## AP Psychology
-- Reinforcement worksheets
+## CC.1803
+- Pset 6 due 2018-04-12
 
-## AP Computer Science
-- None
-
-## AP Physics C: Electricity and Magnetism
-- None
-
-## Misc
-- Topics to research
-    * Vim(more advanced functionality and VimScript)
-    * Regex
-        + Primarily to improve the notes scripts
-    * Rust programming language
-    * Type theory
-        + Primarily for understanding the type system in Rust
+## 8.02
+- Pset 7 due 2018-04-04
+- Prepset 9 due 2018-04-06
