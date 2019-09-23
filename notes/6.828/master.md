@@ -144,3 +144,71 @@
   memory, the kernel can directly manipulate that state to implement
   optimizations and features
     * *e.g.* COW, lazy allocation, *etc*
+
+---
+
+# 2019-09-23
+
+# Virtual Memory 2: Electric Boogaloo
+- This lecture goes over some cool things that kernels can use virtual memory to
+  implement interesting operating system features
+
+## Page Table Entries (PTE)
+- **Page table entry** = an entry in a page table that stores information about
+  a page's physical page numbers and metadata (permissions, access data, *etc.*)
+    * These usually have empty space within so that OS's can place new metadata
+    that will only have meaning to that specific OS
+
+## Page Faults
+- **Page fault** = an event that is triggered by the MMU when a specific error
+  relating to the translation of a virtual address into a physical address
+    * How do we gather information about a page fault when it ocurrs?
+        + **scause register (Supervisor CAUSE)** = a register an integer that
+        stores the reason why a fault was triggered
+        + **stval register** = the virtual address that caused the page fault
+        + **User PC** = the program counter when the fault was triggered
+        + **SSTATUS** = the state of whether the fault ocurred in supervisor
+        mode or user mode
+- In general, page faults are our most versatile tool for implementing features
+  using virtual memory
+
+### Optimization: Lazy Allocation
+- Oftentimes, a user program will ask for way more memory than it actually needs
+    * **sbrk** = a syscall that asks the kernel to enlarge the heap region of
+    memory
+        + Technically, segmenting of a user address space can largely be managed
+        by the user process; however, using the syscall gives you the
+        convenience of checking for errors in growing the kernel
+- We can simply return immediately and then allocate pages as the user program
+  uses them
+    * Called **lazy allocation**
+    * The benefit is that in cases where a user program *doesn't* use all the memory
+    they ask for, the overhead of allocating all that space isn't incurred
+    * The downside is that in cases where a user program *does* use all the memory
+    they ask for, the overhead of faulting for each new incremental allocation
+    can be expensive
+
+### Optimization: Zero Pages
+- Many situations call for sections of zeroed-out memory, often set to read-only
+    * These often act as **guard pages**
+        + **Guard page** = a page that exists after or before some region of
+        memory that exists to cause a page fault if memory access strays beyond
+        the confines of the memory location
+            - *e.g.* the stack is surrounded by 
+- You can actually just allocate one physical page and alias every zero page to
+  point to that page
+    * This saves some amount of space that would otherwise be pointless to
+    allocate for every 
+    * If some user program does need to write to the zero page (assuming it
+    isn't intended as a guard page, you can use **copy on write (COW)** to
+    duplicate the physical page so that isolation is maintained
+        + **Copy on write (COW)** = an optimization technique where 
+            - Can also be used to optimize the fork syscall
+
+### Optimization: Demand Paging
+- Modern operating systems often support **dynamic linking**
+    * **Dynamic linking** = a system of making shared library code available to
+    different processes through loading in that binary data at runtime
+        + Oftentimes, shared object files are huge, and user programs only use
+        small parts of the library
+            - The kernel can page in parts of the shared object file as they're used
