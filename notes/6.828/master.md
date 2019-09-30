@@ -230,8 +230,17 @@
   categories, but can also refer specifically to exceptions
 
 ## Tale of a keyboard interrupt
+- The kernel has all kinds of facilities for setting what kinds of interrupts it
+  wants to handle and when
 - **driver** = some piece of kernel code that manages interactions with an I/O
   device
+    * Usually split into two conceptual parts
+        + **top** = the part of the driver that implements some syscall
+        interface for that device
+        + **bottom** = the part of the driver that handles interrupts from that
+        device
+        + Since the interrupts happen asynchrounously, some kind of
+        synchronization scheme is necessary within the two halves of a driver
 - Hardware for supporting interrupts
     * **sstatus** = supervisor status register
     * **sie** = supervisor interrupt enable register
@@ -239,3 +248,56 @@
     * **scause** = stores the information about the cause for the interrupt
     * **stvec** = stores the program counter to return to after handling the
     interrupt
+
+---
+
+# 2019-09-30
+
+# Multicore parallelism
+- Moore's law is beginning to break down
+    * Modern strategies to accelerate workloads involve parallelism in some form
+    or another
+- Modern OS's supply **synchronization primitives**
+    * **Synchronization primitive** = a syscall that alllows coordination of
+    access to program state or timing between user threads or between processes
+        + *e.g.* semaphores, mutex's, barriers, *etc.*
+
+## Lock granularity
+- **Coarse-grain locking** = a strategy for synchronization which involves
+  having a small set of locks that regulate a lot of concurrent code paths at
+  once
+    * Pros: easy to write, harder to disobey locking discipline
+    + Cons: many threads competing for one lock leads to poor throughput
+- **Fine-grain locking** = a strategy for synchronization which involves having
+  a large set of locks that aim to regulate a smaller set of competing threads
+    * Pros: faster
+    * Cons: harder to write
+    * *So, fine-grain locking is always the best strategy?*
+        + Well, no.  Sometimes, the overhead of parallelism is significant
+        enough in comparison to the benefits that a single threaded approach is
+        best
+            - It really depends on the specifics of the workload and the
+              hardware that you're running on
+
+## How do we write properly synchronized code?
+1. Write code that is semantically correct if serial execution is guaranteed
+2. Guarantee serial execution by inserting synchronization primitives
+    * In general, it's wise to start with coarser-grain locks and *then* move
+    towards finer grain locks if you observe that execution is bottlenecking in
+    a way that limits overall throughput of your system
+        + `Premature optimization is the greatest evil`
+
+## How do operating systems implement locks
+- Naive approach doesn't work, because C doesn't have a facility for making sure
+- Copilers and CPUs can actually reorder
+    * **Memory model** = a set of legal modifications to a program's access pattern
+      of memory
+        + RISC-V has a very relaxed memory model, which permits all kinds of
+        reordering
+- In order to sidestep thene memory reorders, instruction sets usually provide
+  **atomic instructions**
+    * **Atomic instructions** = an instruction in an ISA can read from memory,
+    perform an operation, and then write to memory, all atomically
+        + *e.g.* SWAP
+    * **Fence** = a RISC-V instruction that imposes constraints on the
+    reordering of memory accesses
