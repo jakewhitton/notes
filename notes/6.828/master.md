@@ -212,3 +212,30 @@
         + Oftentimes, shared object files are huge, and user programs only use
         small parts of the library
             - The kernel can page in parts of the shared object file as they're used
+
+---
+
+# 2019-09-25
+
+# Wherefore art thou, context switch?
+- In general, times when a user program is interrupted are split into three
+  categories
+    1. Exceptions = *unintended* interruptions that happen because what is
+    happening in the user program
+    2. System calls = *intended* interruptions that happen because what is
+    happening in the user program
+    3. Interrupts = interruptions that happen because of some peripheral event
+    that has nothing to do with what is happening in the user program
+- **trap** = a term that sometimes refer to any one of of these three
+  categories, but can also refer specifically to exceptions
+
+## Tale of a keyboard interrupt
+- **driver** = some piece of kernel code that manages interactions with an I/O
+  device
+- Hardware for supporting interrupts
+    * **sstatus** = supervisor status register
+    * **sie** = supervisor interrupt enable register
+    * **sip** = interrupt pending register
+    * **scause** = stores the information about the cause for the interrupt
+    * **stvec** = stores the program counter to return to after handling the
+    interrupt
