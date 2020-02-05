@@ -1,0 +1,12 @@
+# 2020-02-05
+
+# Meet the 8051
+- Some iterations of the 8051 have included ROM/RAM, some don't
+- Upon powering on, the 8051 will fetch the first instruction from the ROM
+
+## Special Function Registerstt
+
+## Memory bank switching
+- Some 8051s have an additional 128 bytes of RAM which can be accessed using a
+"indirect address" syntax, where the requested address is placed in a spare
+register and prepend the register name with an @ to access the memory address
