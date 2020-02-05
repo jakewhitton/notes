@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # This variable declaration occurrs in three places: genmaster, ugenmaster, and ${REPO_DIR}/conf/settings.sh
-REPO_DIR="/home/jake/notes"
+REPO_DIR="/home/jake/programming/repos/notes"
 
 # Pull in configuration settings in ${REPO_DIR}/conf/settings.sh
 # Source file that contains definitions for NOTES_DIR and UNIT_BLACKLIST

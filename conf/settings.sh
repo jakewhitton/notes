@@ -4,7 +4,7 @@
 # REPO_DIR: the absolute path to the _root_ of your git repo that stores your everything
 # NOTE: This isn't the "notes" folder where ugenmaster searches for units; this is the folder where the .git directory is located
 # NOTE: If you change this here, you must also change it in genmaster and ugenmaster.  The reason for this is so that genmaster and ugenmaster can locate configuration settings as well as units if they're placed in /usr/bin or something similar
-REPO_DIR="/home/jake/notes"
+REPO_DIR="/home/jake/programming/repos/notes"
 
 # NOTES_DIR: the directory under which all units will be stored
 NOTES_DIR="${REPO_DIR}/notes"
