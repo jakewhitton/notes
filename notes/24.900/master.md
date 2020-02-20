@@ -34,3 +34,24 @@
         audio signal to a series of discrete units
         + Importantly, all vocal languages have some concept of a **word**,
         because it's conceptually the only way the lexicon can grow
+
+---
+
+# 2020-02-20
+
+## Cranberry Morpheme
+- **Cranberry morpheme** = a bound morpheme that communicates no semantic or
+  grammatical meaning
+    * Also called a **fossilized term**
+- In some situations, words come into the language with several morphemes, but
+  the meaning of the constituent morphemes gets muddled over time
+    * *e.g.*
+        + re-ceive  $\rightarrow$ re-cept-ion
+        + per-ceive $\rightarrow$ per-cept-ion
+        + de-ceieve $\rightarrow$ de-cept-ion
+        + sub-mit $\rightarrow$ sub-miss-ion
+        + e-mit $\rightarrow$ e-miss-ion
+        + trans-mit $\rightarrow$ trans-miss-ion
+    * The fact that ceive $\rightarrow$ cept and mit $\rightarrow$ miss suggests
+    that they are independent morphemes, since it is evidence of them having
+    allomorphs
