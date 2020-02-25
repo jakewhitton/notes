@@ -88,3 +88,30 @@ port:
 optionally enable 9-bit transmission)
 - **TMOD** configures timers 1 and 0, setting modes about interrupts
 - **TCON** configures more information about interrupts
+
+---
+
+# 2020-02-25
+
+## Interrupts
+
+Interrupts are used to briefly transfer execution to a handler routine when some
+event happens.  Each interrupt corresponds to a location in the **interrupt
+vector**, which is just a region in memory where interrupt sources are
+programmed to jump to.
+
+### Polling vs Interrupts
+
+Choosing whether to deal with I/O using polling or interrupts is a trade-off
+involving overhead and latency.  For very frequent events, polling is usually
+wiser, because the overhead of the effective function call that is done to save
+the return address.  For infrequnet events, that overhead is negligible compared
+to the overhead you would spend polling, especially if you need a low latency.
+
+### Timing of interrupts
+
+An interrupt will not be accepted iff
+
+- A higher priority ISR is being executed
+- The current instruction being executed is a RETI
+- The current instruction isn't on the last machine cycle of that instruction
